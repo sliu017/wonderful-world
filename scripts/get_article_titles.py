@@ -11,7 +11,8 @@ PARAMS = {
     "action": "parse",
     "format": "json",
     "page": "Wikipedia:Unusual articles",
-    "prop": "text"
+    "prop": "text",
+    "pllimit": "max",
 }
 
 R = requests.get(url=URL, params=PARAMS, headers=HEADERS)
@@ -42,3 +43,5 @@ print(f"Found {len(deduped)} bolded article links")
 
 with open("unusual_articles.json", "w") as f:
     json.dump(deduped, f, indent=4)
+
+
