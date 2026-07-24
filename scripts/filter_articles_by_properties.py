@@ -81,6 +81,7 @@ def main():
 
     good_group = {} # qid -> {"title": ..., "coords": {lat, lng}, "source_prop": prop}
     needs_second_hop = {} # qid -> sub_qid to resolve 
+    no_location_data = {} # qid -> title, for articles that have no location properties at all (pass to NER, see what it can do)
 
     for qid, entity in all_entities.items():
         claims = entity.get("claims", {})
@@ -101,6 +102,9 @@ def main():
                 "sub_qid": sub_qid,
                 "source_prop": first_prop
             }
+        else:
+            no_location_data[qid] = title
+
 
     print(f"Direct coordinates: {len(good_group)}")
     print(f"Need second-hop resolution: {len(needs_second_hop)}")
@@ -143,14 +147,17 @@ def main():
         json.dump(good_group, f, indent=4, ensure_ascii=False)
 
     still_unresolved = {
-        info["title"]: info for qid, info in needs_second_hop.items()
+        # drop the article/prop info to match the articles with no location data
+        # (just qid -> title)
+        qid: info["title"] for qid, info in needs_second_hop.items()
         if qid not in good_group
     }
+    still_unresolved.update(no_location_data)
+
     with open("run_through_ner.json", "w", encoding="utf-8") as f:
         json.dump(still_unresolved, f, indent=4, ensure_ascii=False)
 
     print(f"Falling through to NER: {len(still_unresolved)}")
-
 
 if __name__ == "__main__":
     main()
