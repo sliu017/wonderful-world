@@ -2,10 +2,12 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
+# Script to obtain all article titles from the "list of unusual articles" page 
+# Sent to ./unusual_articles.json 
 HEADERS = {
     "User-Agent": "Wonderful World Project/0.1 (https://github.com/sliu017)"
 }
-URL = "https://en.wikipedia.org/w/api.php"
+WD_URL = "https://en.wikipedia.org/w/api.php"
 
 PARAMS = {
     "action": "parse",
@@ -15,7 +17,7 @@ PARAMS = {
     "pllimit": "max",
 }
 
-R = requests.get(url=URL, params=PARAMS, headers=HEADERS)
+R = requests.get(url=WD_URL, params=PARAMS, headers=HEADERS)
 DATA = R.json()
 
 html_content = DATA["parse"]["text"]["*"]

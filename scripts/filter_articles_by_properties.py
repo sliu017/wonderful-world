@@ -2,7 +2,11 @@ import json
 import requests
 import time
 
-
+# Script to find location properties for all unusual articles
+# First try to find direct coordinates, and if that fails, hop through internally linked articles to try again
+# Sent to ./good_group.json
+# If that second pass fails, send to NER
+# Sent to ./run_through_ner.json
 HEADERS = {
     "User-Agent": "Wonderful World Project/0.1 (https://github.com/sliu017)"
 }
@@ -66,7 +70,7 @@ def batched(items, batch_size):
     return res
 
 def main():
-    with open("./unusual_articles.json") as f:
+    with open("./unusual_articles.json", "r") as f:
         titles = json.load(f)
 
     # from the entire list of unusual articles
