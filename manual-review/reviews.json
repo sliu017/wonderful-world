@@ -1,0 +1,1193 @@
+{
+  "good:Q16896007": {
+    "lat": 0,
+    "lng": 0,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T00:37:33.340Z"
+  },
+  "good:Q123577560": {
+    "lat": 9.049444444444445,
+    "lng": 7.516388888888889,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:00:11.291Z"
+  },
+  "good:Q105702255": {
+    "lat": 14.274055555555556,
+    "lng": -16.88986111111111,
+    "blurb": "Planned \"Real-life Wakanda\" based on blockchain and cryptocurrency",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Akon_City_construction_site.png/330px-Akon_City_construction_site.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/f/f9/Akon_City_construction_site.png",
+      "filePage": "https://en.wikipedia.org/wiki/File:Akon_City_construction_site.png",
+      "license": "CC-BY-3.0",
+      "attribution": "SENEGO TV, CC-BY-3.0, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:03:03.544Z"
+  },
+  "good:Q620634": {
+    "lat": 21.870555555556,
+    "lng": 33.737222222222,
+    "blurb": "An area of claimed strangely claimed by neither country it borders",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Topographic_Map_of_Bir_Tawil.png/330px-Topographic_Map_of_Bir_Tawil.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Topographic_Map_of_Bir_Tawil.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Topographic_Map_of_Bir_Tawil.png",
+      "license": "CC0",
+      "attribution": "Maps-For-Free.com, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:05:49.245Z"
+  },
+  "good:Q4929048": {
+    "lat": 28.639722222222,
+    "lng": 34.560833333333,
+    "blurb": "One man and a dream of peace, with lots of blue paint",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blue_Desert%2C_Sinai%2C_Egypt.jpg/330px-Blue_Desert%2C_Sinai%2C_Egypt.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Blue_Desert%2C_Sinai%2C_Egypt.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Blue_Desert,_Sinai,_Egypt.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Ibrahim.ID, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:06:55.495Z"
+  },
+  "good:Q895056": {
+    "lat": -34.197,
+    "lng": 18.451,
+    "blurb": "A colony of critically endangered African penguins",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boulders_Beach_Suedafrika.jpg/330px-Boulders_Beach_Suedafrika.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boulders_Beach_Suedafrika.jpg/3840px-Boulders_Beach_Suedafrika.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:07:41.227Z"
+  },
+  "good:Q2911837": {
+    "lat": -12.28333333,
+    "lng": 28.56666667,
+    "blurb": "A geographically peculiar area of the Democratic Republic of the Congo",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/LocationZambia.svg/330px-LocationZambia.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/LocationZambia.svg/1280px-LocationZambia.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:09:42.397Z"
+  },
+  "good:Q590742": {
+    "lat": 14.241666666667,
+    "lng": 40.3,
+    "blurb": "One of the most acidic and beautiful places on Earth",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ET_Afar_asv2018-01_img48_Dallol.jpg/330px-ET_Afar_asv2018-01_img48_Dallol.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ET_Afar_asv2018-01_img48_Dallol.jpg/3840px-ET_Afar_asv2018-01_img48_Dallol.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:10:23.474Z"
+  },
+  "good:Q31347745": {
+    "lat": 14.213083333333,
+    "lng": 40.321472222222,
+    "blurb": "The saltiest body of water on Earth",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ET_Afar_asv2018-01_img58_Dallol.jpg/330px-ET_Afar_asv2018-01_img58_Dallol.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ET_Afar_asv2018-01_img58_Dallol.jpg/3840px-ET_Afar_asv2018-01_img58_Dallol.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "A. Savin, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:11:16.776Z"
+  },
+  "good:Q5564105": {
+    "lat": -1.3756,
+    "lng": 36.7447,
+    "blurb": "A hotel where you can dine with giraffes",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Giraffe_Manor%2C_Nairobi%2C_Kenya.jpg/330px-Giraffe_Manor%2C_Nairobi%2C_Kenya.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Giraffe_Manor%2C_Nairobi%2C_Kenya.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Giraffe_Manor,_Nairobi,_Kenya.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Push the button, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:11:54.889Z"
+  },
+  "good:Q216876": {
+    "lat": -19.592472,
+    "lng": 17.933667,
+    "blurb": "Largest chunk of meteorite in the world",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hoba_meteorite_%2815682150765%29.jpg/330px-Hoba_meteorite_%2815682150765%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hoba_meteorite_%2815682150765%29.jpg/3840px-Hoba_meteorite_%2815682150765%29.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:12:45.592Z"
+  },
+  "good:Q7401347": {
+    "lat": -15.9256,
+    "lng": -5.7192,
+    "blurb": "One very steep ladder",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jamestown_Jacobs_Ladder.jpg/330px-Jamestown_Jacobs_Ladder.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Jamestown_Jacobs_Ladder.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Jamestown_Jacobs_Ladder.jpg",
+      "license": "Public domain",
+      "attribution": "Deusdixital, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:13:18.791Z"
+  },
+  "good:Q3743182": {
+    "lat": 8.035371398973997,
+    "lng": 4.6491440918634295,
+    "blurb": "A small compound that declared itself independent from Nigeria - to devastating consequences",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:14:22.991Z"
+  },
+  "good:Q332628": {
+    "lat": 6.4380555555556,
+    "lng": 10.298888888889,
+    "blurb": "A lake that killed thousands, without any of them touching its waters",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nyos_Lake.jpg/330px-Nyos_Lake.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nyos_Lake.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Nyos_Lake.jpg",
+      "license": "Public domain",
+      "attribution": "Jack Lockwood, USGS, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:16:34.526Z"
+  },
+  "good:Q1522557": {
+    "lat": 14.838888888889,
+    "lng": -17.234444444444,
+    "blurb": "A Senegalese lake famous for its unique color",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/RetbaLakeShore.jpg/330px-RetbaLakeShore.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/RetbaLakeShore.jpg/3840px-RetbaLakeShore.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Jjm2311, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:17:18.005Z"
+  },
+  "good:Q802901": {
+    "lat": 21.29799,
+    "lng": -13.0476,
+    "blurb": "The entire rail system of Mauritania",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Map_Mauritania_Railway.png/330px-Map_Mauritania_Railway.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Map_Mauritania_Railway.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Map_Mauritania_Railway.png",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Vuxi, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:17:55.958Z"
+  },
+  "good:Q26761": {
+    "lat": -1.3944444444444,
+    "lng": 13.160833333333,
+    "blurb": "All-natural nuclear reactors",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gabon_Geology_Oklo.svg/330px-Gabon_Geology_Oklo.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gabon_Geology_Oklo.svg/1280px-Gabon_Geology_Oklo.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "MesserWoland, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:18:34.835Z"
+  },
+  "good:Q7128887": {
+    "lat": -8.812152,
+    "lng": 13.235713,
+    "blurb": "Legend has it that Gustave Eiffel himself designed this mysterious building",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pal%C3%A1cio_de_Ferro.jpg/330px-Pal%C3%A1cio_de_Ferro.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pal%C3%A1cio_de_Ferro.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_de_Ferro.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Zorglub, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:19:12.870Z"
+  },
+  "good:Q191146": {
+    "lat": 35.172222222222224,
+    "lng": -4.299722222222222,
+    "blurb": "This rock off the Moroccan coast is actually owned by Spain",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Velez_de_la_Gomera.jpg/330px-Velez_de_la_Gomera.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Velez_de_la_Gomera.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Velez_de_la_Gomera.jpg",
+      "license": "Public domain",
+      "attribution": "Ignacio Gavira, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:20:18.272Z"
+  },
+  "good:Q1108659": {
+    "lat": 6.4499982,
+    "lng": 7.499998,
+    "blurb": "State that lasted a grand total of seven hours",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_the_Republic_of_Benin_%281967%29.svg/330px-Flag_of_the_Republic_of_Benin_%281967%29.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_the_Republic_of_Benin_%281967%29.svg/500px-Flag_of_the_Republic_of_Benin_%281967%29.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:20:47.240Z"
+  },
+  "good:Q82859": {
+    "lat": 12.51,
+    "lng": 53.92,
+    "blurb": "The most alien-looking place on Earth, where cucumbers grow on trees",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Socotra_satview.jpg/330px-Socotra_satview.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Socotra_satview.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Socotra_satview.jpg",
+      "license": "Public domain",
+      "attribution": "Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:21:38.187Z"
+  },
+  "good:Q234208": {
+    "lat": -15.892222222222,
+    "lng": 54.524722222222,
+    "blurb": "This tiny island was the site of a humanitarian crisis that fueled the abolitionist movement",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/330px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/500px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:23:35.353Z"
+  },
+  "good:Q7755764": {
+    "lat": -31.8675,
+    "lng": 24.5528,
+    "blurb": "A constructed fantasy world, unrelated to the Disney series",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Owl_house_2003_18.JPG/330px-Owl_house_2003_18.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Owl_house_2003_18.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Owl_house_2003_18.JPG",
+      "license": "CC BY 2.5",
+      "attribution": "Robin Tweedie, CC BY 2.5, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:24:42.680Z"
+  },
+  "good:Q1021583": {
+    "lat": 0.633333,
+    "lng": 37.6333,
+    "blurb": "A matriarchal society formed as a sanctuary",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Paulina_et_Margaret.jpg/330px-Paulina_et_Margaret.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Paulina_et_Margaret.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Paulina_et_Margaret.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Jean Crousillac (Manta Productions), CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:25:23.720Z"
+  },
+  "good:Q885118": {
+    "lat": -77.72219444444444,
+    "lng": 162.27344444444444,
+    "blurb": "The name truly says it all",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Blood_Falls_by_Peter_Rejcek.jpg/330px-Blood_Falls_by_Peter_Rejcek.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Blood_Falls_by_Peter_Rejcek.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Blood_Falls_by_Peter_Rejcek.jpg",
+      "license": "Public domain",
+      "attribution": "National Science Foundation/Peter Rejcek, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:25:38.742Z"
+  },
+  "good:Q89453779": {
+    "lat": -63.32083333333333,
+    "lng": -57.8875,
+    "blurb": "Yep, it reached here too",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/COVID-19_Cases_in_Antarctica_%28en%29.svg/330px-COVID-19_Cases_in_Antarctica_%28en%29.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/COVID-19_Cases_in_Antarctica_%28en%29.svg/960px-COVID-19_Cases_in_Antarctica_%28en%29.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "魔琴, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:26:19.184Z"
+  },
+  "good:Q1368174": {
+    "lat": -63.396959,
+    "lng": -56.998054,
+    "blurb": "The only civilian settlement on Antarctica",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hope_Bay-2016-Trinity_Peninsula%E2%80%93Esperanza_Station_03.jpg/330px-Hope_Bay-2016-Trinity_Peninsula%E2%80%93Esperanza_Station_03.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hope_Bay-2016-Trinity_Peninsula%E2%80%93Esperanza_Station_03.jpg/3840px-Hope_Bay-2016-Trinity_Peninsula%E2%80%93Esperanza_Station_03.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Andrew Shiva, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:27:58.892Z"
+  },
+  "good:Q2114101": {
+    "lat": -53.104166666667,
+    "lng": 73.516944444444,
+    "blurb": "Believe it or not, the highest mountain in Australia is in fact here",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Heard_Island_%28cropped%29.jpg/330px-Heard_Island_%28cropped%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Heard_Island_%28cropped%29.jpg/3840px-Heard_Island_%28cropped%29.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Tristannew, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:28:50.062Z"
+  },
+  "good:Q571433": {
+    "lat": -77.466666666667,
+    "lng": 162.51666666667,
+    "blurb": "An area undergoing a two million year drought",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mcmurdo_sound_USGS_map.jpg/330px-Mcmurdo_sound_USGS_map.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mcmurdo_sound_USGS_map.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mcmurdo_sound_USGS_map.jpg",
+      "license": "Public domain",
+      "attribution": "Meile, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:29:20.644Z"
+  },
+  "good:Q745767": {
+    "lat": -80,
+    "lng": -120,
+    "blurb": "To this day, the largest completely unclaimed area of our planet",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Marie_Byrd_Land_in_Antarctica.svg/330px-Marie_Byrd_Land_in_Antarctica.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Marie_Byrd_Land_in_Antarctica.svg/1280px-Marie_Byrd_Land_in_Antarctica.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:30:24.001Z"
+  },
+  "good:Q252609": {
+    "lat": -72,
+    "lng": 5,
+    "blurb": "Nazi Germany claimed parts of Antarctica... for some reason",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/NewSwabiaMap.jpg/330px-NewSwabiaMap.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/NewSwabiaMap.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:NewSwabiaMap.jpg",
+      "license": "CC BY-SA 2.5",
+      "attribution": "Thomas Blomberg, CC BY-SA 2.5, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:30:53.707Z"
+  },
+  "good:Q1469788": {
+    "lat": -82.1,
+    "lng": 54.9667,
+    "blurb": "A Soviet research station completely buried under snow... except for a statue of Lenin",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Southern_Pole_of_Inaccessibility_Henry_Cookson_team_n2i.jpg/330px-Southern_Pole_of_Inaccessibility_Henry_Cookson_team_n2i.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Southern_Pole_of_Inaccessibility_Henry_Cookson_team_n2i.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Southern_Pole_of_Inaccessibility_Henry_Cookson_team_n2i.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Cookson69 at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:31:28.351Z"
+  },
+  "good:Q2745332": {
+    "lat": -62.2002,
+    "lng": -58.9641,
+    "blurb": "An extremely remote town near Antarctica",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Villa-Las-Estrellas-Antarctica.JPG/330px-Villa-Las-Estrellas-Antarctica.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Villa-Las-Estrellas-Antarctica.JPG/3840px-Villa-Las-Estrellas-Antarctica.JPG",
+      "filePage": "",
+      "license": "",
+      "attribution": "SnowSwan, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:32:33.727Z"
+  },
+  "good:Q1203470": {
+    "lat": 39.984749,
+    "lng": 116.487871,
+    "blurb": "Old military factories, now the heart of the Beijing art world",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Beijing_798_Art_District.jpg/330px-Beijing_798_Art_District.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Beijing_798_Art_District.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Beijing_798_Art_District.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Cory M. Grenier, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:33:31.038Z"
+  },
+  "good:Q11661371": {
+    "lat": 33.736111,
+    "lng": 132.487222,
+    "blurb": "An island with 36x more cats than people",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Iyo-Aoshima_Island_Aerial_photograph.jpg/330px-Iyo-Aoshima_Island_Aerial_photograph.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Iyo-Aoshima_Island_Aerial_photograph.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Iyo-Aoshima_Island_Aerial_photograph.jpg",
+      "license": "Attribution",
+      "attribution": "Copyright © National Land Image Information (Color Aerial Photographs), Ministry of Land, Infrastructure, Transport and Tourism, Attribution, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:33:52.665Z"
+  },
+  "good:Q514729": {
+    "lat": 40.646111111111,
+    "lng": 45.515555555556,
+    "blurb": "An Armenian village completely surrounded and controlled by Azerbaijan",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D0%B4_%D0%B2_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B5.jpg/330px-%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D0%B4_%D0%B2_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B5.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D0%B4_%D0%B2_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B5.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D0%B4_%D0%B2_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B5.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Asif Masimov, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:34:25.142Z"
+  },
+  "good:Q123266032": {
+    "lat": 14.6565,
+    "lng": 120.982975,
+    "blurb": "An area with zero residents, but 210 voters",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BonifacioMonumentjf9868_03.JPG/330px-BonifacioMonumentjf9868_03.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BonifacioMonumentjf9868_03.JPG/3840px-BonifacioMonumentjf9868_03.JPG",
+      "filePage": "",
+      "license": "",
+      "attribution": "Ramon FVelasquez, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:35:11.857Z"
+  },
+  "good:Q19839934": {
+    "lat": 16.35361111,
+    "lng": 120.49,
+    "blurb": "The Filipino Mount Rushmore which blew up",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Bust_of_Ferdinand_Marcos.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Bust_of_Ferdinand_Marcos.jpg",
+      "filePage": "https://en.wikipedia.org/wiki/File:Bust_of_Ferdinand_Marcos.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:35:51.312Z"
+  },
+  "good:Q498293": {
+    "lat": 37.933,
+    "lng": 126.725,
+    "blurb": "\"The most dangerous hole in golf\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CampBonifas1.jpg/330px-CampBonifas1.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CampBonifas1.jpg/3840px-CampBonifas1.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Edward N. Johnson, U.S. Army Public Affairs Officer - U.S. Army, Installation Management Command, Korea Region, Public Affairs Office, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:36:33.425Z"
+  },
+  "good:Q2956442": {
+    "lat": 13.7482,
+    "lng": 100.547,
+    "blurb": "Also known as Penis Shrine",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chao_Mae_Tuptim-002.jpg/330px-Chao_Mae_Tuptim-002.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chao_Mae_Tuptim-002.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Chao_Mae_Tuptim-002.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Ddalbiez, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:36:48.736Z"
+  },
+  "good:Q31063": {
+    "lat": -10.49,
+    "lng": 105.6275,
+    "blurb": "Isolated island with unique wildlife and many, many crabs",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/330px-Flag_of_Christmas_Island.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/960px-Flag_of_Christmas_Island.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Tony Couch, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:37:56.313Z"
+  },
+  "good:Q1764787": {
+    "lat": 26.149911111111,
+    "lng": 88.762161111111,
+    "blurb": "A piece of India within a piece of Bangladesh within a piece of India within a piece of Bangladesh",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dahala_Khagrabari_English.svg/330px-Dahala_Khagrabari_English.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dahala_Khagrabari_English.svg/960px-Dahala_Khagrabari_English.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Colohisto, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:38:54.932Z"
+  },
+  "good:Q70458": {
+    "lat": 40.25263,
+    "lng": 58.43939,
+    "blurb": "Locals call it the Gates of Hell",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Darvasa_gas_crater_panorama.jpg/330px-Darvasa_gas_crater_panorama.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Darvasa_gas_crater_panorama.jpg/3840px-Darvasa_gas_crater_panorama.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Tormod Sandtorv, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:39:16.764Z"
+  },
+  "good:Q5269505": {
+    "lat": 34.98027778,
+    "lng": 33.74583333,
+    "blurb": "This Cypriot power plant provides energy to the British",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dhekelia_Power_Station.jpg/330px-Dhekelia_Power_Station.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dhekelia_Power_Station.jpg/3840px-Dhekelia_Power_Station.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "eLNuko, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:40:09.690Z"
+  },
+  "good:Q204403": {
+    "lat": 65.76687,
+    "lng": -168.99445,
+    "blurb": "Two islands, two miles between them, 21 hours apart",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BeringSt-close-VE.jpg/330px-BeringSt-close-VE.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/BeringSt-close-VE.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:BeringSt-close-VE.jpg",
+      "license": "Public domain",
+      "attribution": "NASA, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:40:43.596Z"
+  },
+  "good:Q3014063": {
+    "lat": 30.961667,
+    "lng": 46.105278,
+    "blurb": "The first museum in the world",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ur-Nassiriyah.jpg/330px-Ur-Nassiriyah.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ur-Nassiriyah.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ur-Nassiriyah.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "M.Lubinski from Iraq,USA., CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:40:55.960Z"
+  },
+  "good:Q135645069": {
+    "lat": 37.853,
+    "lng": 139.715,
+    "blurb": "A hiking trail known as \"the umbilical cord\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mt._Iide_Sando.JPG/330px-Mt._Iide_Sando.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Mt._Iide_Sando.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mt._Iide_Sando.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Qwert1234, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:41:21.329Z"
+  },
+  "good:Q219986": {
+    "lat": 28.046944444444,
+    "lng": 90.455,
+    "blurb": "The tallest unclimbed mountain, due to the Bhutanese government",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gangkhar_puensum_summit.JPG/330px-Gangkhar_puensum_summit.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gangkhar_puensum_summit.JPG/3840px-Gangkhar_puensum_summit.JPG",
+      "filePage": "",
+      "license": "",
+      "attribution": "Gradythebadger, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:42:02.920Z"
+  },
+  "good:Q850547": {
+    "lat": 34.698031,
+    "lng": 135.489529,
+    "blurb": "A highway passes straight through this office building",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Building_penetrated_by_an_expressway_001_OSAKA_JPN.jpg/330px-Building_penetrated_by_an_expressway_001_OSAKA_JPN.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Building_penetrated_by_an_expressway_001_OSAKA_JPN.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Building_penetrated_by_an_expressway_001_OSAKA_JPN.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "ignis, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:42:29.590Z"
+  },
+  "good:Q18125416": {
+    "lat": 23.1775,
+    "lng": 114.326,
+    "blurb": "An attempt to recreate a charming Austrian town in China",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hallstatt-china.jpg/330px-Hallstatt-china.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hallstatt-china.jpg/3840px-Hallstatt-china.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Hanno Block, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:42:55.064Z"
+  },
+  "good:Q5638290": {
+    "lat": 37.26888889,
+    "lng": 129.32638889,
+    "blurb": "A park known for its many, many penis statues",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Haesindang_Park%2C_South_Korea.jpg/330px-Haesindang_Park%2C_South_Korea.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Haesindang_Park%2C_South_Korea.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Haesindang_Park,_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Steven16091984, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:43:31.186Z"
+  },
+  "good:Q17219690": {
+    "lat": 35.68961111,
+    "lng": 139.71297222,
+    "blurb": "!!!ADULT This unassuming apartment building is infamous in Japan for certain reasons",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hanazono_Room_appearance.jpg/330px-Hanazono_Room_appearance.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Hanazono_Room_appearance.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Hanazono_Room_appearance.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "湖の国の王子, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:44:21.704Z"
+  },
+  "good:Q1171693": {
+    "lat": 11.934722222222,
+    "lng": 108.43063888889,
+    "blurb": "A fairy tale house",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/HangNgaCrazyHouse3.jpg/330px-HangNgaCrazyHouse3.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/HangNgaCrazyHouse3.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:HangNgaCrazyHouse3.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Kelisi, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:44:46.835Z"
+  },
+  "good:Q23729074": {
+    "lat": 23.37786111,
+    "lng": 120.14875,
+    "blurb": "Is that where the glass slipper went?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%E9%AB%98%E8%B7%9F%E9%9E%8B%E6%95%99%E5%A0%82.jpg/330px-%E9%AB%98%E8%B7%9F%E9%9E%8B%E6%95%99%E5%A0%82.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/%E9%AB%98%E8%B7%9F%E9%9E%8B%E6%95%99%E5%A0%82.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E8%B7%9F%E9%9E%8B%E6%95%99%E5%A0%82.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Accord14, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:45:53.572Z"
+  },
+  "good:Q4316031": {
+    "lat": 31.77825874490101,
+    "lng": 35.22982680568696,
+    "blurb": "This ladder has guarantees from six different religious groups, over 300 years",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Immovable_ladder_on_ledge_over_entrance_to_Church_of_the_Holy_Sepulchre.jpg/330px-Immovable_ladder_on_ledge_over_entrance_to_Church_of_the_Holy_Sepulchre.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Immovable_ladder_on_ledge_over_entrance_to_Church_of_the_Holy_Sepulchre.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Immovable_ladder_on_ledge_over_entrance_to_Church_of_the_Holy_Sepulchre.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Seetheholyland.net, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:46:49.484Z"
+  },
+  "good:Q55733959": {
+    "lat": 35.632777777777775,
+    "lng": 127.3013888888889,
+    "blurb": "That's one way to drive tourism.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Imsilgun_County_04_%2816597675160%29.jpg/330px-Imsilgun_County_04_%2816597675160%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Imsilgun_County_04_%2816597675160%29.jpg/3840px-Imsilgun_County_04_%2816597675160%29.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Republic of Korea from Seoul, Republic of Korea, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:47:26.077Z"
+  },
+  "good:Q6117151": {
+    "lat": 40.4575,
+    "lng": 115.76333333333334,
+    "blurb": "A resort based on the similarly named Wyoming town",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%E5%8E%9F%E4%B9%A1%E7%BE%8E%E5%88%A9%E5%9D%9A%E5%88%AB%E5%A2%85_-_Jackson_Hole_-_2013.06_-_panoramio.jpg/330px-%E5%8E%9F%E4%B9%A1%E7%BE%8E%E5%88%A9%E5%9D%9A%E5%88%AB%E5%A2%85_-_Jackson_Hole_-_2013.06_-_panoramio.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%E5%8E%9F%E4%B9%A1%E7%BE%8E%E5%88%A9%E5%9D%9A%E5%88%AB%E5%A2%85_-_Jackson_Hole_-_2013.06_-_panoramio.jpg/3840px-%E5%8E%9F%E4%B9%A1%E7%BE%8E%E5%88%A9%E5%9D%9A%E5%88%AB%E5%A2%85_-_Jackson_Hole_-_2013.06_-_panoramio.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "rheins, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:48:07.621Z"
+  },
+  "good:Q3827773": {
+    "lat": 25.1149,
+    "lng": 92.9437,
+    "blurb": "Where birds disappear under mysterious circumstances",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:48:37.248Z"
+  },
+  "good:Q11723502": {
+    "lat": 53.380463,
+    "lng": 124.08445,
+    "blurb": "How did Poles and Ukrainians find their way here?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-Amur-2572.jpg/330px-CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-Amur-2572.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-Amur-2572.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-Amur-2572.jpg",
+      "license": "Public domain",
+      "attribution": "Jean Baptiste Bourguignon d'Anville, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:50:16.655Z"
+  },
+  "good:Q7730": {
+    "lat": 48.478611,
+    "lng": 132.139167,
+    "blurb": "Despite its name, only 0.6% of this oblast's population is Jewish",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_the_Jewish_Autonomous_Oblast.svg/330px-Flag_of_the_Jewish_Autonomous_Oblast.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_the_Jewish_Autonomous_Oblast.svg/500px-Flag_of_the_Jewish_Autonomous_Oblast.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Philippe Verdy, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:50:54.825Z"
+  },
+  "good:Q121327032": {
+    "lat": 34.5315,
+    "lng": 69.1729,
+    "blurb": "Two guys who really couldn't stand each other.",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:51:48.900Z"
+  },
+  "good:Q134720448": {
+    "lat": 14.637,
+    "lng": 121.0421,
+    "blurb": "Mockingly nicknamed the \"stairway to heaven\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EDSA_Scout_Borromeo-NIA_South_Footbridge_%28Quezon_City%3B_03-21-2021%29.jpg/330px-EDSA_Scout_Borromeo-NIA_South_Footbridge_%28Quezon_City%3B_03-21-2021%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/EDSA_Scout_Borromeo-NIA_South_Footbridge_%28Quezon_City%3B_03-21-2021%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:EDSA_Scout_Borromeo-NIA_South_Footbridge_(Quezon_City;_03-21-2021).jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "patrickroque01, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:52:19.470Z"
+  },
+  "good:Q15233884": {
+    "lat": 27.79055556,
+    "lng": 73.34083333,
+    "blurb": "A temple renowned for its worship of 25,000 rats",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20191212_%C5%9Awi%C4%85tynia_Karni_Maty_w_De%C5%9Bnok_1031_8078_DxO.jpg/330px-20191212_%C5%9Awi%C4%85tynia_Karni_Maty_w_De%C5%9Bnok_1031_8078_DxO.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20191212_%C5%9Awi%C4%85tynia_Karni_Maty_w_De%C5%9Bnok_1031_8078_DxO.jpg/3840px-20191212_%C5%9Awi%C4%85tynia_Karni_Maty_w_De%C5%9Bnok_1031_8078_DxO.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Jakob Halun, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:53:02.709Z"
+  },
+  "good:Q2504719": {
+    "lat": 32.653055555555554,
+    "lng": 73.01,
+    "blurb": "Salt mine allegedly discovered not by Alexander the Great, but by his horses",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg/330px-Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Shikari7, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:53:46.159Z"
+  },
+  "good:Q494593": {
+    "lat": 37.94528,
+    "lng": 126.65556,
+    "blurb": "A fake village constantly blasting propaganda",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/North_Korean_village_Kijong-dong.JPEG/330px-North_Korean_village_Kijong-dong.JPEG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/North_Korean_village_Kijong-dong.JPEG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:North_Korean_village_Kijong-dong.JPEG",
+      "license": "Public domain",
+      "attribution": "Don Sutherland, U.S. Air Force, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:54:20.480Z"
+  },
+  "good:Q487455": {
+    "lat": 37.94166667,
+    "lng": 126.68,
+    "blurb": "Grew wealthy from \"DMZ Rice\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Daeseong-dong_Scene.jpg/330px-Daeseong-dong_Scene.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Daeseong-dong_Scene.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Daeseong-dong_Scene.jpg",
+      "license": "Public domain",
+      "attribution": "pcamp, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:54:53.124Z"
+  },
+  "good:Q17354837": {
+    "lat": 40.45388888888889,
+    "lng": 141.1486111111111,
+    "blurb": "This tomb of Jesus isn't where one would expect",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tomb_of_Jesus_Christ_and_his_brother_in_Shingo_Village.jpg/330px-Tomb_of_Jesus_Christ_and_his_brother_in_Shingo_Village.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tomb_of_Jesus_Christ_and_his_brother_in_Shingo_Village.jpg/3840px-Tomb_of_Jesus_Christ_and_his_brother_in_Shingo_Village.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "ウィキ太郎(Wiki Taro), via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:55:46.157Z"
+  },
+  "good:Q708915": {
+    "lat": 39.075,
+    "lng": 125.815,
+    "blurb": "A zoo with a chimpanzee that can't quite kick its smoking habit, among other wacky animals",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Korea_Central_Zoo_Logo.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Korea_Central_Zoo_Logo.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Korea_Central_Zoo_Logo.png",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Olo2135eeee, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:56:30.942Z"
+  },
+  "good:Q1022918": {
+    "lat": 22.332280555556,
+    "lng": 114.19027777778,
+    "blurb": "Achieved an absurd population density of 3 million people per square mile",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kowloon_Walled_City_-_1989_Aerial.jpg/330px-Kowloon_Walled_City_-_1989_Aerial.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Kowloon_Walled_City_-_1989_Aerial.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kowloon_Walled_City_-_1989_Aerial.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Ian Lambot, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:57:19.443Z"
+  },
+  "good:Q495590": {
+    "lat": 33.45166522,
+    "lng": 126.48972603,
+    "blurb": "!!!Adult \"A place where love oriented art and eroticism meet\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Love_Land_interactive_articulated_puppet.jpg/330px-Love_Land_interactive_articulated_puppet.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Love_Land_interactive_articulated_puppet.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Love_Land_interactive_articulated_puppet.jpg",
+      "license": "CC BY-SA 2.5",
+      "attribution": "gdimension, CC BY-SA 2.5, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:57:39.606Z"
+  },
+  "good:Q1885375": {
+    "lat": 34.350136,
+    "lng": 106.005973,
+    "blurb": "A sprawling, ancient complex of caves and sculptures",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Majishan_entire_hill_20090226.jpg/330px-Majishan_entire_hill_20090226.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Majishan_entire_hill_20090226.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Majishan_entire_hill_20090226.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "MarsmanRom, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:58:12.107Z"
+  },
+  "good:Q862310": {
+    "lat": 37.155,
+    "lng": 48.98972222222222,
+    "blurb": "A village where the roofs form the ground",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Masuleh%2C_Fuman_County%2C_Gilan_Province%2C_Iran.jpg/330px-Masuleh%2C_Fuman_County%2C_Gilan_Province%2C_Iran.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Masuleh%2C_Fuman_County%2C_Gilan_Province%2C_Iran.jpg/3840px-Masuleh%2C_Fuman_County%2C_Gilan_Province%2C_Iran.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Hanieh.smd, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T01:59:42.408Z"
+  },
+  "good:Q19896600": {
+    "lat": 34.27047222,
+    "lng": 133.63158333,
+    "blurb": "If you've ever had a letter go missing, here's where it ended up.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Missing_Post_Office_building%EF%BC%88Japan%2C_Kagawa_Prefecture_Mitoyo_Takuma_cho_Awashima%EF%BC%89.JPG/330px-Missing_Post_Office_building%EF%BC%88Japan%2C_Kagawa_Prefecture_Mitoyo_Takuma_cho_Awashima%EF%BC%89.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Missing_Post_Office_building%EF%BC%88Japan%2C_Kagawa_Prefecture_Mitoyo_Takuma_cho_Awashima%EF%BC%89.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Missing_Post_Office_building%EF%BC%88Japan,_Kagawa_Prefecture_Mitoyo_Takuma_cho_Awashima%EF%BC%89.JPG",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Nozomi-N700, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T02:00:11.271Z"
+  },
+  "good:Q252275": {
+    "lat": 25.273333,
+    "lng": 56.285167,
+    "blurb": "One of eight \"counter-enclaves\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NewNahwa.jpg/330px-NewNahwa.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/NewNahwa.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:NewNahwa.jpg",
+      "license": "CC0",
+      "attribution": "Pointedstick, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T02:00:32.222Z"
+  },
+  "good:Q131083": {
+    "lat": 39.333333333333,
+    "lng": 45.5,
+    "blurb": "This enclave is surrounded by three other countries!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nakhchivan_Autonomous_Republic_of_Azerbaijan.svg/330px-Nakhchivan_Autonomous_Republic_of_Azerbaijan.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nakhchivan_Autonomous_Republic_of_Azerbaijan.svg/1280px-Nakhchivan_Autonomous_Republic_of_Azerbaijan.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "NordNordWest, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T02:01:48.601Z"
+  },
+  "good:Q1306242": {
+    "lat": 33.811283333333,
+    "lng": 113.96103055556,
+    "blurb": "Mao's last hope",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20240818_Nanjie_Village%2C_Linying_02.jpg/330px-20240818_Nanjie_Village%2C_Linying_02.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/20240818_Nanjie_Village%2C_Linying_02.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:20240818_Nanjie_Village,_Linying_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Windmemories, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T02:02:10.795Z"
+  },
+  "good:Q118896527": {
+    "lat": 17.341666666666665,
+    "lng": 78.42055555555555,
+    "blurb": "This building is fittingly shaped like a giant fish!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fish_shaped_building.jpg/330px-Fish_shaped_building.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Fish_shaped_building.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Fish_shaped_building.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Nagaraju raveender, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T02:02:38.739Z"
+  },
+  "good:Q1260331": {
+    "lat": 11.555,
+    "lng": 92.245,
+    "blurb": "One of the most infamous uncontacted tribes (although not for lack of trying)",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/North-Sentinel-Island-Sentinel-2A.png/330px-North-Sentinel-Island-Sentinel-2A.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/North-Sentinel-Island-Sentinel-2A.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:North-Sentinel-Island-Sentinel-2A.png",
+      "license": "Attribution",
+      "attribution": "Contains modified Copernicus Sentinel data 2023, Attribution, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T02:03:16.856Z"
+  },
+  "good:Q6157281": {
+    "lat": 40.596513888889,
+    "lng": 140.50326666667,
+    "blurb": "A section of this highway is on a staircase",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%E9%9A%8E%E6%AE%B5%E5%9B%BD%E9%81%93_-_panoramio.jpg/1280px-%E9%9A%8E%E6%AE%B5%E5%9B%BD%E9%81%93_-_panoramio.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%E9%9A%8E%E6%AE%B5%E5%9B%BD%E9%81%93_-_panoramio.jpg/1280px-%E9%9A%8E%E6%AE%B5%E5%9B%BD%E9%81%93_-_panoramio.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "くろふね",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T02:04:08.067Z"
+  },
+  "good:Q2564552": {
+    "lat": 37.936944,
+    "lng": 58.38,
+    "blurb": "Commemorates the great neutrality of Turkmenistan",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Arch_of_Neutrality_%2841652997594%29.jpg/330px-Arch_of_Neutrality_%2841652997594%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/2/29/Arch_of_Neutrality_%2841652997594%29.jpg",
+      "filePage": "https://en.wikipedia.org/wiki/File:Arch_of_Neutrality_(41652997594).jpg",
+      "license": "CC-BY-2.0",
+      "attribution": "John Pavelka from Austin, TX, USA, CC-BY-2.0, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T02:04:35.144Z"
+  },
+  "good:Q7082047": {
+    "lat": 34.244281638889,
+    "lng": 130.10576061111,
+    "blurb": "A sacred island protected by rotating monks",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Okinoshima_aerial01.jpg/330px-Okinoshima_aerial01.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Okinoshima_aerial01.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Okinoshima_aerial01.jpg",
+      "license": "Attribution",
+      "attribution": "Copyright © National Land Image Information (Color Aerial Photographs), Ministry of Land, Infrastructure, Transport and Tourism, Attribution, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T02:05:27.218Z"
+  },
+  "good:Q385313": {
+    "lat": 34.30916666666667,
+    "lng": 132.99333333333334,
+    "blurb": "Once a chemical plant, now a haven for feral rabbits",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Okunoshima_2.JPG/330px-Okunoshima_2.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Okunoshima_2.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Okunoshima_2.JPG",
+      "license": "Public domain",
+      "attribution": "Vickerman625, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-27T02:05:49.858Z"
+  }
+}

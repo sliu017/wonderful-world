@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Manual Location Review — Wonderful World</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header id="topbar">
+      <div class="brand">🌍 Manual Location Review</div>
+      <div class="counter">
+        <strong id="reviewedCount">0</strong> / <span id="totalCount">0</span> reviewed
+        <span class="bar"><span id="progressFill"></span></span>
+      </div>
+      <div class="filters">
+        <label>
+          Show
+          <select id="filterSelect">
+            <option value="all">All articles</option>
+            <option value="unreviewed" selected>Unreviewed only</option>
+            <option value="reviewed">Reviewed only</option>
+            <option value="ner">Needs a location (NER)</option>
+            <option value="good">Has coordinates (good)</option>
+          </select>
+        </label>
+        <span id="positionLabel" class="position">—</span>
+      </div>
+    </header>
+
+    <main id="layout">
+      <section id="leftPane">
+        <div id="articleMeta">
+          <div class="title-row">
+            <span id="sourceBadge" class="badge">—</span>
+            <h1 id="articleTitle">Loading…</h1>
+          </div>
+          <div id="metaLine" class="meta-line"></div>
+          <div id="hintsWrap" class="hints" hidden>
+            <span class="hints-label">Place hints (click to locate):</span>
+            <div id="hintsChips"></div>
+          </div>
+          <div id="geoSearchRow" class="geo-search">
+            <input id="geoInput" type="text" placeholder="Search a place to move the pin…" />
+            <button id="geoBtn" type="button">Locate</button>
+          </div>
+          <div id="geoResults" class="geo-results" hidden></div>
+        </div>
+
+        <div id="map"></div>
+
+        <div id="controls">
+          <div class="media-block" id="mediaBlock">
+            <div class="img-thumb" id="imgThumb"><span class="img-msg">No image</span></div>
+            <div class="img-info">
+              <div class="img-license-row">
+                <span id="imgLicense" class="img-license"></span>
+                <a id="imgFilePage" href="#" target="_blank" rel="noopener" hidden>file page ↗</a>
+              </div>
+              <input id="imgAttribution" type="text" placeholder="Image attribution / credit…" />
+              <div class="img-actions">
+                <button id="imgCustomBtn" type="button" title="Use a different image URL">Custom URL…</button>
+                <button id="imgClearBtn" type="button" title="Use no image for this location">Clear image</button>
+              </div>
+            </div>
+          </div>
+          <div class="blurb-block">
+            <div class="blurb-head">
+              <label for="blurbInput">Blurb <span class="muted">(shown when a user clicks the pin)</span></label>
+              <span id="blurbCount" class="blurb-count">0</span>
+              <button id="loadSummaryBtn" type="button" title="Replace with the Wikipedia summary">
+                ↻ Wikipedia summary
+              </button>
+            </div>
+            <textarea
+              id="blurbInput"
+              rows="3"
+              placeholder="Short description for this location… (auto-filled from Wikipedia — edit down to taste)"
+            ></textarea>
+          </div>
+          <div class="coords" id="coordsReadout">No pin placed yet — click the map or a hint.</div>
+          <div class="btn-row">
+            <button id="prevBtn" type="button" title="Previous (←)">‹ Prev</button>
+            <button id="resetBtn" type="button" title="Reset pin to its original position">Reset pin</button>
+            <button id="skipBtn" type="button" title="Skip (mark as skipped)">Skip</button>
+            <button id="saveBtn" type="button" class="primary" title="Save location & go to next (Enter)">
+              Save &amp; Next ›
+            </button>
+          </div>
+          <div class="hintbar">
+            Shortcuts: <kbd>←</kbd>/<kbd>→</kbd> prev/next · <kbd>Enter</kbd> save · <kbd>s</kbd> skip
+          </div>
+        </div>
+      </section>
+
+      <section id="rightPane">
+        <div id="iframeBar">
+          <span id="iframeTitle">—</span>
+          <a id="openWiki" href="#" target="_blank" rel="noopener">Open on Wikipedia ↗</a>
+        </div>
+        <iframe id="wikiFrame" title="Wikipedia article" referrerpolicy="no-referrer"></iframe>
+      </section>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="/app.js"></script>
+  </body>
+</html>
