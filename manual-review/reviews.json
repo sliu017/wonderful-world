@@ -397,7 +397,7 @@
   "good:Q571433": {
     "lat": -77.466666666667,
     "lng": 162.51666666667,
-    "blurb": "An area undergoing a two million year drought",
+    "blurb": "An area undergoing a two million year droght",
     "image": {
       "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mcmurdo_sound_USGS_map.jpg/330px-Mcmurdo_sound_USGS_map.jpg",
       "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mcmurdo_sound_USGS_map.jpg",
@@ -1189,5 +1189,2221 @@
     },
     "status": "confirmed",
     "reviewedAt": "2026-07-27T02:05:49.858Z"
+  },
+  "good:Q7089334": {
+    "lat": 25.891263382430868,
+    "lng": 73.19869557616721,
+    "blurb": "A shrine dedicated to a miraculous motorcycle spirit",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Om_Bana_sthan%2C_near_Chotila_village%2C_Pali%2C_Rajasthan.jpg/330px-Om_Bana_sthan%2C_near_Chotila_village%2C_Pali%2C_Rajasthan.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Om_Bana_sthan%2C_near_Chotila_village%2C_Pali%2C_Rajasthan.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Om_Bana_sthan,_near_Chotila_village,_Pali,_Rajasthan.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Sentiments777, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:07:23.365Z"
+  },
+  "good:Q15943124": {
+    "lat": 55.5,
+    "lng": 149.5,
+    "blurb": "Completely surrounded by, but not within, Russia's EEZ",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Peanut_Hole.jpg/330px-Peanut_Hole.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Peanut_Hole.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Peanut_Hole.jpg",
+      "license": "Public domain",
+      "attribution": "Xfigpower, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:08:21.166Z"
+  },
+  "good:Q7229972": {
+    "lat": 29.612,
+    "lng": 106.597,
+    "blurb": "An ode to the toilet",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/View_of_the_Porcelain_Palace%2C_Foreigners_Street%2C_Chongqing.JPG/330px-View_of_the_Porcelain_Palace%2C_Foreigners_Street%2C_Chongqing.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/View_of_the_Porcelain_Palace%2C_Foreigners_Street%2C_Chongqing.JPG/3840px-View_of_the_Porcelain_Palace%2C_Foreigners_Street%2C_Chongqing.JPG",
+      "filePage": "",
+      "license": "",
+      "attribution": "Jpbowen, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:08:58.066Z"
+  },
+  "good:Q10897002": {
+    "lat": 22.28081120690129,
+    "lng": 114.15162384510042,
+    "blurb": "Oops, spelled the street backwards!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rednaxelaterrace.jpg/330px-Rednaxelaterrace.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Rednaxelaterrace.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Rednaxelaterrace.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Lancer1210, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:09:45.347Z"
+  },
+  "good:Q783806": {
+    "lat": 13.720448,
+    "lng": 100.527311,
+    "blurb": "Previous to its tragic renovation, a large building resembling a robot",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_%22renovated%22_Robot_Building_of_Bangkok_-_no_more_iconic_%28Feb_2025%29_-_img_01.jpg/330px-The_%22renovated%22_Robot_Building_of_Bangkok_-_no_more_iconic_%28Feb_2025%29_-_img_01.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_%22renovated%22_Robot_Building_of_Bangkok_-_no_more_iconic_%28Feb_2025%29_-_img_01.jpg/1920px-The_%22renovated%22_Robot_Building_of_Bangkok_-_no_more_iconic_%28Feb_2025%29_-_img_01.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:10:42.558Z"
+  },
+  "good:Q1112110": {
+    "lat": 30.261944444444445,
+    "lng": 79.73166666666667,
+    "blurb": "Ancient skeletons of unknown origin surround this lake",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roopkund_Lake.jpg/330px-Roopkund_Lake.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roopkund_Lake.jpg/3840px-Roopkund_Lake.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Schwiki, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:11:12.381Z"
+  },
+  "good:Q29272": {
+    "lat": 39.03666666666667,
+    "lng": 125.73083333333334,
+    "blurb": "A 105-story hotel without windows?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pr%C3%A1zdn%C3%A9_slnice_a_rozestav%C4%9Bn%C3%BD_hotel_Ryugyong_-_panoramio.jpg/330px-Pr%C3%A1zdn%C3%A9_slnice_a_rozestav%C4%9Bn%C3%BD_hotel_Ryugyong_-_panoramio.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pr%C3%A1zdn%C3%A9_slnice_a_rozestav%C4%9Bn%C3%BD_hotel_Ryugyong_-_panoramio.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Pr%C3%A1zdn%C3%A9_slnice_a_rozestav%C4%9Bn%C3%BD_hotel_Ryugyong_-_panoramio.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Martin Cígler, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:12:14.190Z"
+  },
+  "good:Q264818": {
+    "lat": 16.834166666667,
+    "lng": 112.3375,
+    "blurb": "\"City\" comprised of many islands and atolls",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%E4%B8%89%E6%B2%99%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F.png/330px-%E4%B8%89%E6%B2%99%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/%E4%B8%89%E6%B2%99%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E6%B2%99%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F.png",
+      "license": "CC BY 4.0",
+      "attribution": "中国新闻社, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:13:08.393Z"
+  },
+  "good:Q2096935": {
+    "lat": 14.5377396,
+    "lng": 107.9208836,
+    "blurb": "Short-lived kingdom founded by a French explorer",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Sedang.svg/330px-Flag_of_Sedang.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Sedang.svg/960px-Flag_of_Sedang.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Mysid, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:15:49.504Z"
+  },
+  "good:Q7446759": {
+    "lat": 41.25402778,
+    "lng": 140.34708333,
+    "blurb": "Funicular railway connecting an underground tunnel with a museum",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Seikan_Tunnel_Kinenkan_Station_with_Mogura-ho.jpg/330px-Seikan_Tunnel_Kinenkan_Station_with_Mogura-ho.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Seikan_Tunnel_Kinenkan_Station_with_Mogura-ho.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Seikan_Tunnel_Kinenkan_Station_with_Mogura-ho.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Kzaral, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:17:46.984Z"
+  },
+  "good:Q55734": {
+    "lat": 14.936,
+    "lng": 120.623,
+    "blurb": "Once known as Sexmoan.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sasmuan_Municipal_Hall%2C_Pampanga%2C_Jan_2026_%281%29.jpg/330px-Sasmuan_Municipal_Hall%2C_Pampanga%2C_Jan_2026_%281%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sasmuan_Municipal_Hall%2C_Pampanga%2C_Jan_2026_%281%29.jpg/3840px-Sasmuan_Municipal_Hall%2C_Pampanga%2C_Jan_2026_%281%29.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Ralff Nestor Nacor, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:18:18.610Z"
+  },
+  "good:Q2723631": {
+    "lat": 19.4,
+    "lng": 74.8167,
+    "blurb": "A village with no doors.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Shani_Shignapur_renowned_for_its_Shani_temple.jpg/330px-Shani_Shignapur_renowned_for_its_Shani_temple.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Shani_Shignapur_renowned_for_its_Shani_temple.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Shani_Shignapur_renowned_for_its_Shani_temple.jpg",
+      "license": "CC BY 4.0",
+      "attribution": "25 Cents FC, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:18:34.188Z"
+  },
+  "good:Q182774": {
+    "lat": 5.313944,
+    "lng": 100.285194,
+    "blurb": "Temple dedicated to reincarnated snakes",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Snake_Temple%2C_Penang.jpg/330px-Snake_Temple%2C_Penang.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Snake_Temple%2C_Penang.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Snake_Temple,_Penang.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Khalzuri Yazid from Petaling Jaya, Malaysia, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:19:52.973Z"
+  },
+  "good:Q17995776": {
+    "lat": 33.50875,
+    "lng": 135.55211111111112,
+    "blurb": "This island is surprisingly not named after the Soviet Union. In fact, we have no idea where the name originated.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sobieto_rock_located_on_the_south_side_of_Okinokuroshima_Island_A.jpg/330px-Sobieto_rock_located_on_the_south_side_of_Okinokuroshima_Island_A.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sobieto_rock_located_on_the_south_side_of_Okinokuroshima_Island_A.jpg/3840px-Sobieto_rock_located_on_the_south_side_of_Okinokuroshima_Island_A.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "さかおり, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:20:55.946Z"
+  },
+  "good:Q1027768": {
+    "lat": 39.95,
+    "lng": 71.12,
+    "blurb": "An Uzbek exclave, surrounded by Kyrgyzstan, that is ethnically Tajik",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/So%27x_tumani.png/330px-So%27x_tumani.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/So%27x_tumani.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:So%27x_tumani.png",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Jamshid Nurkulov, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:21:36.635Z"
+  },
+  "good:Q57251": {
+    "lat": 23.7,
+    "lng": 121,
+    "blurb": "!!!REM lowk not doing this one, it's about taiwanese \"representation\" in Chinese politics",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Taiwan_in_China.svg/330px-Taiwan_in_China.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Taiwan_in_China.svg/1280px-Taiwan_in_China.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:22:47.833Z"
+  },
+  "good:Q1061394": {
+    "lat": 38.3,
+    "lng": 141.41666666667,
+    "blurb": "An island of cats, with dogs strictly banned!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tashirojima_Island.JPG/330px-Tashirojima_Island.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tashirojima_Island.JPG/3840px-Tashirojima_Island.JPG",
+      "filePage": "",
+      "license": "",
+      "attribution": "ひでゆき - デジタルカメラでの撮影, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:23:13.530Z"
+  },
+  "good:Q30191": {
+    "lat": 31.036,
+    "lng": 121.19,
+    "blurb": "Ghost town resembling a British market town",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Thames_Town_in_Songjiang.jpg/330px-Thames_Town_in_Songjiang.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Thames_Town_in_Songjiang.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Thames_Town_in_Songjiang.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Huai-Chun Hsu, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:23:41.016Z"
+  },
+  "good:Q104772074": {
+    "lat": 28.1,
+    "lng": 35.3,
+    "blurb": "City planned in a 110-mile long line",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B0%D8%A7_%D9%84%D8%A7%D9%8A%D9%86.svg/1280px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B0%D8%A7_%D9%84%D8%A7%D9%8A%D9%86.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B0%D8%A7_%D9%84%D8%A7%D9%8A%D9%86.svg/1280px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B0%D8%A7_%D9%84%D8%A7%D9%8A%D9%86.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "نيوم, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:24:32.045Z"
+  },
+  "good:Q85875400": {
+    "lat": 35.13491666666667,
+    "lng": 138.8986111111111,
+    "blurb": "I believe it.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sekaiichi_Chiisana_Kouen.jpg/330px-Sekaiichi_Chiisana_Kouen.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sekaiichi_Chiisana_Kouen.jpg/3840px-Sekaiichi_Chiisana_Kouen.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "妖精書士, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:24:55.399Z"
+  },
+  "good:Q7784222": {
+    "lat": 14.028,
+    "lng": 78.325103,
+    "blurb": "Just one tree covering an area the size of three football fields",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Thimmamma_Marrimanu_Anantapur_dt_Andhra_JEG9125_%28cropped%29.JPG/330px-Thimmamma_Marrimanu_Anantapur_dt_Andhra_JEG9125_%28cropped%29.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Thimmamma_Marrimanu_Anantapur_dt_Andhra_JEG9125_%28cropped%29.JPG/3840px-Thimmamma_Marrimanu_Anantapur_dt_Andhra_JEG9125_%28cropped%29.JPG",
+      "filePage": "",
+      "license": "",
+      "attribution": "PJeganathan, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:25:49.289Z"
+  },
+  "good:Q7818644": {
+    "lat": 36.87916666666667,
+    "lng": 38.105555555555554,
+    "blurb": "Despite being on Syrian land, this Ottoman tomb is owned by Turkiye",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tombeau_de_Suleiman_Chah.jpg/330px-Tombeau_de_Suleiman_Chah.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Tombeau_de_Suleiman_Chah.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Tombeau_de_Suleiman_Chah.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Céline Rayne, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:26:46.898Z"
+  },
+  "good:Q4260571": {
+    "lat": -8.2525,
+    "lng": 115.42555555555556,
+    "blurb": "A village where corpses are left out to decompose",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Trunyan_200507.jpg/330px-Trunyan_200507.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Trunyan_200507.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Trunyan_200507.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "っ, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:27:13.686Z"
+  },
+  "good:Q869763": {
+    "lat": 34.734,
+    "lng": 136.51,
+    "blurb": "Terse!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tsu-Station.jpg/330px-Tsu-Station.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tsu-Station.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Tsu-Station.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Rsa, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:27:56.034Z"
+  },
+  "good:Q2263304": {
+    "lat": 39.8999,
+    "lng": 116.406,
+    "blurb": "Cold-War era network of tunnels, fit with a skating rink",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dixia_Cheng_entrance.JPG/330px-Dixia_Cheng_entrance.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Dixia_Cheng_entrance.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Dixia_Cheng_entrance.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Well-rested at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:28:36.526Z"
+  },
+  "good:Q7930800": {
+    "lat": 25.2606,
+    "lng": 51.4431,
+    "blurb": "Hold on, this isn't Venice!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Villagio_Mall%2C_Aspire_Park%2C_Doha_-_panoramio_%283%29.jpg/330px-Villagio_Mall%2C_Aspire_Park%2C_Doha_-_panoramio_%283%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Villagio_Mall%2C_Aspire_Park%2C_Doha_-_panoramio_%283%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Villagio_Mall,_Aspire_Park,_Doha_-_panoramio_(3).jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Jaseem Hamza, CC BY 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:29:00.270Z"
+  },
+  "good:Q17015584": {
+    "lat": 13.2975,
+    "lng": 100.912,
+    "blurb": "Welcome to hell.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_central_area_of_Wang_Saen_Suk%2C_featuring_the_Pretas_and_tortured_souls%2C_June_2013.jpg/330px-The_central_area_of_Wang_Saen_Suk%2C_featuring_the_Pretas_and_tortured_souls%2C_June_2013.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_central_area_of_Wang_Saen_Suk%2C_featuring_the_Pretas_and_tortured_souls%2C_June_2013.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_central_area_of_Wang_Saen_Suk,_featuring_the_Pretas_and_tortured_souls,_June_2013.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Qormyach, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:29:21.909Z"
+  },
+  "good:Q8031892": {
+    "lat": 40.233,
+    "lng": 116.164,
+    "blurb": "Massive abandoned amusement park",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wonderland_Beijing_1.jpg/330px-Wonderland_Beijing_1.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Wonderland_Beijing_1.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Wonderland_Beijing_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Bertrouf, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:29:48.749Z"
+  },
+  "good:Q1141498": {
+    "lat": 35.4428,
+    "lng": 139.646,
+    "blurb": "Small but culturally significant Chinatown",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Yokohama_Chinatown_signage_2015.jpg/330px-Yokohama_Chinatown_signage_2015.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Yokohama_Chinatown_signage_2015.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Yokohama_Chinatown_signage_2015.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Wpcpey, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:30:21.981Z"
+  },
+  "good:Q8055036": {
+    "lat": 34.719463,
+    "lng": 112.618281,
+    "blurb": "The Burj Khalifa of the 500s",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/20240815_Site_of_Luoyang_City_from_Han_to_Wei_Dynasty_-_Site_of_the_Pagoda_of_Yongning_Temple_03.jpg/330px-20240815_Site_of_Luoyang_City_from_Han_to_Wei_Dynasty_-_Site_of_the_Pagoda_of_Yongning_Temple_03.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/20240815_Site_of_Luoyang_City_from_Han_to_Wei_Dynasty_-_Site_of_the_Pagoda_of_Yongning_Temple_03.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:20240815_Site_of_Luoyang_City_from_Han_to_Wei_Dynasty_-_Site_of_the_Pagoda_of_Yongning_Temple_03.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Windmemories, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:31:00.370Z"
+  },
+  "good:Q17638329": {
+    "lat": 38.9156,
+    "lng": 100.133,
+    "blurb": "These mountains have mesmerizing, all-natural stripes",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Zhangye_National_Geopark_5.jpg/330px-Zhangye_National_Geopark_5.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Zhangye_National_Geopark_5.jpg/3840px-Zhangye_National_Geopark_5.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "H2v5o68z, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:31:43.197Z"
+  },
+  "good:Q10143": {
+    "lat": 45.83763889,
+    "lng": 4.82611111,
+    "blurb": "\"Humanly intolerable\" art piece",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Photo_panoramique.jpg/330px-Photo_panoramique.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Photo_panoramique.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Photo_panoramique.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Abode of chaos, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:32:23.190Z"
+  },
+  "good:Q1466589": {
+    "lat": 56.23194444,
+    "lng": 12.82083333,
+    "blurb": "The extraterrestrial bring good fortune?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/UFO-monumentet_i_%C3%84ngelholm_1.jpg/330px-UFO-monumentet_i_%C3%84ngelholm_1.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/UFO-monumentet_i_%C3%84ngelholm_1.jpg/3840px-UFO-monumentet_i_%C3%84ngelholm_1.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:33:34.010Z"
+  },
+  "good:Q399369": {
+    "lat": 53.544404,
+    "lng": -2.912807,
+    "blurb": "Google Maps once displayed this town, despite it not actually existing",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Argleton_-_Google_Maps_1257569106217.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Argleton_-_Google_Maps_1257569106217.png",
+      "filePage": "https://en.wikipedia.org/wiki/File:Argleton_-_Google_Maps_1257569106217.png",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:33:57.851Z"
+  },
+  "good:Q244959": {
+    "lat": 51.43833333333333,
+    "lng": 4.931666666666667,
+    "blurb": "True border gore",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gemeentehuis_Baarle-Hertog.jpg/330px-Gemeentehuis_Baarle-Hertog.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Gemeentehuis_Baarle-Hertog.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gemeentehuis_Baarle-Hertog.jpg",
+      "license": "Public domain",
+      "attribution": "User Hsf-toshiba on nl.wikipedia, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:34:22.752Z"
+  },
+  "good:Q9811": {
+    "lat": 51.45,
+    "lng": 4.9333333333333,
+    "blurb": "!!!REM duplicate basically",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/P1070673Gemeentehuis.JPG/330px-P1070673Gemeentehuis.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/P1070673Gemeentehuis.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:P1070673Gemeentehuis.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "G.Lanting, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:34:45.558Z"
+  },
+  "good:Q55604878": {
+    "lat": 52.884894,
+    "lng": -7.945059,
+    "blurb": "Did you know Obama has Irish ancestry?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bronze_sculpture_of_Barack_and_Michelle_Obama_at_Barack_Obama_Plaza_-_1.jpg/330px-Bronze_sculpture_of_Barack_and_Michelle_Obama_at_Barack_Obama_Plaza_-_1.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bronze_sculpture_of_Barack_and_Michelle_Obama_at_Barack_Obama_Plaza_-_1.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bronze_sculpture_of_Barack_and_Michelle_Obama_at_Barack_Obama_Plaza_-_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "© O'Dea at Wikimedia Commons, CC BY-SA 4.0, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:35:06.225Z"
+  },
+  "good:Q1580126": {
+    "lat": 41.390386796832246,
+    "lng": 2.1153768831372832,
+    "blurb": "Old church housing a leading supercomputer",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Barcelona_Supercomputing_Center_-_Jardins_de_la_Torre_Girona.jpg/330px-Barcelona_Supercomputing_Center_-_Jardins_de_la_Torre_Girona.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Barcelona_Supercomputing_Center_-_Jardins_de_la_Torre_Girona.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Barcelona_Supercomputing_Center_-_Jardins_de_la_Torre_Girona.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Herodotptlomeu, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:35:45.359Z"
+  },
+  "good:Q690333": {
+    "lat": 78.065,
+    "lng": 14.216,
+    "blurb": "For all intents and purposes, this Norwegian town is Russian",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Barentsburg_view.jpg/330px-Barentsburg_view.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Barentsburg_view.jpg/3840px-Barentsburg_view.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Dmitrii Rusanov, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:37:10.374Z"
+  },
+  "good:Q808778": {
+    "lat": 57.023611111111,
+    "lng": -7.4416666666667,
+    "blurb": "Planes landing here must wait for the tides to fall",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BarraAirport_above.jpg/330px-BarraAirport_above.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/BarraAirport_above.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:BarraAirport_above.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Ohyesmateyounoob, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:37:55.077Z"
+  },
+  "good:Q18619174": {
+    "lat": 51.4795,
+    "lng": -0.142,
+    "blurb": "!!!REM idek what this means",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Battersea_Power_Station_48.jpg/330px-Battersea_Power_Station_48.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Battersea_Power_Station_48.jpg/3840px-Battersea_Power_Station_48.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:39:03.593Z"
+  },
+  "good:Q19654709": {
+    "lat": 53.1296,
+    "lng": -1.62135,
+    "blurb": "The person naming mines in this area got a little silly",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:39:35.931Z"
+  },
+  "good:Q160556": {
+    "lat": 52.36224722222222,
+    "lng": 13.500672222222223,
+    "blurb": "!!!REM not interesting",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Berlin_Brandenburg_Airport_Terminal_1.jpg/330px-Berlin_Brandenburg_Airport_Terminal_1.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Berlin_Brandenburg_Airport_Terminal_1.jpg/3840px-Berlin_Brandenburg_Airport_Terminal_1.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:39:49.386Z"
+  },
+  "good:Q703899": {
+    "lat": 52.022777777778,
+    "lng": 8.5333333333333,
+    "blurb": "This city doesn't exist.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bielefeld_Verschwoerung.jpg/330px-Bielefeld_Verschwoerung.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bielefeld_Verschwoerung.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bielefeld_Verschwoerung.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Hakanneu, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:40:05.273Z"
+  },
+  "good:Q316640": {
+    "lat": 49.288888888889,
+    "lng": 7.0536111111111,
+    "blurb": "This fire is older than Germany... by a lot.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_berg_felsoeffnungen_2009.jpg/330px-Brennender_berg_felsoeffnungen_2009.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Brennender_berg_felsoeffnungen_2009.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Brennender_berg_felsoeffnungen_2009.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Elya, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:41:04.678Z"
+  },
+  "good:Q4975350": {
+    "lat": 51.54775,
+    "lng": 0.8422,
+    "blurb": "People disappear into the mist walking this path",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wakering_Stairs_-_geograph.org.uk_-_902355.jpg/330px-Wakering_Stairs_-_geograph.org.uk_-_902355.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Wakering_Stairs_-_geograph.org.uk_-_902355.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Wakering_Stairs_-_geograph.org.uk_-_902355.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "helen miller, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:41:48.639Z"
+  },
+  "good:Q850305": {
+    "lat": 46.25388889,
+    "lng": 10.12777778,
+    "blurb": "Fascinating work of architecture",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/RhB_ABe_4-4_III_Kreisviadukt_Brusio.jpg/330px-RhB_ABe_4-4_III_Kreisviadukt_Brusio.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/RhB_ABe_4-4_III_Kreisviadukt_Brusio.jpg/3840px-RhB_ABe_4-4_III_Kreisviadukt_Brusio.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Kabelleger / David Gubler, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:42:20.743Z"
+  },
+  "good:Q18806332": {
+    "lat": 54.489188,
+    "lng": 9.850112,
+    "blurb": "A plastic bucket and a happy accident",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Oberer_Eimersee_%282%29.jpg/330px-Oberer_Eimersee_%282%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Oberer_Eimersee_%282%29.jpg/3840px-Oberer_Eimersee_%282%29.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Hermann Kantak, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:43:13.088Z"
+  },
+  "good:Q61698": {
+    "lat": 47.696944444444,
+    "lng": 8.6902777777778,
+    "blurb": "German town fully surrounded by Switzerland",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buesingen_am_Hochrhein_083.JPG/330px-Buesingen_am_Hochrhein_083.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buesingen_am_Hochrhein_083.JPG/3840px-Buesingen_am_Hochrhein_083.JPG",
+      "filePage": "",
+      "license": "",
+      "attribution": "Dietrich Michael Weidmann, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:43:53.062Z"
+  },
+  "good:Q5002759": {
+    "lat": 53.484722222222224,
+    "lng": -1.2115,
+    "blurb": "Ha, ha.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Butt_Hole_Road_tourists.jpg/330px-Butt_Hole_Road_tourists.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Butt_Hole_Road_tourists.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Butt_Hole_Road_tourists.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Andy Leppard, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:44:19.723Z"
+  },
+  "good:Q1058720": {
+    "lat": 42.73581,
+    "lng": 25.39385,
+    "blurb": "Bulgarian communists built this spaceship-resembling monument",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sunset_and_Buzludza.jpg/330px-Sunset_and_Buzludza.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sunset_and_Buzludza.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Sunset_and_Buzludza.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Annboeva, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:45:30.342Z"
+  },
+  "good:Q950644": {
+    "lat": 48.43333333333333,
+    "lng": 23.066666666666666,
+    "blurb": "The republic that lasted a day",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_Ukraine_%281917%E2%80%931921%29.svg/330px-Flag_of_Ukraine_%281917%E2%80%931921%29.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_Ukraine_%281917%E2%80%931921%29.svg/1280px-Flag_of_Ukraine_%281917%E2%80%931921%29.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Ιγκόρ, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:46:08.899Z"
+  },
+  "good:Q1055469": {
+    "lat": 50.8137,
+    "lng": -2.47474,
+    "blurb": "It seems that one aspect of the human condition has persisted.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cerne-abbas-giant-2001-cropped.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cerne-abbas-giant-2001-cropped.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cerne-abbas-giant-2001-cropped.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "PeteHarlow, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:47:13.684Z"
+  },
+  "good:Q448856": {
+    "lat": 56.3177216729865,
+    "lng": -5.58281375455459,
+    "blurb": "This bridge technically crosses the Atlantic Ocean!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Clachan_Bridge.jpg/330px-Clachan_Bridge.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Clachan_Bridge.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Clachan_Bridge.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "John Phillips, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:47:39.958Z"
+  },
+  "good:Q21288354": {
+    "lat": 44.24437,
+    "lng": 7.769517,
+    "blurb": "There's something poetic about this humongous bunny",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:48:29.825Z"
+  },
+  "good:Q1399679": {
+    "lat": 50.9507,
+    "lng": 6.96342,
+    "blurb": "Take a wrong turn in these sewers and you'll end up in a performance hall!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kronleuchtersaal03.jpg/330px-Kronleuchtersaal03.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Kronleuchtersaal03.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kronleuchtersaal03.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "A.Savin, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:49:56.842Z"
+  },
+  "good:Q953432": {
+    "lat": 41.9015,
+    "lng": -7.8315,
+    "blurb": "Neither Portugal or Spain could seem to get a firm grasp on this tiny state",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_the_Couto_Misto.svg/330px-Flag_of_the_Couto_Misto.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_the_Couto_Misto.svg/1280px-Flag_of_the_Couto_Misto.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Cgnk, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:51:24.690Z"
+  },
+  "good:Q7728155": {
+    "lat": 52.515,
+    "lng": -2.152,
+    "blurb": "Am I already drunk?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Thecrookedhouse-2023-06.jpg/330px-Thecrookedhouse-2023-06.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Thecrookedhouse-2023-06.jpg/3840px-Thecrookedhouse-2023-06.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "MIDI, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:52:14.244Z"
+  },
+  "good:Q1602409": {
+    "lat": 53.21388889,
+    "lng": 14.475,
+    "blurb": "No one knows why these trees are bent as such",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Crooked_Forest.jpg/330px-Crooked_Forest.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Crooked_Forest.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Crooked_Forest.jpg",
+      "license": "Attribution",
+      "attribution": "Michał Słupczewski (https://slupczewski.pl), Attribution, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:53:05.025Z"
+  },
+  "good:Q1790954": {
+    "lat": 51.92027777777778,
+    "lng": 4.490555555555556,
+    "blurb": "Fully optimized urban housing.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/GraphyArchy_-_Wikipedia_00096.jpg/330px-GraphyArchy_-_Wikipedia_00096.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/GraphyArchy_-_Wikipedia_00096.jpg/3840px-GraphyArchy_-_Wikipedia_00096.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:53:31.579Z"
+  },
+  "good:Q244816": {
+    "lat": 50.075555555556,
+    "lng": 14.414166666667,
+    "blurb": "Landmark building in Prague resembling two dancing figures",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tanzendes_Haus_2023.jpg/330px-Tanzendes_Haus_2023.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Tanzendes_Haus_2023.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Tanzendes_Haus_2023.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Danny Alexander Lettkemann, Architekt, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:54:25.193Z"
+  },
+  "good:Q5225738": {
+    "lat": 50.3513,
+    "lng": -3.5773,
+    "blurb": "Not a single train has ever stopped here.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dartmouth_station_and_Boat_Float_-_geograph.org.uk_-_343763.jpg/330px-Dartmouth_station_and_Boat_Float_-_geograph.org.uk_-_343763.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Dartmouth_station_and_Boat_Float_-_geograph.org.uk_-_343763.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Dartmouth_station_and_Boat_Float_-_geograph.org.uk_-_343763.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Derek Harper, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:55:29.589Z"
+  },
+  "good:Q1140162": {
+    "lat": 45.38166667,
+    "lng": 20.38361111,
+    "blurb": "Humorously redundant bridge",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Most_na_Suvom.jpg/330px-Most_na_Suvom.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Most_na_Suvom.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Most_na_Suvom.jpg",
+      "license": "CC BY 3.0 rs",
+      "attribution": "The original uploader was Alexzr88 at Serbian Wikipedia., CC BY 3.0 rs, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:56:02.831Z"
+  },
+  "good:Q124308373": {
+    "lat": 50.9406,
+    "lng": 0.6995,
+    "blurb": "Not very nice, innit?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dumb_Womans_Lane_January_2024.jpg/330px-Dumb_Womans_Lane_January_2024.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dumb_Womans_Lane_January_2024.jpg/3840px-Dumb_Womans_Lane_January_2024.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "ResonantDistortion, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:56:30.168Z"
+  },
+  "good:Q2344439": {
+    "lat": 58.4412,
+    "lng": -3.09414,
+    "blurb": "World's shortest street",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ebenezer_Place.jpg/330px-Ebenezer_Place.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ebenezer_Place.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ebenezer_Place.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Noudbijvoet, CC BY 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:56:50.545Z"
+  },
+  "good:Q1301642": {
+    "lat": 47.64444444,
+    "lng": 7.86333333,
+    "blurb": "!!!REM meh",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eiemer_See.JPG/330px-Eiemer_See.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Eiemer_See.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Eiemer_See.JPG",
+      "license": "Copyrighted free use",
+      "attribution": "Michael Trefzer, Copyrighted free use, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T00:59:50.228Z"
+  },
+  "good:Q2265769": {
+    "lat": 51.850805555556,
+    "lng": 4.3386666666667,
+    "blurb": "Bringing generic banknote bridges to life",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/5_Euro_Bruecke.jpg/330px-5_Euro_Bruecke.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/5_Euro_Bruecke.jpg/3840px-5_Euro_Bruecke.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "ScWikiSc, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:00:40.828Z"
+  },
+  "good:Q5437642": {
+    "lat": 53.34722222,
+    "lng": -6.25944444,
+    "blurb": "Plaque dedicated to a nonexistent priest",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Pat_Noise_plaque.jpg/330px-Pat_Noise_plaque.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pat_Noise_plaque.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Pat_Noise_plaque.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Heather R, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:01:41.452Z"
+  },
+  "good:Q15217844": {
+    "lat": 58.28811,
+    "lng": -7.588285,
+    "blurb": "What happened to the keepers of this lighthouse?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg/330px-St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "JJM, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:02:30.328Z"
+  },
+  "good:Q615792": {
+    "lat": 53.40275,
+    "lng": 13.720777777777778,
+    "blurb": "Planted in 1938 and proceeded to go unnoticed for 60 years.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/e/ea/Swastikatree.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/e/ea/Swastikatree.jpg",
+      "filePage": "https://en.wikipedia.org/wiki/File:Swastikatree.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:03:05.235Z"
+  },
+  "good:Q694858": {
+    "lat": 50.1619,
+    "lng": 7.921,
+    "blurb": "The result of drawing imprecise borders.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Free_State_of_Bottleneck.png/330px-Flag_of_the_Free_State_of_Bottleneck.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Free_State_of_Bottleneck.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Free_State_of_Bottleneck.png",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Skrattar du Fölora du, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:03:55.065Z"
+  },
+  "good:Q134376041": {
+    "lat": 51.564844,
+    "lng": -0.1863602,
+    "blurb": "!!!ADULT What can I even say here?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fuck_tree_May_2025.jpg/330px-Fuck_tree_May_2025.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fuck_tree_May_2025.jpg/3840px-Fuck_tree_May_2025.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Grim23, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:05:20.742Z"
+  },
+  "good:Q172668": {
+    "lat": 48.067222,
+    "lng": 12.863611,
+    "blurb": "Formerly known as Fucking.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kapellenlinde%2C_Fugging_27.1.2024.jpg/330px-Kapellenlinde%2C_Fugging_27.1.2024.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kapellenlinde%2C_Fugging_27.1.2024.jpg/3840px-Kapellenlinde%2C_Fugging_27.1.2024.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Michael Burgholzer, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:05:41.901Z"
+  },
+  "good:Q2123434": {
+    "lat": 43.978269444444,
+    "lng": 15.383505555556,
+    "blurb": "Awwww.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gale%C5%A1njak_Island_in_Croatia_%2817114069092%29.jpg/330px-Gale%C5%A1njak_Island_in_Croatia_%2817114069092%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Gale%C5%A1njak_Island_in_Croatia_%2817114069092%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gale%C5%A1njak_Island_in_Croatia_(17114069092).jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Arya Stone, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:05:51.184Z"
+  },
+  "good:Q629511": {
+    "lat": 46.87056,
+    "lng": 33.57732,
+    "blurb": "A little piece of Sweden",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%88%D0%B2%D0%B5%D0%B4%D1%81%D1%8C%D0%BA%D0%B5_%28Gamm%C3%B6lsv%C3%A4nskbi%29_%28%D0%97%D0%BC%D1%96%D1%97%D0%B2%D0%BA%D0%B0%29.jpg/330px-%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%88%D0%B2%D0%B5%D0%B4%D1%81%D1%8C%D0%BA%D0%B5_%28Gamm%C3%B6lsv%C3%A4nskbi%29_%28%D0%97%D0%BC%D1%96%D1%97%D0%B2%D0%BA%D0%B0%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%88%D0%B2%D0%B5%D0%B4%D1%81%D1%8C%D0%BA%D0%B5_%28Gamm%C3%B6lsv%C3%A4nskbi%29_%28%D0%97%D0%BC%D1%96%D1%97%D0%B2%D0%BA%D0%B0%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%88%D0%B2%D0%B5%D0%B4%D1%81%D1%8C%D0%BA%D0%B5_(Gamm%C3%B6lsv%C3%A4nskbi)_(%D0%97%D0%BC%D1%96%D1%97%D0%B2%D0%BA%D0%B0).jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Дзюбак Володимир, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:06:39.526Z"
+  },
+  "good:Q1493698": {
+    "lat": 51.576667,
+    "lng": 0.066111,
+    "blurb": "Designed after the Moscow metro",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gants_Hill_stn_southwest_entrance.JPG/330px-Gants_Hill_stn_southwest_entrance.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Gants_Hill_stn_southwest_entrance.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gants_Hill_stn_southwest_entrance.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Sunil060902, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:07:09.746Z"
+  },
+  "good:Q833975": {
+    "lat": 37.163611,
+    "lng": 12.718611,
+    "blurb": "This island just won't stay down!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Map_of_Graham_Island.jpg/330px-Map_of_Graham_Island.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Map_of_Graham_Island.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Map_of_Graham_Island.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Gasmonitor, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:08:11.742Z"
+  },
+  "good:Q380146": {
+    "lat": 46.808655,
+    "lng": 10.54144,
+    "blurb": "Beautiful submerged church",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Drowned_Village_Curon_Venosta_with_newly_%28in_1962%29_repositioned_graveyard.jpg/1280px-Drowned_Village_Curon_Venosta_with_newly_%28in_1962%29_repositioned_graveyard.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Drowned_Village_Curon_Venosta_with_newly_%28in_1962%29_repositioned_graveyard.jpg/1280px-Drowned_Village_Curon_Venosta_with_newly_%28in_1962%29_repositioned_graveyard.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Charles01, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:09:04.278Z"
+  },
+  "good:Q1821443": {
+    "lat": 53.91522222,
+    "lng": 8.49583333,
+    "blurb": "!!!REM not interesting",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/330px-Leuchtturm_Neuwerk_2018.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Leuchtturm_Neuwerk_2018.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Leuchtturm_Neuwerk_2018.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Jörg Braukmann, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:09:45.150Z"
+  },
+  "good:Q2374346": {
+    "lat": 52.23167,
+    "lng": 21.02083,
+    "blurb": "This palm tree is intended to attract attention to the street it's planted on.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sztuczna_palma_w_Warszawie_2025.jpg/330px-Sztuczna_palma_w_Warszawie_2025.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sztuczna_palma_w_Warszawie_2025.jpg/3840px-Sztuczna_palma_w_Warszawie_2025.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:10:30.921Z"
+  },
+  "good:Q1050522": {
+    "lat": 54.020833333333,
+    "lng": 24.079722222222,
+    "blurb": "Soviet theme park",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gr%C5%ABto_parko_logo.svg/330px-Gr%C5%ABto_parko_logo.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gr%C5%ABto_parko_logo.svg/960px-Gr%C5%ABto_parko_logo.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Blowwhite, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:11:09.192Z"
+  },
+  "good:Q1520648": {
+    "lat": 51.515780555556,
+    "lng": 9.5489305555556,
+    "blurb": "!!!REM IDC",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Reinhardswald.svg/330px-Reinhardswald.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Reinhardswald.svg/960px-Reinhardswald.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:12:00.427Z"
+  },
+  "good:Q223726": {
+    "lat": 56.015278,
+    "lng": 23.416667,
+    "blurb": "Cross count in the hundreds of thousands",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kry%C5%BEi%C5%B3_kalnas_%28G%C3%B3ra_Krzy%C5%BCy%29.JPG/330px-Kry%C5%BEi%C5%B3_kalnas_%28G%C3%B3ra_Krzy%C5%BCy%29.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kry%C5%BEi%C5%B3_kalnas_%28G%C3%B3ra_Krzy%C5%BCy%29.JPG/3840px-Kry%C5%BEi%C5%B3_kalnas_%28G%C3%B3ra_Krzy%C5%BCy%29.JPG",
+      "filePage": "",
+      "license": "",
+      "attribution": "Pudelek (Marcin Szala), via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:12:47.057Z"
+  },
+  "good:Q105676989": {
+    "lat": 53.3804,
+    "lng": -1.4593,
+    "blurb": "Immortalized piece of graffiti",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/I_love_you_bridge_2022_%28cropped%29.png/330px-I_love_you_bridge_2022_%28cropped%29.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/I_love_you_bridge_2022_%28cropped%29.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:I_love_you_bridge_2022_(cropped).png",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Mr Razamataz Hi. You cannot claim any copyright disclaimer to material that is already copyrighted. The Graffiti, my intellectual property is copyrighted and should read :- © JASON LOWE 2001 Please remove your disclaimer. Kind regards. Jason Lowe, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:13:28.066Z"
+  },
+  "good:Q19895372": {
+    "lat": 43.85433333333334,
+    "lng": 18.40136111111111,
+    "blurb": "A \"tribute\" to food so bad even animals wouldn't touch it.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/ICAR_canned_beef_monument_in_Sarajevo.jpg/330px-ICAR_canned_beef_monument_in_Sarajevo.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/ICAR_canned_beef_monument_in_Sarajevo.jpg/3840px-ICAR_canned_beef_monument_in_Sarajevo.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Ministar Nesigurnosti, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:14:43.821Z"
+  },
+  "good:Q177174": {
+    "lat": 64.148497,
+    "lng": -21.93578,
+    "blurb": "The world's largest display of... you know.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Icelandic_Phallological_Museum_logo.svg/330px-Icelandic_Phallological_Museum_logo.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Icelandic_Phallological_Museum_logo.svg/250px-Icelandic_Phallological_Museum_logo.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "https://www.phallus.is/, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:15:14.839Z"
+  },
+  "good:Q6107726": {
+    "lat": 51.4825,
+    "lng": -0.0062,
+    "blurb": "17th century building converted into a nuclear reactor.",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:15:42.687Z"
+  },
+  "good:Q28620": {
+    "lat": 55.8826,
+    "lng": -4.3246,
+    "blurb": "Wikipedia's millionth article!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jordanhill_station_2016-08-25.jpg/330px-Jordanhill_station_2016-08-25.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Jordanhill_station_2016-08-25.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Jordanhill_station_2016-08-25.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Otto Karikoski, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:16:01.552Z"
+  },
+  "good:Q9213271": {
+    "lat": 50.8756,
+    "lng": 20.6217,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kielce_Bus_Station_Jan2020.jpg/330px-Kielce_Bus_Station_Jan2020.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kielce_Bus_Station_Jan2020.jpg/3840px-Kielce_Bus_Station_Jan2020.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:16:16.433Z"
+  },
+  "good:Q1126598": {
+    "lat": 47.485,
+    "lng": 19.137222,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/K%C5%91b%C3%A1nya_limestone_mine_05.JPG/330px-K%C5%91b%C3%A1nya_limestone_mine_05.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/K%C5%91b%C3%A1nya_limestone_mine_05.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:K%C5%91b%C3%A1nya_limestone_mine_05.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "VinceB, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:17:32.983Z"
+  },
+  "good:Q959999": {
+    "lat": 54.44415556,
+    "lng": 18.566675,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Krzywy_Domek_w_Sopocie.jpg/330px-Krzywy_Domek_w_Sopocie.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Krzywy_Domek_w_Sopocie.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Krzywy_Domek_w_Sopocie.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Unknown author, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:17:43.112Z"
+  },
+  "good:Q1793228": {
+    "lat": 51.418888888889,
+    "lng": 12.2325,
+    "blurb": "A village killed by sound pollution",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flughafen_LeipzigHalle%2C_Blick_nach_Kursdorf_%282%29.jpg/330px-Flughafen_LeipzigHalle%2C_Blick_nach_Kursdorf_%282%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flughafen_LeipzigHalle%2C_Blick_nach_Kursdorf_%282%29.jpg/3840px-Flughafen_LeipzigHalle%2C_Blick_nach_Kursdorf_%282%29.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Aagnverglaser, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:19:10.113Z"
+  },
+  "good:Q56309998": {
+    "lat": 47.429963,
+    "lng": 2.73893,
+    "blurb": "!!!Adult For those with a passion for fisting.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/La-Fistini%C3%A8re-Logo.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/La-Fistini%C3%A8re-Logo.jpg",
+      "filePage": "https://en.wikipedia.org/wiki/File:La-Fistini%C3%A8re-Logo.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:19:40.300Z"
+  },
+  "good:Q1232467": {
+    "lat": 41.892345,
+    "lng": 12.485106,
+    "blurb": "The origin of this pit was subject to debate even during Roman times",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/RomaForoRomanoLacusCurtius.jpg/330px-RomaForoRomanoLacusCurtius.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/RomaForoRomanoLacusCurtius.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:RomaForoRomanoLacusCurtius.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "MM, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:20:18.429Z"
+  },
+  "good:Q558195": {
+    "lat": 50.57222222,
+    "lng": 8.58888889,
+    "blurb": "By popular demand from its residents, this city was completely eliminated.",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:21:13.787Z"
+  },
+  "good:Q827202": {
+    "lat": 55.677222222222,
+    "lng": 60.799444444444,
+    "blurb": "Potentially the most polluted place on Earth.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Satellite_image_map_of_Mayak.jpg/330px-Satellite_image_map_of_Mayak.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Satellite_image_map_of_Mayak.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Satellite_image_map_of_Mayak.jpg",
+      "license": "Public domain",
+      "attribution": "NASA, Jan Rieke (color correction, borders and labels), Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:21:51.081Z"
+  },
+  "good:Q132031": {
+    "lat": 53.413469444444,
+    "lng": 7.2233305555556,
+    "blurb": "Outdoes its better known competitor.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Suurhusen_kirche.jpg/330px-Suurhusen_kirche.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Suurhusen_kirche.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Suurhusen_kirche.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Axel Heymann, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:22:37.116Z"
+  },
+  "good:Q114985162": {
+    "lat": 43.275231,
+    "lng": -11.685026,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Europe_with_and_without_Listenbourg_fictional_country.svg/330px-Europe_with_and_without_Listenbourg_fictional_country.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Europe_with_and_without_Listenbourg_fictional_country.svg/3840px-Europe_with_and_without_Listenbourg_fictional_country.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Tukp, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:24:07.598Z"
+  },
+  "good:Q110969615": {
+    "lat": 52.274237,
+    "lng": -3.32659,
+    "blurb": "The airport that doesn't exist",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Modern_day_folly_%28geograph_3821563%29_%28cropped%29.jpg/330px-Modern_day_folly_%28geograph_3821563%29_%28cropped%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Modern_day_folly_%28geograph_3821563%29_%28cropped%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Modern_day_folly_(geograph_3821563)_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "chris whitehouse, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:24:35.008Z"
+  },
+  "good:Q322": {
+    "lat": 53.223333,
+    "lng": -4.199444,
+    "blurb": "Its full name is even worse!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Llanfair_Pwllgwyngyll_roofscape_%281%29_-_geograph.org.uk_-_1058331.jpg/330px-Llanfair_Pwllgwyngyll_roofscape_%281%29_-_geograph.org.uk_-_1058331.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Llanfair_Pwllgwyngyll_roofscape_%281%29_-_geograph.org.uk_-_1058331.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Llanfair_Pwllgwyngyll_roofscape_(1)_-_geograph.org.uk_-_1058331.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Robin Drayton, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:25:03.240Z"
+  },
+  "good:Q157747": {
+    "lat": 40.75025,
+    "lng": 14.48677778,
+    "blurb": "Remarkably well-preserved brothel",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pompei_5234.jpg/330px-Pompei_5234.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pompei_5234.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Pompei_5234.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "General Cucombre from New York, USA, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:25:21.109Z"
+  },
+  "good:Q6730823": {
+    "lat": 51.746111111111,
+    "lng": -0.47305555555556,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Plough_roundabout_sign.jpg/330px-Plough_roundabout_sign.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Plough_roundabout_sign.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Plough_roundabout_sign.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "ClickRick, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:26:05.095Z"
+  },
+  "good:Q152072": {
+    "lat": 50.8449844,
+    "lng": 4.349988,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/330px-Bruxelles_Manneken_Pis_cropped.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bruxelles_Manneken_Pis_cropped.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bruxelles_Manneken_Pis_cropped.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Bruxelles_Manneken_Pis.jpg: Myrabella derivative work: Myrabella (talk), CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:26:58.070Z"
+  },
+  "good:Q152360": {
+    "lat": 50.848611,
+    "lng": 4.354167,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Janneken_Pis.jpg/330px-Janneken_Pis.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Janneken_Pis.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Janneken_Pis.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Antonio Zugaldia, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:27:14.226Z"
+  },
+  "good:Q163395": {
+    "lat": 60.30095,
+    "lng": 19.13225,
+    "blurb": "A lighthouse and a border story",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/M%C3%A4rket_Island_map.svg/330px-M%C3%A4rket_Island_map.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/M%C3%A4rket_Island_map.svg/960px-M%C3%A4rket_Island_map.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Oona Raisanen, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:28:41.118Z"
+  },
+  "good:Q771936": {
+    "lat": 55.68805556,
+    "lng": 37.51333333,
+    "blurb": "Supposed secret metro line",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mapmetro2.jpg/330px-Mapmetro2.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mapmetro2.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mapmetro2.jpg",
+      "license": "Public domain",
+      "attribution": "\"Military forces in transition. DOD.\" (metro.ru), Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:29:00.578Z"
+  },
+  "good:Q659655": {
+    "lat": 52.060277777778,
+    "lng": -9.0611111111111,
+    "blurb": "Hosted 1993 Eurovision, despite a population of just 1500",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/McCarthy%27s_Bar_-_geograph.org.uk_-_1789488.jpg/330px-McCarthy%27s_Bar_-_geograph.org.uk_-_1789488.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/McCarthy%27s_Bar_-_geograph.org.uk_-_1789488.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:McCarthy%27s_Bar_-_geograph.org.uk_-_1789488.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Sarah777, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:29:37.337Z"
+  },
+  "good:Q1526711": {
+    "lat": 49.5344,
+    "lng": 11.9669,
+    "blurb": "Sand, snow, same difference",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hirschau_Monte_Kaolino_01.jpg/330px-Hirschau_Monte_Kaolino_01.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Hirschau_Monte_Kaolino_01.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Hirschau_Monte_Kaolino_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "H.Helmlechner, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:30:35.462Z"
+  },
+  "good:Q130321": {
+    "lat": 40.15833333333333,
+    "lng": 24.327222222222222,
+    "blurb": "Women are strictly banned from this political subdivision",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mt._Athos_%283939757657%29.jpg/330px-Mt._Athos_%283939757657%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mt._Athos_%283939757657%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mt._Athos_(3939757657).jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Dave Proffer, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:31:14.847Z"
+  },
+  "good:Q1954595": {
+    "lat": 45.81516667,
+    "lng": 15.97358333,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Museum_of_Broken_Relationships_logo.svg/330px-Museum_of_Broken_Relationships_logo.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Museum_of_Broken_Relationships_logo.svg/960px-Museum_of_Broken_Relationships_logo.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:31:37.682Z"
+  },
+  "good:Q2897273": {
+    "lat": 55.735554,
+    "lng": 37.607916,
+    "blurb": "Home to many destroyed Soviet statues",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Muzeon_20130427_172147_%288686208400%29.jpg/330px-Muzeon_20130427_172147_%288686208400%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muzeon_20130427_172147_%288686208400%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Muzeon_20130427_172147_(8686208400).jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Sergey Rodovnichenko from Moscow, Russia, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:33:36.745Z"
+  },
+  "good:Q11884136": {
+    "lat": 67.5564638,
+    "lng": 24.5008281,
+    "blurb": "Finlandception!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Neitokainen_from_above_in_Kittil%C3%A4%2C_Lapland%2C_Finland%2C_2023_September.jpg/330px-Neitokainen_from_above_in_Kittil%C3%A4%2C_Lapland%2C_Finland%2C_2023_September.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Neitokainen_from_above_in_Kittil%C3%A4%2C_Lapland%2C_Finland%2C_2023_September.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Neitokainen_from_above_in_Kittil%C3%A4,_Lapland,_Finland,_2023_September.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Simo Räsänen, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:33:52.917Z"
+  },
+  "good:Q2350741": {
+    "lat": 53.349805555555555,
+    "lng": -6.26025,
+    "blurb": "Ireland's own Nelson's Column (you can imagine why it was blown up)",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lossy-page1-2658px-Nelson%27s_Pillar%2C_Sackville-Street%2C_Dublin_RMG_PU3914_%28cropped%29.jpg/330px-Lossy-page1-2658px-Nelson%27s_Pillar%2C_Sackville-Street%2C_Dublin_RMG_PU3914_%28cropped%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lossy-page1-2658px-Nelson%27s_Pillar%2C_Sackville-Street%2C_Dublin_RMG_PU3914_%28cropped%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lossy-page1-2658px-Nelson%27s_Pillar,_Sackville-Street,_Dublin_RMG_PU3914_(cropped).jpg",
+      "license": "Public domain",
+      "attribution": "Fisher, H. Son and Co; George Petrie; R. Winkles, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:34:33.549Z"
+  },
+  "good:Q151938": {
+    "lat": 50.730277777778,
+    "lng": 6.0133333333333,
+    "blurb": "The world capital of Esperanto",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Moresnet.svg/330px-Flag_of_Moresnet.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Moresnet.svg/960px-Flag_of_Moresnet.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "ThrashedParanoid, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:35:20.102Z"
+  },
+  "good:Q7018185": {
+    "lat": 50.7875,
+    "lng": 0.0566,
+    "blurb": "The world's most useless railway station.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Newhaven_Marine_Station_-_January_2014..JPG/330px-Newhaven_Marine_Station_-_January_2014..JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Newhaven_Marine_Station_-_January_2014..JPG/3840px-Newhaven_Marine_Station_-_January_2014..JPG",
+      "filePage": "",
+      "license": "",
+      "attribution": "AlexNevinTylee, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:37:07.455Z"
+  },
+  "good:Q3408649": {
+    "lat": 49.42608,
+    "lng": 15.8638264,
+    "blurb": "!!!ADULT Be prepared.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Castle_%C4%8Cern%C3%A1_in_%C4%8Cern%C3%A1%2C_%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_District.jpg/1280px-Castle_%C4%8Cern%C3%A1_in_%C4%8Cern%C3%A1%2C_%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_District.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Castle_%C4%8Cern%C3%A1_in_%C4%8Cern%C3%A1%2C_%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_District.jpg/1280px-Castle_%C4%8Cern%C3%A1_in_%C4%8Cern%C3%A1%2C_%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_District.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:38:05.633Z"
+  },
+  "good:Q17848538": {
+    "lat": 55.95269444444445,
+    "lng": -4.525333333333333,
+    "blurb": "The \"Dog Suicide Bridge\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg/330px-Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Overtoun Bridge by Lairich Rig, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:38:25.592Z"
+  },
+  "good:Q173920": {
+    "lat": 63.28916667,
+    "lng": 18.70333333,
+    "blurb": "!!!REM meh",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Paradiskullen_Ornskoldsvik.jpg/330px-Paradiskullen_Ornskoldsvik.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Paradiskullen_Ornskoldsvik.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Paradiskullen_Ornskoldsvik.jpg",
+      "license": "Public domain",
+      "attribution": "Petey21, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:38:54.685Z"
+  },
+  "good:Q373767": {
+    "lat": 43.342778,
+    "lng": -1.7655,
+    "blurb": "This island changes hands every six months!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Isla_de_los_Faisanes-edited.jpg/330px-Isla_de_los_Faisanes-edited.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Isla_de_los_Faisanes-edited.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Isla_de_los_Faisanes-edited.jpg",
+      "license": "CC BY 2.5",
+      "attribution": "Isla_de_los_Faisanes.jpg: Ignacio Gavira derivative work: Giorgiomonteforti (talk), CC BY 2.5, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:39:23.648Z"
+  },
+  "good:Q3116212": {
+    "lat": 44.44569,
+    "lng": 26.09765,
+    "blurb": "But you'll get fat!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pia%C8%9Ba_Roman%C4%83_Metro_station%2C_Bucharest_%2846410498961%29.jpg/330px-Pia%C8%9Ba_Roman%C4%83_Metro_station%2C_Bucharest_%2846410498961%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pia%C8%9Ba_Roman%C4%83_Metro_station%2C_Bucharest_%2846410498961%29.jpg/3840px-Pia%C8%9Ba_Roman%C4%83_Metro_station%2C_Bucharest_%2846410498961%29.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Dimitris Kamaras, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:40:36.132Z"
+  },
+  "good:Q10369016": {
+    "lat": 45.653072222222,
+    "lng": 3.8084472222222,
+    "blurb": "The French government threatened Wikipedia to delete its article on this station",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Base_militaire_de_Pierre-sur-Haute.jpg/330px-Base_militaire_de_Pierre-sur-Haute.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Base_militaire_de_Pierre-sur-Haute.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Base_militaire_de_Pierre-sur-Haute.jpg",
+      "license": "Public domain",
+      "attribution": "S. RIMBAUD, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:41:23.561Z"
+  },
+  "good:Q79217": {
+    "lat": 45.815195994,
+    "lng": 14.127588977,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/H%C3%B6hlenburg_Predjama_in_Slovenien.jpg/330px-H%C3%B6hlenburg_Predjama_in_Slovenien.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/H%C3%B6hlenburg_Predjama_in_Slovenien.jpg/3840px-H%C3%B6hlenburg_Predjama_in_Slovenien.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Lettkemann, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:41:43.804Z"
+  },
+  "good:Q13706": {
+    "lat": 51.894444444444,
+    "lng": 1.4825,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Europe_location_SLD.png/330px-Europe_location_SLD.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Europe_location_SLD.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Europe_location_SLD.png",
+      "license": "CC BY-SA 4.0",
+      "attribution": "David Liuzzo, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:42:04.440Z"
+  },
+  "good:Q2118416": {
+    "lat": 53.07108,
+    "lng": 8.81308,
+    "blurb": "",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:42:30.744Z"
+  },
+  "good:Q130177": {
+    "lat": 52.202189,
+    "lng": 0.128182,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Reality_Checkpoint_Cambridge_England_2.jpg/330px-Reality_Checkpoint_Cambridge_England_2.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Reality_Checkpoint_Cambridge_England_2.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Reality_Checkpoint_Cambridge_England_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Rich257 at the English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:43:03.577Z"
+  },
+  "good:Q4403385": {
+    "lat": 57.90577,
+    "lng": 27.71323,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Map_Estonia_-_V%C3%A4rska_vald_-_Saatse_Boot.png/330px-Map_Estonia_-_V%C3%A4rska_vald_-_Saatse_Boot.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Map_Estonia_-_V%C3%A4rska_vald_-_Saatse_Boot.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Map_Estonia_-_V%C3%A4rska_vald_-_Saatse_Boot.png",
+      "license": "CC BY 2.0",
+      "attribution": "Map data (c) OpenStreetMap contributors, CC-BY-SA &Municipality boundaries Estonian Land Board, 1.06.2012 • Shape files infrastructure (railway, roads): all originally by OpenStreetMap contributors. Status december 2011 • Municipality boundaries: derived via maaamet.ee. Unrestricted use from Estonian Land Board, status 1.06.2012 • Data for landuse: OSM / Corine land cover, 2006 (eea.europa.eu) • Mentioned sources combined and exported for each commune using a script by Michiel1972, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:43:28.048Z"
+  },
+  "good:Q704670": {
+    "lat": 52.484,
+    "lng": 13.3716,
+    "blurb": "Lasting example of Nazi architecture, mostly because it was intended to be ridiculously heavy",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Berlin_belastungskoerper.jpg/330px-Berlin_belastungskoerper.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Berlin_belastungskoerper.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Berlin_belastungskoerper.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Dieter Brügmann, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:44:56.736Z"
+  },
+  "good:Q137696327": {
+    "lat": 52.12468611111111,
+    "lng": 5.27275,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Royal_Coat_of_Arms_of_the_United_Kingdom_%28Government_in_Scotland%29.svg/330px-Royal_Coat_of_Arms_of_the_United_Kingdom_%28Government_in_Scotland%29.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Royal_Coat_of_Arms_of_the_United_Kingdom_%28Government_in_Scotland%29.svg/1920px-Royal_Coat_of_Arms_of_the_United_Kingdom_%28Government_in_Scotland%29.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Sodacan, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:45:11.422Z"
+  },
+  "good:Q513821": {
+    "lat": 49.961955555556,
+    "lng": 15.288291666667,
+    "blurb": "Every bone you can think of!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kostnice_Sedlec.JPG/330px-Kostnice_Sedlec.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kostnice_Sedlec.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kostnice_Sedlec.JPG",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Pudelek (Marcin Szala), CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:45:36.784Z"
+  },
+  "good:Q47766735": {
+    "lat": 36.73333333,
+    "lng": -3.68333333,
+    "blurb": "!!!REM",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/F%C3%A1brica_de_salaz%C3%B3n_de_pescado_%28Firmun_Lulium_Sexi%29._Piletas.jpg/330px-F%C3%A1brica_de_salaz%C3%B3n_de_pescado_%28Firmun_Lulium_Sexi%29._Piletas.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/F%C3%A1brica_de_salaz%C3%B3n_de_pescado_%28Firmun_Lulium_Sexi%29._Piletas.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_de_salaz%C3%B3n_de_pescado_(Firmun_Lulium_Sexi)._Piletas.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "José Luis Filpo Cabana, CC BY 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:47:07.943Z"
+  },
+  "good:Q7493665": {
+    "lat": 51.388,
+    "lng": 1.3899,
+    "blurb": "Of mysterious origin",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shell-grotto-margate.jpg/330px-Shell-grotto-margate.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shell-grotto-margate.jpg/3840px-Shell-grotto-margate.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Alby, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:48:42.618Z"
+  },
+  "good:Q25052267": {
+    "lat": 45.000884,
+    "lng": 9.547331,
+    "blurb": "",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:48:52.622Z"
+  },
+  "good:Q7499163": {
+    "lat": 50.7547,
+    "lng": -2.2279,
+    "blurb": "Yes, this town is actually named after excrement",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Shitterton_Sign.jpg/330px-The_Shitterton_Sign.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/The_Shitterton_Sign.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_Shitterton_Sign.jpg",
+      "license": "Public domain",
+      "attribution": "Jameslox, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:49:42.358Z"
+  },
+  "good:Q211480": {
+    "lat": 53.282341,
+    "lng": -3.8285799,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Smallest_House_in_Great_Britain.jpg/330px-The_Smallest_House_in_Great_Britain.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Smallest_House_in_Great_Britain.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_Smallest_House_in_Great_Britain.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "I, JK the Unwise, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:49:51.835Z"
+  },
+  "good:Q1746596": {
+    "lat": 65.7261,
+    "lng": 24.5687,
+    "blurb": "Has its own SnowHotel",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/LumiLinna.jpg/330px-LumiLinna.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/LumiLinna.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:LumiLinna.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "No machine-readable author provided. Dmit~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:50:19.212Z"
+  },
+  "good:Q190353": {
+    "lat": 41.90541,
+    "lng": 12.48061,
+    "blurb": "A recognized, sovereign entity that possesses zero land",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_the_Order_of_St._John_%28various%29.svg/330px-Flag_of_the_Order_of_St._John_%28various%29.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_the_Order_of_St._John_%28various%29.svg/960px-Flag_of_the_Order_of_St._John_%28various%29.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Zscout370, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:50:53.678Z"
+  },
+  "good:Q574289": {
+    "lat": 48.4908,
+    "lng": 9.21573,
+    "blurb": "Good luck walking along this street.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Engste_Stra%C3%9Fe_der_Welt.jpg/330px-Engste_Stra%C3%9Fe_der_Welt.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Engste_Stra%C3%9Fe_der_Welt.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Engste_Stra%C3%9Fe_der_Welt.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "kathrin_gaisser, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:51:25.455Z"
+  },
+  "good:Q801472": {
+    "lat": 51.5448,
+    "lng": -0.0086,
+    "blurb": "!!!REM nah",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Stratford_International_7859960534.jpg/330px-Stratford_International_7859960534.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Stratford_International_7859960534.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Stratford_International_7859960534.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Ed Webster https://www.flickr.com/photos/ed_webster, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:51:42.859Z"
+  },
+  "good:Q106609885": {
+    "lat": 53.408,
+    "lng": -2.1754,
+    "blurb": "It is in fact not a pyramid.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stockport_Pyramid%2C_Stockport_%2816719692949%29.jpg/330px-Stockport_Pyramid%2C_Stockport_%2816719692949%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stockport_Pyramid%2C_Stockport_%2816719692949%29.jpg/3840px-Stockport_Pyramid%2C_Stockport_%2816719692949%29.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Smith & Brown, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:52:06.637Z"
+  },
+  "good:Q201013": {
+    "lat": 78.235866666667,
+    "lng": 15.491372222222,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_Svalbard_Global_Seed_Vault.png/330px-Logo_Svalbard_Global_Seed_Vault.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Svalbard_Global_Seed_Vault.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Logo_Svalbard_Global_Seed_Vault.png",
+      "license": "Public domain",
+      "attribution": "Svalbard Global Seed Vault, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:52:18.665Z"
+  },
+  "good:Q907112": {
+    "lat": 47.3,
+    "lng": 29.25,
+    "blurb": "A time machine to the Soviet era",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Transnistria_%28state%29.svg/330px-Flag_of_Transnistria_%28state%29.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Transnistria_%28state%29.svg/1280px-Flag_of_Transnistria_%28state%29.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:52:46.758Z"
+  },
+  "good:Q1056493": {
+    "lat": 51.5777,
+    "lng": -1.56675,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Uffington-White-Horse-sat.jpg/330px-Uffington-White-Horse-sat.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Uffington-White-Horse-sat.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Uffington-White-Horse-sat.jpg",
+      "license": "Public domain",
+      "attribution": "USGS, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:53:06.254Z"
+  },
+  "good:Q1508395": {
+    "lat": 60.765530555556,
+    "lng": -0.83496111111111,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Unst_Bus_Shelter.jpg/330px-Unst_Bus_Shelter.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Unst_Bus_Shelter.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Unst_Bus_Shelter.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Anne Burgess, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:53:55.059Z"
+  },
+  "good:Q7899119": {
+    "lat": 59.32472,
+    "lng": 18.07017,
+    "blurb": "Was eventually reused as part of a building, to notoriety",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pr%C3%A4stgatan_runsten_n%C3%A4rbild_mars_2007.JPG/330px-Pr%C3%A4stgatan_runsten_n%C3%A4rbild_mars_2007.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pr%C3%A4stgatan_runsten_n%C3%A4rbild_mars_2007.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Pr%C3%A4stgatan_runsten_n%C3%A4rbild_mars_2007.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Mats Halldin 17:11, 23 March 2007 (UTC), CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:55:02.000Z"
+  },
+  "good:Q1092030": {
+    "lat": 47.515277777778,
+    "lng": 19.081944444444,
+    "blurb": "This castle started out as cardboard!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vajdahunyad_v%C3%A1ra_Budapest_September_2013.jpg/330px-Vajdahunyad_v%C3%A1ra_Budapest_September_2013.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Vajdahunyad_v%C3%A1ra_Budapest_September_2013.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Vajdahunyad_v%C3%A1ra_Budapest_September_2013.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Felix König, CC BY 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:55:26.135Z"
+  },
+  "good:Q856747": {
+    "lat": 41.901011111111,
+    "lng": 12.451169444444,
+    "blurb": "!!!REM meh",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Citta_del_Vaticano_train_station_02.jpg/330px-Citta_del_Vaticano_train_station_02.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Citta_del_Vaticano_train_station_02.jpg/3840px-Citta_del_Vaticano_train_station_02.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:55:52.565Z"
+  },
+  "good:Q678572": {
+    "lat": 50.424,
+    "lng": 6.221,
+    "blurb": "!!!REM eh",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vennbahn.png/330px-Vennbahn.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vennbahn.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Vennbahn.png",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:57:44.779Z"
+  },
+  "good:Q7963252": {
+    "lat": 54.9897,
+    "lng": -1.5323,
+    "blurb": "All of its signs are in Latin",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wallsend_Metro_Station_%28detail%29_%28geograph_4747420%29.jpg/330px-Wallsend_Metro_Station_%28detail%29_%28geograph_4747420%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Wallsend_Metro_Station_%28detail%29_%28geograph_4747420%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Wallsend_Metro_Station_(detail)_(geograph_4747420).jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Andrew Curtis, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:58:07.560Z"
+  },
+  "good:Q7993682": {
+    "lat": 53.9591,
+    "lng": -1.07959,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Whip-Ma-Whop-Ma-Gate.jpg/330px-Whip-Ma-Whop-Ma-Gate.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Whip-Ma-Whop-Ma-Gate.jpg/3840px-Whip-Ma-Whop-Ma-Gate.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Warofdreams, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:58:51.804Z"
+  },
+  "good:Q105558872": {
+    "lat": 47.53278611111111,
+    "lng": 25.5515625,
+    "blurb": "",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:59:11.994Z"
+  },
+  "good:Q8035941": {
+    "lat": 56.5905,
+    "lng": 9.64147,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Viborg_Kommune_-_Klejtrup_-_Verdenskortet_06_ies.jpg/330px-Viborg_Kommune_-_Klejtrup_-_Verdenskortet_06_ies.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Viborg_Kommune_-_Klejtrup_-_Verdenskortet_06_ies.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Viborg_Kommune_-_Klejtrup_-_Verdenskortet_06_ies.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Frank Vincentz, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T01:59:42.589Z"
   }
 }
