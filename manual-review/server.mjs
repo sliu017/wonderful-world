@@ -17,10 +17,10 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = __dirname;
 const PUBLIC_DIR = path.join(ROOT, 'public');
-const SCRIPTS_DIR = path.join(ROOT, '..', 'scripts');
-const GOOD_PATH = path.join(SCRIPTS_DIR, 'good_group.json');
+const SCRIPTS_DIR = path.join(ROOT, '..', 'scripts/data');
+const GOOD_PATH = path.join(SCRIPTS_DIR, 'group_with_direct_coords.json');
 const NER_PATH = path.join(SCRIPTS_DIR, 'ner_results.json');
-const REVIEWS_PATH = path.join(ROOT, 'reviews.json');
+const REVIEWS_PATH = process.env.REVIEWS_PATH || path.join(ROOT, 'reviews.json');
 
 const PORT = Number(process.env.PORT) || 5174;
 const USER_AGENT =
@@ -42,7 +42,7 @@ function loadArticles() {
 
   const articles = [];
 
-  // good_group.json: keyed by Wikidata Q-id, each already carries coordinates.
+  // group_with_direct_coords.json: keyed by Wikidata Q-id, each already carries coordinates.
   for (const [qid, v] of Object.entries(good)) {
     const lat = v?.coords?.lat;
     const lng = v?.coords?.lng;
@@ -63,6 +63,7 @@ function loadArticles() {
   }
 
   // ner_results.json: keyed by article title, value is { entityName: count }.
+  // (Filename unchanged by the restructure; still lives in scripts/data/.)
   // No coordinates — the entity names become geocodable hint chips.
   for (const [title, entities] of Object.entries(ner)) {
     const hints = Object.entries(entities)
@@ -99,6 +100,10 @@ try {
   process.exit(1);
 }
 
+// Fast id -> title lookup (local, no network). Used to stamp the article title
+// onto every saved review so reviews.json stays human-readable on its own.
+const titleById = new Map(ARTICLES.map((a) => [a.id, a.title]));
+
 // ---------------------------------------------------------------------------
 // Reviews persistence. reviews.json maps article id -> saved review.
 // Kept in memory and written atomically (temp file + rename) on every save so
@@ -116,6 +121,16 @@ try {
   reviews = {};
 }
 
+// Backfill the title onto any review saved before titles were stored. Purely a
+// local lookup — no API calls — and only rewrites the file if something changed.
+let backfilled = 0;
+for (const [id, r] of Object.entries(reviews)) {
+  if (r && !r.title && titleById.has(id)) {
+    reviews[id] = { title: titleById.get(id), ...r }; // title first, for readable diffs
+    backfilled++;
+  }
+}
+
 let writeChain = Promise.resolve();
 function persistReviews() {
   // Serialize writes so overlapping saves never interleave.
@@ -125,6 +140,11 @@ function persistReviews() {
     await fsp.rename(tmp, REVIEWS_PATH);
   });
   return writeChain;
+}
+
+if (backfilled) {
+  persistReviews();
+  console.log(`Backfilled titles onto ${backfilled} existing review(s).`);
 }
 
 // ---------------------------------------------------------------------------
@@ -330,7 +350,7 @@ const server = http.createServer(async (req, res) => {
 
     if (pathname === '/api/reviews' && req.method === 'POST') {
       const body = JSON.parse(await readBody(req));
-      const { id, lat, lng, status, blurb, image } = body;
+      const { id, lat, lng, status, blurb, image, title: bodyTitle } = body;
       if (typeof id !== 'string') return sendJson(res, 400, { error: 'id required' });
 
       if (status === 'unreviewed') {
@@ -340,7 +360,11 @@ const server = http.createServer(async (req, res) => {
         if (status === 'confirmed' && (!Number.isFinite(lat) || !Number.isFinite(lng))) {
           return sendJson(res, 400, { error: 'lat/lng required to confirm' });
         }
+        // Title comes from the local article map first (authoritative); the
+        // value the client sends is just a fallback.
+        const title = titleById.get(id) || (typeof bodyTitle === 'string' ? bodyTitle : '');
         reviews[id] = {
+          title,
           lat: Number.isFinite(lat) ? lat : null,
           lng: Number.isFinite(lng) ? lng : null,
           blurb: typeof blurb === 'string' ? blurb : '',

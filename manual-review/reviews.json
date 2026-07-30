@@ -1,17 +1,20 @@
 {
   "good:Q16896007": {
+    "title": "Null Island",
     "lat": 0,
     "lng": 0,
     "status": "confirmed",
     "reviewedAt": "2026-07-27T00:37:33.340Z"
   },
   "good:Q123577560": {
+    "title": "Abuja Airplane House",
     "lat": 9.049444444444445,
     "lng": 7.516388888888889,
     "status": "confirmed",
     "reviewedAt": "2026-07-27T01:00:11.291Z"
   },
   "good:Q105702255": {
+    "title": "Akon City",
     "lat": 14.274055555555556,
     "lng": -16.88986111111111,
     "blurb": "Planned \"Real-life Wakanda\" based on blockchain and cryptocurrency",
@@ -27,6 +30,7 @@
     "reviewedAt": "2026-07-27T01:03:03.544Z"
   },
   "good:Q620634": {
+    "title": "Bir Tawil",
     "lat": 21.870555555556,
     "lng": 33.737222222222,
     "blurb": "An area of claimed strangely claimed by neither country it borders",
@@ -42,6 +46,7 @@
     "reviewedAt": "2026-07-27T01:05:49.245Z"
   },
   "good:Q4929048": {
+    "title": "Blue Desert",
     "lat": 28.639722222222,
     "lng": 34.560833333333,
     "blurb": "One man and a dream of peace, with lots of blue paint",
@@ -57,6 +62,7 @@
     "reviewedAt": "2026-07-27T01:06:55.495Z"
   },
   "good:Q895056": {
+    "title": "Boulders Beach",
     "lat": -34.197,
     "lng": 18.451,
     "blurb": "A colony of critically endangered African penguins",
@@ -72,6 +78,7 @@
     "reviewedAt": "2026-07-27T01:07:41.227Z"
   },
   "good:Q2911837": {
+    "title": "Congo Pedicle",
     "lat": -12.28333333,
     "lng": 28.56666667,
     "blurb": "A geographically peculiar area of the Democratic Republic of the Congo",
@@ -87,6 +94,7 @@
     "reviewedAt": "2026-07-27T01:09:42.397Z"
   },
   "good:Q590742": {
+    "title": "Dallol (hydrothermal system)",
     "lat": 14.241666666667,
     "lng": 40.3,
     "blurb": "One of the most acidic and beautiful places on Earth",
@@ -102,6 +110,7 @@
     "reviewedAt": "2026-07-27T01:10:23.474Z"
   },
   "good:Q31347745": {
+    "title": "Gaet'ale Pond",
     "lat": 14.213083333333,
     "lng": 40.321472222222,
     "blurb": "The saltiest body of water on Earth",
@@ -117,6 +126,7 @@
     "reviewedAt": "2026-07-27T01:11:16.776Z"
   },
   "good:Q5564105": {
+    "title": "Giraffe Manor",
     "lat": -1.3756,
     "lng": 36.7447,
     "blurb": "A hotel where you can dine with giraffes",
@@ -132,6 +142,7 @@
     "reviewedAt": "2026-07-27T01:11:54.889Z"
   },
   "good:Q216876": {
+    "title": "Hoba meteorite",
     "lat": -19.592472,
     "lng": 17.933667,
     "blurb": "Largest chunk of meteorite in the world",
@@ -147,6 +158,7 @@
     "reviewedAt": "2026-07-27T01:12:45.592Z"
   },
   "good:Q7401347": {
+    "title": "Jacob's Ladder (Saint Helena)",
     "lat": -15.9256,
     "lng": -5.7192,
     "blurb": "One very steep ladder",
@@ -162,6 +174,7 @@
     "reviewedAt": "2026-07-27T01:13:18.791Z"
   },
   "good:Q3743182": {
+    "title": "Kalakuta Republic",
     "lat": 8.035371398973997,
     "lng": 4.6491440918634295,
     "blurb": "A small compound that declared itself independent from Nigeria - to devastating consequences",
@@ -170,6 +183,7 @@
     "reviewedAt": "2026-07-27T01:14:22.991Z"
   },
   "good:Q332628": {
+    "title": "Lake Nyos",
     "lat": 6.4380555555556,
     "lng": 10.298888888889,
     "blurb": "A lake that killed thousands, without any of them touching its waters",
@@ -185,6 +199,7 @@
     "reviewedAt": "2026-07-27T01:16:34.526Z"
   },
   "good:Q1522557": {
+    "title": "Lake Retba",
     "lat": 14.838888888889,
     "lng": -17.234444444444,
     "blurb": "A Senegalese lake famous for its unique color",
@@ -200,6 +215,7 @@
     "reviewedAt": "2026-07-27T01:17:18.005Z"
   },
   "good:Q802901": {
+    "title": "Mauritania Railway",
     "lat": 21.29799,
     "lng": -13.0476,
     "blurb": "The entire rail system of Mauritania",
@@ -215,6 +231,7 @@
     "reviewedAt": "2026-07-27T01:17:55.958Z"
   },
   "good:Q26761": {
+    "title": "Oklo",
     "lat": -1.3944444444444,
     "lng": 13.160833333333,
     "blurb": "All-natural nuclear reactors",
@@ -230,6 +247,7 @@
     "reviewedAt": "2026-07-27T01:18:34.835Z"
   },
   "good:Q7128887": {
+    "title": "Palácio de Ferro",
     "lat": -8.812152,
     "lng": 13.235713,
     "blurb": "Legend has it that Gustave Eiffel himself designed this mysterious building",
@@ -245,6 +263,7 @@
     "reviewedAt": "2026-07-27T01:19:12.870Z"
   },
   "good:Q191146": {
+    "title": "Peñón de Vélez de la Gomera",
     "lat": 35.172222222222224,
     "lng": -4.299722222222222,
     "blurb": "This rock off the Moroccan coast is actually owned by Spain",
@@ -260,6 +279,7 @@
     "reviewedAt": "2026-07-27T01:20:18.272Z"
   },
   "good:Q1108659": {
+    "title": "Republic of Benin (1967)",
     "lat": 6.4499982,
     "lng": 7.499998,
     "blurb": "State that lasted a grand total of seven hours",
@@ -275,6 +295,7 @@
     "reviewedAt": "2026-07-27T01:20:47.240Z"
   },
   "good:Q82859": {
+    "title": "Socotra",
     "lat": 12.51,
     "lng": 53.92,
     "blurb": "The most alien-looking place on Earth, where cucumbers grow on trees",
@@ -290,6 +311,7 @@
     "reviewedAt": "2026-07-27T01:21:38.187Z"
   },
   "good:Q234208": {
+    "title": "Tromelin Island",
     "lat": -15.892222222222,
     "lng": 54.524722222222,
     "blurb": "This tiny island was the site of a humanitarian crisis that fueled the abolitionist movement",
@@ -305,6 +327,7 @@
     "reviewedAt": "2026-07-27T01:23:35.353Z"
   },
   "good:Q7755764": {
+    "title": "The Owl House (museum)",
     "lat": -31.8675,
     "lng": 24.5528,
     "blurb": "A constructed fantasy world, unrelated to the Disney series",
@@ -320,6 +343,7 @@
     "reviewedAt": "2026-07-27T01:24:42.680Z"
   },
   "good:Q1021583": {
+    "title": "Umoja, Kenya",
     "lat": 0.633333,
     "lng": 37.6333,
     "blurb": "A matriarchal society formed as a sanctuary",
@@ -335,6 +359,7 @@
     "reviewedAt": "2026-07-27T01:25:23.720Z"
   },
   "good:Q885118": {
+    "title": "Blood Falls",
     "lat": -77.72219444444444,
     "lng": 162.27344444444444,
     "blurb": "The name truly says it all",
@@ -350,6 +375,7 @@
     "reviewedAt": "2026-07-27T01:25:38.742Z"
   },
   "good:Q89453779": {
+    "title": "COVID-19 pandemic in Antarctica",
     "lat": -63.32083333333333,
     "lng": -57.8875,
     "blurb": "Yep, it reached here too",
@@ -365,6 +391,7 @@
     "reviewedAt": "2026-07-27T01:26:19.184Z"
   },
   "good:Q1368174": {
+    "title": "Esperanza Base",
     "lat": -63.396959,
     "lng": -56.998054,
     "blurb": "The only civilian settlement on Antarctica",
@@ -380,6 +407,7 @@
     "reviewedAt": "2026-07-27T01:27:58.892Z"
   },
   "good:Q2114101": {
+    "title": "Mawson Peak",
     "lat": -53.104166666667,
     "lng": 73.516944444444,
     "blurb": "Believe it or not, the highest mountain in Australia is in fact here",
@@ -395,6 +423,7 @@
     "reviewedAt": "2026-07-27T01:28:50.062Z"
   },
   "good:Q571433": {
+    "title": "McMurdo Dry Valleys",
     "lat": -77.466666666667,
     "lng": 162.51666666667,
     "blurb": "An area undergoing a two million year droght",
@@ -410,6 +439,7 @@
     "reviewedAt": "2026-07-27T01:29:20.644Z"
   },
   "good:Q745767": {
+    "title": "Marie Byrd Land",
     "lat": -80,
     "lng": -120,
     "blurb": "To this day, the largest completely unclaimed area of our planet",
@@ -425,6 +455,7 @@
     "reviewedAt": "2026-07-27T01:30:24.001Z"
   },
   "good:Q252609": {
+    "title": "New Swabia",
     "lat": -72,
     "lng": 5,
     "blurb": "Nazi Germany claimed parts of Antarctica... for some reason",
@@ -440,6 +471,7 @@
     "reviewedAt": "2026-07-27T01:30:53.707Z"
   },
   "good:Q1469788": {
+    "title": "Pole of Inaccessibility research station",
     "lat": -82.1,
     "lng": 54.9667,
     "blurb": "A Soviet research station completely buried under snow... except for a statue of Lenin",
@@ -455,6 +487,7 @@
     "reviewedAt": "2026-07-27T01:31:28.351Z"
   },
   "good:Q2745332": {
+    "title": "Villa Las Estrellas",
     "lat": -62.2002,
     "lng": -58.9641,
     "blurb": "An extremely remote town near Antarctica",
@@ -470,6 +503,7 @@
     "reviewedAt": "2026-07-27T01:32:33.727Z"
   },
   "good:Q1203470": {
+    "title": "798 Art Zone",
     "lat": 39.984749,
     "lng": 116.487871,
     "blurb": "Old military factories, now the heart of the Beijing art world",
@@ -485,6 +519,7 @@
     "reviewedAt": "2026-07-27T01:33:31.038Z"
   },
   "good:Q11661371": {
+    "title": "Aoshima, Ehime",
     "lat": 33.736111,
     "lng": 132.487222,
     "blurb": "An island with 36x more cats than people",
@@ -500,6 +535,7 @@
     "reviewedAt": "2026-07-27T01:33:52.665Z"
   },
   "good:Q514729": {
+    "title": "Artsvashen",
     "lat": 40.646111111111,
     "lng": 45.515555555556,
     "blurb": "An Armenian village completely surrounded and controlled by Azerbaijan",
@@ -515,6 +551,7 @@
     "reviewedAt": "2026-07-27T01:34:25.142Z"
   },
   "good:Q123266032": {
+    "title": "Barangay 76, Caloocan",
     "lat": 14.6565,
     "lng": 120.982975,
     "blurb": "An area with zero residents, but 210 voters",
@@ -530,6 +567,7 @@
     "reviewedAt": "2026-07-27T01:35:11.857Z"
   },
   "good:Q19839934": {
+    "title": "Bust of Ferdinand Marcos",
     "lat": 16.35361111,
     "lng": 120.49,
     "blurb": "The Filipino Mount Rushmore which blew up",
@@ -545,6 +583,7 @@
     "reviewedAt": "2026-07-27T01:35:51.312Z"
   },
   "good:Q498293": {
+    "title": "Camp Bonifas",
     "lat": 37.933,
     "lng": 126.725,
     "blurb": "\"The most dangerous hole in golf\"",
@@ -560,6 +599,7 @@
     "reviewedAt": "2026-07-27T01:36:33.425Z"
   },
   "good:Q2956442": {
+    "title": "Chao Mae Tuptim shrine",
     "lat": 13.7482,
     "lng": 100.547,
     "blurb": "Also known as Penis Shrine",
@@ -575,6 +615,7 @@
     "reviewedAt": "2026-07-27T01:36:48.736Z"
   },
   "good:Q31063": {
+    "title": "Christmas Island",
     "lat": -10.49,
     "lng": 105.6275,
     "blurb": "Isolated island with unique wildlife and many, many crabs",
@@ -590,6 +631,7 @@
     "reviewedAt": "2026-07-27T01:37:56.313Z"
   },
   "good:Q1764787": {
+    "title": "Dahala Khagrabari",
     "lat": 26.149911111111,
     "lng": 88.762161111111,
     "blurb": "A piece of India within a piece of Bangladesh within a piece of India within a piece of Bangladesh",
@@ -605,6 +647,7 @@
     "reviewedAt": "2026-07-27T01:38:54.932Z"
   },
   "good:Q70458": {
+    "title": "Darvaza gas crater",
     "lat": 40.25263,
     "lng": 58.43939,
     "blurb": "Locals call it the Gates of Hell",
@@ -620,6 +663,7 @@
     "reviewedAt": "2026-07-27T01:39:16.764Z"
   },
   "good:Q5269505": {
+    "title": "Dhekelia Power Station",
     "lat": 34.98027778,
     "lng": 33.74583333,
     "blurb": "This Cypriot power plant provides energy to the British",
@@ -635,6 +679,7 @@
     "reviewedAt": "2026-07-27T01:40:09.690Z"
   },
   "good:Q204403": {
+    "title": "Diomede Islands",
     "lat": 65.76687,
     "lng": -168.99445,
     "blurb": "Two islands, two miles between them, 21 hours apart",
@@ -650,6 +695,7 @@
     "reviewedAt": "2026-07-27T01:40:43.596Z"
   },
   "good:Q3014063": {
+    "title": "Ennigaldi-Nanna's museum",
     "lat": 30.961667,
     "lng": 46.105278,
     "blurb": "The first museum in the world",
@@ -665,6 +711,7 @@
     "reviewedAt": "2026-07-27T01:40:55.960Z"
   },
   "good:Q135645069": {
+    "title": "Fukushima Prefecture salient",
     "lat": 37.853,
     "lng": 139.715,
     "blurb": "A hiking trail known as \"the umbilical cord\"",
@@ -680,6 +727,7 @@
     "reviewedAt": "2026-07-27T01:41:21.329Z"
   },
   "good:Q219986": {
+    "title": "Gangkhar Puensum",
     "lat": 28.046944444444,
     "lng": 90.455,
     "blurb": "The tallest unclimbed mountain, due to the Bhutanese government",
@@ -695,6 +743,7 @@
     "reviewedAt": "2026-07-27T01:42:02.920Z"
   },
   "good:Q850547": {
+    "title": "Gate Tower Building",
     "lat": 34.698031,
     "lng": 135.489529,
     "blurb": "A highway passes straight through this office building",
@@ -710,6 +759,7 @@
     "reviewedAt": "2026-07-27T01:42:29.590Z"
   },
   "good:Q18125416": {
+    "title": "Hallstatt (China)",
     "lat": 23.1775,
     "lng": 114.326,
     "blurb": "An attempt to recreate a charming Austrian town in China",
@@ -725,6 +775,7 @@
     "reviewedAt": "2026-07-27T01:42:55.064Z"
   },
   "good:Q5638290": {
+    "title": "Haesindang Park",
     "lat": 37.26888889,
     "lng": 129.32638889,
     "blurb": "A park known for its many, many penis statues",
@@ -740,6 +791,7 @@
     "reviewedAt": "2026-07-27T01:43:31.186Z"
   },
   "good:Q17219690": {
+    "title": "Hanazono Room",
     "lat": 35.68961111,
     "lng": 139.71297222,
     "blurb": "!!!ADULT This unassuming apartment building is infamous in Japan for certain reasons",
@@ -755,6 +807,7 @@
     "reviewedAt": "2026-07-27T01:44:21.704Z"
   },
   "good:Q1171693": {
+    "title": "Hằng Nga Guesthouse",
     "lat": 11.934722222222,
     "lng": 108.43063888889,
     "blurb": "A fairy tale house",
@@ -770,6 +823,7 @@
     "reviewedAt": "2026-07-27T01:44:46.835Z"
   },
   "good:Q23729074": {
+    "title": "High-Heel Wedding Church",
     "lat": 23.37786111,
     "lng": 120.14875,
     "blurb": "Is that where the glass slipper went?",
@@ -785,6 +839,7 @@
     "reviewedAt": "2026-07-27T01:45:53.572Z"
   },
   "good:Q4316031": {
+    "title": "Immovable Ladder",
     "lat": 31.77825874490101,
     "lng": 35.22982680568696,
     "blurb": "This ladder has guarantees from six different religious groups, over 300 years",
@@ -800,6 +855,7 @@
     "reviewedAt": "2026-07-27T01:46:49.484Z"
   },
   "good:Q55733959": {
+    "title": "Imsil Cheese Theme Park",
     "lat": 35.632777777777775,
     "lng": 127.3013888888889,
     "blurb": "That's one way to drive tourism.",
@@ -815,6 +871,7 @@
     "reviewedAt": "2026-07-27T01:47:26.077Z"
   },
   "good:Q6117151": {
+    "title": "Jackson Hole, China",
     "lat": 40.4575,
     "lng": 115.76333333333334,
     "blurb": "A resort based on the similarly named Wyoming town",
@@ -830,6 +887,7 @@
     "reviewedAt": "2026-07-27T01:48:07.621Z"
   },
   "good:Q3827773": {
+    "title": "Jatinga",
     "lat": 25.1149,
     "lng": 92.9437,
     "blurb": "Where birds disappear under mysterious circumstances",
@@ -838,6 +896,7 @@
     "reviewedAt": "2026-07-27T01:48:37.248Z"
   },
   "good:Q11723502": {
+    "title": "Jaxa (state)",
     "lat": 53.380463,
     "lng": 124.08445,
     "blurb": "How did Poles and Ukrainians find their way here?",
@@ -853,6 +912,7 @@
     "reviewedAt": "2026-07-27T01:50:16.655Z"
   },
   "good:Q7730": {
+    "title": "Jewish Autonomous Oblast",
     "lat": 48.478611,
     "lng": 132.139167,
     "blurb": "Despite its name, only 0.6% of this oblast's population is Jewish",
@@ -868,6 +928,7 @@
     "reviewedAt": "2026-07-27T01:50:54.825Z"
   },
   "good:Q121327032": {
+    "title": "Kabul synagogue",
     "lat": 34.5315,
     "lng": 69.1729,
     "blurb": "Two guys who really couldn't stand each other.",
@@ -876,6 +937,7 @@
     "reviewedAt": "2026-07-27T01:51:48.900Z"
   },
   "good:Q134720448": {
+    "title": "Kamuning Footbridge",
     "lat": 14.637,
     "lng": 121.0421,
     "blurb": "Mockingly nicknamed the \"stairway to heaven\"",
@@ -891,6 +953,7 @@
     "reviewedAt": "2026-07-27T01:52:19.470Z"
   },
   "good:Q15233884": {
+    "title": "Karni Mata Temple",
     "lat": 27.79055556,
     "lng": 73.34083333,
     "blurb": "A temple renowned for its worship of 25,000 rats",
@@ -906,6 +969,7 @@
     "reviewedAt": "2026-07-27T01:53:02.709Z"
   },
   "good:Q2504719": {
+    "title": "Khewra Salt Mine",
     "lat": 32.653055555555554,
     "lng": 73.01,
     "blurb": "Salt mine allegedly discovered not by Alexander the Great, but by his horses",
@@ -921,6 +985,7 @@
     "reviewedAt": "2026-07-27T01:53:46.159Z"
   },
   "good:Q494593": {
+    "title": "Kijong-dong",
     "lat": 37.94528,
     "lng": 126.65556,
     "blurb": "A fake village constantly blasting propaganda",
@@ -936,6 +1001,7 @@
     "reviewedAt": "2026-07-27T01:54:20.480Z"
   },
   "good:Q487455": {
+    "title": "Daeseong-dong",
     "lat": 37.94166667,
     "lng": 126.68,
     "blurb": "Grew wealthy from \"DMZ Rice\"",
@@ -951,6 +1017,7 @@
     "reviewedAt": "2026-07-27T01:54:53.124Z"
   },
   "good:Q17354837": {
+    "title": "Kirisuto no Haka",
     "lat": 40.45388888888889,
     "lng": 141.1486111111111,
     "blurb": "This tomb of Jesus isn't where one would expect",
@@ -966,6 +1033,7 @@
     "reviewedAt": "2026-07-27T01:55:46.157Z"
   },
   "good:Q708915": {
+    "title": "Korea Central Zoo",
     "lat": 39.075,
     "lng": 125.815,
     "blurb": "A zoo with a chimpanzee that can't quite kick its smoking habit, among other wacky animals",
@@ -981,6 +1049,7 @@
     "reviewedAt": "2026-07-27T01:56:30.942Z"
   },
   "good:Q1022918": {
+    "title": "Kowloon Walled City",
     "lat": 22.332280555556,
     "lng": 114.19027777778,
     "blurb": "Achieved an absurd population density of 3 million people per square mile",
@@ -996,6 +1065,7 @@
     "reviewedAt": "2026-07-27T01:57:19.443Z"
   },
   "good:Q495590": {
+    "title": "Love Land (South Korea)",
     "lat": 33.45166522,
     "lng": 126.48972603,
     "blurb": "!!!Adult \"A place where love oriented art and eroticism meet\"",
@@ -1011,6 +1081,7 @@
     "reviewedAt": "2026-07-27T01:57:39.606Z"
   },
   "good:Q1885375": {
+    "title": "Maijishan Grottoes",
     "lat": 34.350136,
     "lng": 106.005973,
     "blurb": "A sprawling, ancient complex of caves and sculptures",
@@ -1026,6 +1097,7 @@
     "reviewedAt": "2026-07-27T01:58:12.107Z"
   },
   "good:Q862310": {
+    "title": "Masuleh",
     "lat": 37.155,
     "lng": 48.98972222222222,
     "blurb": "A village where the roofs form the ground",
@@ -1041,6 +1113,7 @@
     "reviewedAt": "2026-07-27T01:59:42.408Z"
   },
   "good:Q19896600": {
+    "title": "Missing Post Office",
     "lat": 34.27047222,
     "lng": 133.63158333,
     "blurb": "If you've ever had a letter go missing, here's where it ended up.",
@@ -1056,6 +1129,7 @@
     "reviewedAt": "2026-07-27T02:00:11.271Z"
   },
   "good:Q252275": {
+    "title": "Nahwa",
     "lat": 25.273333,
     "lng": 56.285167,
     "blurb": "One of eight \"counter-enclaves\"",
@@ -1071,6 +1145,7 @@
     "reviewedAt": "2026-07-27T02:00:32.222Z"
   },
   "good:Q131083": {
+    "title": "Nakhchivan Autonomous Republic",
     "lat": 39.333333333333,
     "lng": 45.5,
     "blurb": "This enclave is surrounded by three other countries!",
@@ -1086,6 +1161,7 @@
     "reviewedAt": "2026-07-27T02:01:48.601Z"
   },
   "good:Q1306242": {
+    "title": "Nanjie",
     "lat": 33.811283333333,
     "lng": 113.96103055556,
     "blurb": "Mao's last hope",
@@ -1101,6 +1177,7 @@
     "reviewedAt": "2026-07-27T02:02:10.795Z"
   },
   "good:Q118896527": {
+    "title": "National Fisheries Development Board building",
     "lat": 17.341666666666665,
     "lng": 78.42055555555555,
     "blurb": "This building is fittingly shaped like a giant fish!",
@@ -1116,6 +1193,7 @@
     "reviewedAt": "2026-07-27T02:02:38.739Z"
   },
   "good:Q1260331": {
+    "title": "North Sentinel Island",
     "lat": 11.555,
     "lng": 92.245,
     "blurb": "One of the most infamous uncontacted tribes (although not for lack of trying)",
@@ -1131,6 +1209,7 @@
     "reviewedAt": "2026-07-27T02:03:16.856Z"
   },
   "good:Q6157281": {
+    "title": "Japan National Route 339",
     "lat": 40.596513888889,
     "lng": 140.50326666667,
     "blurb": "A section of this highway is on a staircase",
@@ -1146,6 +1225,7 @@
     "reviewedAt": "2026-07-27T02:04:08.067Z"
   },
   "good:Q2564552": {
+    "title": "Neutrality Monument",
     "lat": 37.936944,
     "lng": 58.38,
     "blurb": "Commemorates the great neutrality of Turkmenistan",
@@ -1161,6 +1241,7 @@
     "reviewedAt": "2026-07-27T02:04:35.144Z"
   },
   "good:Q7082047": {
+    "title": "Okinoshima (Fukuoka)",
     "lat": 34.244281638889,
     "lng": 130.10576061111,
     "blurb": "A sacred island protected by rotating monks",
@@ -1176,6 +1257,7 @@
     "reviewedAt": "2026-07-27T02:05:27.218Z"
   },
   "good:Q385313": {
+    "title": "Ōkunoshima",
     "lat": 34.30916666666667,
     "lng": 132.99333333333334,
     "blurb": "Once a chemical plant, now a haven for feral rabbits",
@@ -1191,6 +1273,7 @@
     "reviewedAt": "2026-07-27T02:05:49.858Z"
   },
   "good:Q7089334": {
+    "title": "Om Banna",
     "lat": 25.891263382430868,
     "lng": 73.19869557616721,
     "blurb": "A shrine dedicated to a miraculous motorcycle spirit",
@@ -1206,6 +1289,7 @@
     "reviewedAt": "2026-07-28T00:07:23.365Z"
   },
   "good:Q15943124": {
+    "title": "Peanut Hole",
     "lat": 55.5,
     "lng": 149.5,
     "blurb": "Completely surrounded by, but not within, Russia's EEZ",
@@ -1221,6 +1305,7 @@
     "reviewedAt": "2026-07-28T00:08:21.166Z"
   },
   "good:Q7229972": {
+    "title": "Porcelain Palace",
     "lat": 29.612,
     "lng": 106.597,
     "blurb": "An ode to the toilet",
@@ -1236,6 +1321,7 @@
     "reviewedAt": "2026-07-28T00:08:58.066Z"
   },
   "good:Q10897002": {
+    "title": "Rednaxela Terrace",
     "lat": 22.28081120690129,
     "lng": 114.15162384510042,
     "blurb": "Oops, spelled the street backwards!",
@@ -1251,6 +1337,7 @@
     "reviewedAt": "2026-07-28T00:09:45.347Z"
   },
   "good:Q783806": {
+    "title": "Robot Building",
     "lat": 13.720448,
     "lng": 100.527311,
     "blurb": "Previous to its tragic renovation, a large building resembling a robot",
@@ -1266,6 +1353,7 @@
     "reviewedAt": "2026-07-28T00:10:42.558Z"
   },
   "good:Q1112110": {
+    "title": "Roopkund",
     "lat": 30.261944444444445,
     "lng": 79.73166666666667,
     "blurb": "Ancient skeletons of unknown origin surround this lake",
@@ -1281,6 +1369,7 @@
     "reviewedAt": "2026-07-28T00:11:12.381Z"
   },
   "good:Q29272": {
+    "title": "Ryugyong Hotel",
     "lat": 39.03666666666667,
     "lng": 125.73083333333334,
     "blurb": "A 105-story hotel without windows?",
@@ -1296,6 +1385,7 @@
     "reviewedAt": "2026-07-28T00:12:14.190Z"
   },
   "good:Q264818": {
+    "title": "Sansha",
     "lat": 16.834166666667,
     "lng": 112.3375,
     "blurb": "\"City\" comprised of many islands and atolls",
@@ -1311,6 +1401,7 @@
     "reviewedAt": "2026-07-28T00:13:08.393Z"
   },
   "good:Q2096935": {
+    "title": "Kingdom of Sedang",
     "lat": 14.5377396,
     "lng": 107.9208836,
     "blurb": "Short-lived kingdom founded by a French explorer",
@@ -1326,6 +1417,7 @@
     "reviewedAt": "2026-07-28T00:15:49.504Z"
   },
   "good:Q7446759": {
+    "title": "Seikan Tunnel Tappi Shakō Line",
     "lat": 41.25402778,
     "lng": 140.34708333,
     "blurb": "Funicular railway connecting an underground tunnel with a museum",
@@ -1341,6 +1433,7 @@
     "reviewedAt": "2026-07-28T00:17:46.984Z"
   },
   "good:Q55734": {
+    "title": "Sasmuan",
     "lat": 14.936,
     "lng": 120.623,
     "blurb": "Once known as Sexmoan.",
@@ -1356,6 +1449,7 @@
     "reviewedAt": "2026-07-28T00:18:18.610Z"
   },
   "good:Q2723631": {
+    "title": "Shani Shingnapur",
     "lat": 19.4,
     "lng": 74.8167,
     "blurb": "A village with no doors.",
@@ -1371,6 +1465,7 @@
     "reviewedAt": "2026-07-28T00:18:34.188Z"
   },
   "good:Q182774": {
+    "title": "Snake Temple",
     "lat": 5.313944,
     "lng": 100.285194,
     "blurb": "Temple dedicated to reincarnated snakes",
@@ -1386,6 +1481,7 @@
     "reviewedAt": "2026-07-28T00:19:52.973Z"
   },
   "good:Q17995776": {
+    "title": "Sobieto",
     "lat": 33.50875,
     "lng": 135.55211111111112,
     "blurb": "This island is surprisingly not named after the Soviet Union. In fact, we have no idea where the name originated.",
@@ -1401,6 +1497,7 @@
     "reviewedAt": "2026-07-28T00:20:55.946Z"
   },
   "good:Q1027768": {
+    "title": "Sokh District",
     "lat": 39.95,
     "lng": 71.12,
     "blurb": "An Uzbek exclave, surrounded by Kyrgyzstan, that is ethnically Tajik",
@@ -1416,6 +1513,7 @@
     "reviewedAt": "2026-07-28T00:21:36.635Z"
   },
   "good:Q57251": {
+    "title": "Taiwan (People's Republic of China province)",
     "lat": 23.7,
     "lng": 121,
     "blurb": "!!!REM lowk not doing this one, it's about taiwanese \"representation\" in Chinese politics",
@@ -1431,6 +1529,7 @@
     "reviewedAt": "2026-07-28T00:22:47.833Z"
   },
   "good:Q1061394": {
+    "title": "Tashirojima",
     "lat": 38.3,
     "lng": 141.41666666667,
     "blurb": "An island of cats, with dogs strictly banned!",
@@ -1446,6 +1545,7 @@
     "reviewedAt": "2026-07-28T00:23:13.530Z"
   },
   "good:Q30191": {
+    "title": "Thames Town",
     "lat": 31.036,
     "lng": 121.19,
     "blurb": "Ghost town resembling a British market town",
@@ -1461,6 +1561,7 @@
     "reviewedAt": "2026-07-28T00:23:41.016Z"
   },
   "good:Q104772074": {
+    "title": "The Line, Saudi Arabia",
     "lat": 28.1,
     "lng": 35.3,
     "blurb": "City planned in a 110-mile long line",
@@ -1476,6 +1577,7 @@
     "reviewedAt": "2026-07-28T00:24:32.045Z"
   },
   "good:Q85875400": {
+    "title": "The world's smallest park",
     "lat": 35.13491666666667,
     "lng": 138.8986111111111,
     "blurb": "I believe it.",
@@ -1491,6 +1593,7 @@
     "reviewedAt": "2026-07-28T00:24:55.399Z"
   },
   "good:Q7784222": {
+    "title": "Thimmamma Marrimanu",
     "lat": 14.028,
     "lng": 78.325103,
     "blurb": "Just one tree covering an area the size of three football fields",
@@ -1506,6 +1609,7 @@
     "reviewedAt": "2026-07-28T00:25:49.289Z"
   },
   "good:Q7818644": {
+    "title": "Tomb of Suleyman Shah",
     "lat": 36.87916666666667,
     "lng": 38.105555555555554,
     "blurb": "Despite being on Syrian land, this Ottoman tomb is owned by Turkiye",
@@ -1521,6 +1625,7 @@
     "reviewedAt": "2026-07-28T00:26:46.898Z"
   },
   "good:Q4260571": {
+    "title": "Trunyan",
     "lat": -8.2525,
     "lng": 115.42555555555556,
     "blurb": "A village where corpses are left out to decompose",
@@ -1536,6 +1641,7 @@
     "reviewedAt": "2026-07-28T00:27:13.686Z"
   },
   "good:Q869763": {
+    "title": "Tsu Station",
     "lat": 34.734,
     "lng": 136.51,
     "blurb": "Terse!",
@@ -1551,6 +1657,7 @@
     "reviewedAt": "2026-07-28T00:27:56.034Z"
   },
   "good:Q2263304": {
+    "title": "Underground City (Beijing)",
     "lat": 39.8999,
     "lng": 116.406,
     "blurb": "Cold-War era network of tunnels, fit with a skating rink",
@@ -1566,6 +1673,7 @@
     "reviewedAt": "2026-07-28T00:28:36.526Z"
   },
   "good:Q7930800": {
+    "title": "Villaggio Mall",
     "lat": 25.2606,
     "lng": 51.4431,
     "blurb": "Hold on, this isn't Venice!",
@@ -1581,6 +1689,7 @@
     "reviewedAt": "2026-07-28T00:29:00.270Z"
   },
   "good:Q17015584": {
+    "title": "Wang Saen Suk",
     "lat": 13.2975,
     "lng": 100.912,
     "blurb": "Welcome to hell.",
@@ -1596,6 +1705,7 @@
     "reviewedAt": "2026-07-28T00:29:21.909Z"
   },
   "good:Q8031892": {
+    "title": "Wonderland Amusement Park (Beijing)",
     "lat": 40.233,
     "lng": 116.164,
     "blurb": "Massive abandoned amusement park",
@@ -1611,6 +1721,7 @@
     "reviewedAt": "2026-07-28T00:29:48.749Z"
   },
   "good:Q1141498": {
+    "title": "Yokohama Chinatown",
     "lat": 35.4428,
     "lng": 139.646,
     "blurb": "Small but culturally significant Chinatown",
@@ -1626,6 +1737,7 @@
     "reviewedAt": "2026-07-28T00:30:21.981Z"
   },
   "good:Q8055036": {
+    "title": "Yongning Pagoda",
     "lat": 34.719463,
     "lng": 112.618281,
     "blurb": "The Burj Khalifa of the 500s",
@@ -1641,6 +1753,7 @@
     "reviewedAt": "2026-07-28T00:31:00.370Z"
   },
   "good:Q17638329": {
+    "title": "Zhangye National Geopark",
     "lat": 38.9156,
     "lng": 100.133,
     "blurb": "These mountains have mesmerizing, all-natural stripes",
@@ -1656,6 +1769,7 @@
     "reviewedAt": "2026-07-28T00:31:43.197Z"
   },
   "good:Q10143": {
+    "title": "Abode of Chaos",
     "lat": 45.83763889,
     "lng": 4.82611111,
     "blurb": "\"Humanly intolerable\" art piece",
@@ -1671,6 +1785,7 @@
     "reviewedAt": "2026-07-28T00:32:23.190Z"
   },
   "good:Q1466589": {
+    "title": "Ängelholm UFO memorial",
     "lat": 56.23194444,
     "lng": 12.82083333,
     "blurb": "The extraterrestrial bring good fortune?",
@@ -1686,6 +1801,7 @@
     "reviewedAt": "2026-07-28T00:33:34.010Z"
   },
   "good:Q399369": {
+    "title": "Argleton",
     "lat": 53.544404,
     "lng": -2.912807,
     "blurb": "Google Maps once displayed this town, despite it not actually existing",
@@ -1701,6 +1817,7 @@
     "reviewedAt": "2026-07-28T00:33:57.851Z"
   },
   "good:Q244959": {
+    "title": "Baarle-Hertog",
     "lat": 51.43833333333333,
     "lng": 4.931666666666667,
     "blurb": "True border gore",
@@ -1716,6 +1833,7 @@
     "reviewedAt": "2026-07-28T00:34:22.752Z"
   },
   "good:Q9811": {
+    "title": "Baarle-Nassau",
     "lat": 51.45,
     "lng": 4.9333333333333,
     "blurb": "!!!REM duplicate basically",
@@ -1731,6 +1849,7 @@
     "reviewedAt": "2026-07-28T00:34:45.558Z"
   },
   "good:Q55604878": {
+    "title": "Barack Obama Plaza",
     "lat": 52.884894,
     "lng": -7.945059,
     "blurb": "Did you know Obama has Irish ancestry?",
@@ -1746,6 +1865,7 @@
     "reviewedAt": "2026-07-28T00:35:06.225Z"
   },
   "good:Q1580126": {
+    "title": "Barcelona Supercomputing Center",
     "lat": 41.390386796832246,
     "lng": 2.1153768831372832,
     "blurb": "Old church housing a leading supercomputer",
@@ -1761,6 +1881,7 @@
     "reviewedAt": "2026-07-28T00:35:45.359Z"
   },
   "good:Q690333": {
+    "title": "Barentsburg",
     "lat": 78.065,
     "lng": 14.216,
     "blurb": "For all intents and purposes, this Norwegian town is Russian",
@@ -1776,6 +1897,7 @@
     "reviewedAt": "2026-07-28T00:37:10.374Z"
   },
   "good:Q808778": {
+    "title": "Barra Airport",
     "lat": 57.023611111111,
     "lng": -7.4416666666667,
     "blurb": "Planes landing here must wait for the tides to fall",
@@ -1791,6 +1913,7 @@
     "reviewedAt": "2026-07-28T00:37:55.077Z"
   },
   "good:Q18619174": {
+    "title": "Battersea Power Station tube station",
     "lat": 51.4795,
     "lng": -0.142,
     "blurb": "!!!REM idek what this means",
@@ -1806,6 +1929,7 @@
     "reviewedAt": "2026-07-28T00:39:03.593Z"
   },
   "good:Q19654709": {
+    "title": "Beans and Bacon mine",
     "lat": 53.1296,
     "lng": -1.62135,
     "blurb": "The person naming mines in this area got a little silly",
@@ -1814,6 +1938,7 @@
     "reviewedAt": "2026-07-28T00:39:35.931Z"
   },
   "good:Q160556": {
+    "title": "Berlin Brandenburg Airport",
     "lat": 52.36224722222222,
     "lng": 13.500672222222223,
     "blurb": "!!!REM not interesting",
@@ -1829,6 +1954,7 @@
     "reviewedAt": "2026-07-28T00:39:49.386Z"
   },
   "good:Q703899": {
+    "title": "Bielefeld conspiracy",
     "lat": 52.022777777778,
     "lng": 8.5333333333333,
     "blurb": "This city doesn't exist.",
@@ -1844,6 +1970,7 @@
     "reviewedAt": "2026-07-28T00:40:05.273Z"
   },
   "good:Q316640": {
+    "title": "Brennender Berg",
     "lat": 49.288888888889,
     "lng": 7.0536111111111,
     "blurb": "This fire is older than Germany... by a lot.",
@@ -1859,6 +1986,7 @@
     "reviewedAt": "2026-07-28T00:41:04.678Z"
   },
   "good:Q4975350": {
+    "title": "The Broomway",
     "lat": 51.54775,
     "lng": 0.8422,
     "blurb": "People disappear into the mist walking this path",
@@ -1874,6 +2002,7 @@
     "reviewedAt": "2026-07-28T00:41:48.639Z"
   },
   "good:Q850305": {
+    "title": "Brusio spiral viaduct",
     "lat": 46.25388889,
     "lng": 10.12777778,
     "blurb": "Fascinating work of architecture",
@@ -1889,6 +2018,7 @@
     "reviewedAt": "2026-07-28T00:42:20.743Z"
   },
   "good:Q18806332": {
+    "title": "Bucket Lake",
     "lat": 54.489188,
     "lng": 9.850112,
     "blurb": "A plastic bucket and a happy accident",
@@ -1904,6 +2034,7 @@
     "reviewedAt": "2026-07-28T00:43:13.088Z"
   },
   "good:Q61698": {
+    "title": "Büsingen am Hochrhein",
     "lat": 47.696944444444,
     "lng": 8.6902777777778,
     "blurb": "German town fully surrounded by Switzerland",
@@ -1919,6 +2050,7 @@
     "reviewedAt": "2026-07-28T00:43:53.062Z"
   },
   "good:Q5002759": {
+    "title": "Butt Hole Road",
     "lat": 53.484722222222224,
     "lng": -1.2115,
     "blurb": "Ha, ha.",
@@ -1934,6 +2066,7 @@
     "reviewedAt": "2026-07-28T00:44:19.723Z"
   },
   "good:Q1058720": {
+    "title": "Buzludzha monument",
     "lat": 42.73581,
     "lng": 25.39385,
     "blurb": "Bulgarian communists built this spaceship-resembling monument",
@@ -1949,6 +2082,7 @@
     "reviewedAt": "2026-07-28T00:45:30.342Z"
   },
   "good:Q950644": {
+    "title": "Carpatho-Ukraine",
     "lat": 48.43333333333333,
     "lng": 23.066666666666666,
     "blurb": "The republic that lasted a day",
@@ -1964,6 +2098,7 @@
     "reviewedAt": "2026-07-28T00:46:08.899Z"
   },
   "good:Q1055469": {
+    "title": "Cerne Abbas Giant",
     "lat": 50.8137,
     "lng": -2.47474,
     "blurb": "It seems that one aspect of the human condition has persisted.",
@@ -1979,6 +2114,7 @@
     "reviewedAt": "2026-07-28T00:47:13.684Z"
   },
   "good:Q448856": {
+    "title": "Clachan Bridge",
     "lat": 56.3177216729865,
     "lng": -5.58281375455459,
     "blurb": "This bridge technically crosses the Atlantic Ocean!",
@@ -1994,6 +2130,7 @@
     "reviewedAt": "2026-07-28T00:47:39.958Z"
   },
   "good:Q21288354": {
+    "title": "Colletto Fava",
     "lat": 44.24437,
     "lng": 7.769517,
     "blurb": "There's something poetic about this humongous bunny",
@@ -2002,6 +2139,7 @@
     "reviewedAt": "2026-07-28T00:48:29.825Z"
   },
   "good:Q1399679": {
+    "title": "Cologne sewerage system",
     "lat": 50.9507,
     "lng": 6.96342,
     "blurb": "Take a wrong turn in these sewers and you'll end up in a performance hall!",
@@ -2017,6 +2155,7 @@
     "reviewedAt": "2026-07-28T00:49:56.842Z"
   },
   "good:Q953432": {
+    "title": "Couto Misto",
     "lat": 41.9015,
     "lng": -7.8315,
     "blurb": "Neither Portugal or Spain could seem to get a firm grasp on this tiny state",
@@ -2032,6 +2171,7 @@
     "reviewedAt": "2026-07-28T00:51:24.690Z"
   },
   "good:Q7728155": {
+    "title": "The Crooked House",
     "lat": 52.515,
     "lng": -2.152,
     "blurb": "Am I already drunk?",
@@ -2047,6 +2187,7 @@
     "reviewedAt": "2026-07-28T00:52:14.244Z"
   },
   "good:Q1602409": {
+    "title": "Crooked Forest",
     "lat": 53.21388889,
     "lng": 14.475,
     "blurb": "No one knows why these trees are bent as such",
@@ -2062,6 +2203,7 @@
     "reviewedAt": "2026-07-28T00:53:05.025Z"
   },
   "good:Q1790954": {
+    "title": "Cube house",
     "lat": 51.92027777777778,
     "lng": 4.490555555555556,
     "blurb": "Fully optimized urban housing.",
@@ -2077,6 +2219,7 @@
     "reviewedAt": "2026-07-28T00:53:31.579Z"
   },
   "good:Q244816": {
+    "title": "Dancing House",
     "lat": 50.075555555556,
     "lng": 14.414166666667,
     "blurb": "Landmark building in Prague resembling two dancing figures",
@@ -2092,6 +2235,7 @@
     "reviewedAt": "2026-07-28T00:54:25.193Z"
   },
   "good:Q5225738": {
+    "title": "Dartmouth railway station",
     "lat": 50.3513,
     "lng": -3.5773,
     "blurb": "Not a single train has ever stopped here.",
@@ -2107,6 +2251,7 @@
     "reviewedAt": "2026-07-28T00:55:29.589Z"
   },
   "good:Q1140162": {
+    "title": "Dry Bridge",
     "lat": 45.38166667,
     "lng": 20.38361111,
     "blurb": "Humorously redundant bridge",
@@ -2122,6 +2267,7 @@
     "reviewedAt": "2026-07-28T00:56:02.831Z"
   },
   "good:Q124308373": {
+    "title": "Dumb Woman's Lane",
     "lat": 50.9406,
     "lng": 0.6995,
     "blurb": "Not very nice, innit?",
@@ -2137,6 +2283,7 @@
     "reviewedAt": "2026-07-28T00:56:30.168Z"
   },
   "good:Q2344439": {
+    "title": "Ebenezer Place, Wick",
     "lat": 58.4412,
     "lng": -3.09414,
     "blurb": "World's shortest street",
@@ -2152,6 +2299,7 @@
     "reviewedAt": "2026-07-28T00:56:50.545Z"
   },
   "good:Q1301642": {
+    "title": "Eichener See",
     "lat": 47.64444444,
     "lng": 7.86333333,
     "blurb": "!!!REM meh",
@@ -2167,6 +2315,7 @@
     "reviewedAt": "2026-07-28T00:59:50.228Z"
   },
   "good:Q2265769": {
+    "title": "Eurobridges Spijkenisse",
     "lat": 51.850805555556,
     "lng": 4.3386666666667,
     "blurb": "Bringing generic banknote bridges to life",
@@ -2182,6 +2331,7 @@
     "reviewedAt": "2026-07-28T01:00:40.828Z"
   },
   "good:Q5437642": {
+    "title": "Fr. Pat Noise plaque",
     "lat": 53.34722222,
     "lng": -6.25944444,
     "blurb": "Plaque dedicated to a nonexistent priest",
@@ -2197,6 +2347,7 @@
     "reviewedAt": "2026-07-28T01:01:41.452Z"
   },
   "good:Q15217844": {
+    "title": "Flannan Isles Lighthouse",
     "lat": 58.28811,
     "lng": -7.588285,
     "blurb": "What happened to the keepers of this lighthouse?",
@@ -2212,6 +2363,7 @@
     "reviewedAt": "2026-07-28T01:02:30.328Z"
   },
   "good:Q615792": {
+    "title": "Forest swastika",
     "lat": 53.40275,
     "lng": 13.720777777777778,
     "blurb": "Planted in 1938 and proceeded to go unnoticed for 60 years.",
@@ -2227,6 +2379,7 @@
     "reviewedAt": "2026-07-28T01:03:05.235Z"
   },
   "good:Q694858": {
+    "title": "Free State of Bottleneck",
     "lat": 50.1619,
     "lng": 7.921,
     "blurb": "The result of drawing imprecise borders.",
@@ -2242,6 +2395,7 @@
     "reviewedAt": "2026-07-28T01:03:55.065Z"
   },
   "good:Q134376041": {
+    "title": "Fuck Tree",
     "lat": 51.564844,
     "lng": -0.1863602,
     "blurb": "!!!ADULT What can I even say here?",
@@ -2257,6 +2411,7 @@
     "reviewedAt": "2026-07-28T01:05:20.742Z"
   },
   "good:Q172668": {
+    "title": "Fugging, Upper Austria",
     "lat": 48.067222,
     "lng": 12.863611,
     "blurb": "Formerly known as Fucking.",
@@ -2272,6 +2427,7 @@
     "reviewedAt": "2026-07-28T01:05:41.901Z"
   },
   "good:Q2123434": {
+    "title": "Galešnjak",
     "lat": 43.978269444444,
     "lng": 15.383505555556,
     "blurb": "Awwww.",
@@ -2287,6 +2443,7 @@
     "reviewedAt": "2026-07-28T01:05:51.184Z"
   },
   "good:Q629511": {
+    "title": "Gammalsvenskby",
     "lat": 46.87056,
     "lng": 33.57732,
     "blurb": "A little piece of Sweden",
@@ -2302,6 +2459,7 @@
     "reviewedAt": "2026-07-28T01:06:39.526Z"
   },
   "good:Q1493698": {
+    "title": "Gants Hill tube station",
     "lat": 51.576667,
     "lng": 0.066111,
     "blurb": "Designed after the Moscow metro",
@@ -2317,6 +2475,7 @@
     "reviewedAt": "2026-07-28T01:07:09.746Z"
   },
   "good:Q833975": {
+    "title": "Graham Island (Mediterranean Sea)",
     "lat": 37.163611,
     "lng": 12.718611,
     "blurb": "This island just won't stay down!",
@@ -2332,6 +2491,7 @@
     "reviewedAt": "2026-07-28T01:08:11.742Z"
   },
   "good:Q380146": {
+    "title": "Graun im Vinschgau",
     "lat": 46.808655,
     "lng": 10.54144,
     "blurb": "Beautiful submerged church",
@@ -2347,6 +2507,7 @@
     "reviewedAt": "2026-07-28T01:09:04.278Z"
   },
   "good:Q1821443": {
+    "title": "Great Tower Neuwerk",
     "lat": 53.91522222,
     "lng": 8.49583333,
     "blurb": "!!!REM not interesting",
@@ -2362,6 +2523,7 @@
     "reviewedAt": "2026-07-28T01:09:45.150Z"
   },
   "good:Q2374346": {
+    "title": "Greetings from Jerusalem Avenue",
     "lat": 52.23167,
     "lng": 21.02083,
     "blurb": "This palm tree is intended to attract attention to the street it's planted on.",
@@ -2377,6 +2539,7 @@
     "reviewedAt": "2026-07-28T01:10:30.921Z"
   },
   "good:Q1050522": {
+    "title": "Grūtas Park",
     "lat": 54.020833333333,
     "lng": 24.079722222222,
     "blurb": "Soviet theme park",
@@ -2392,6 +2555,7 @@
     "reviewedAt": "2026-07-28T01:11:09.192Z"
   },
   "good:Q1520648": {
+    "title": "Gutsbezirk Reinhardswald",
     "lat": 51.515780555556,
     "lng": 9.5489305555556,
     "blurb": "!!!REM IDC",
@@ -2407,6 +2571,7 @@
     "reviewedAt": "2026-07-28T01:12:00.427Z"
   },
   "good:Q223726": {
+    "title": "Hill of Crosses",
     "lat": 56.015278,
     "lng": 23.416667,
     "blurb": "Cross count in the hundreds of thousands",
@@ -2422,6 +2587,7 @@
     "reviewedAt": "2026-07-28T01:12:47.057Z"
   },
   "good:Q105676989": {
+    "title": "I Love You Will U Marry Me",
     "lat": 53.3804,
     "lng": -1.4593,
     "blurb": "Immortalized piece of graffiti",
@@ -2437,6 +2603,7 @@
     "reviewedAt": "2026-07-28T01:13:28.066Z"
   },
   "good:Q19895372": {
+    "title": "ICAR Canned Beef Monument",
     "lat": 43.85433333333334,
     "lng": 18.40136111111111,
     "blurb": "A \"tribute\" to food so bad even animals wouldn't touch it.",
@@ -2452,6 +2619,7 @@
     "reviewedAt": "2026-07-28T01:14:43.821Z"
   },
   "good:Q177174": {
+    "title": "Icelandic Phallological Museum",
     "lat": 64.148497,
     "lng": -21.93578,
     "blurb": "The world's largest display of... you know.",
@@ -2467,6 +2635,7 @@
     "reviewedAt": "2026-07-28T01:15:14.839Z"
   },
   "good:Q6107726": {
+    "title": "JASON reactor",
     "lat": 51.4825,
     "lng": -0.0062,
     "blurb": "17th century building converted into a nuclear reactor.",
@@ -2475,6 +2644,7 @@
     "reviewedAt": "2026-07-28T01:15:42.687Z"
   },
   "good:Q28620": {
+    "title": "Jordanhill railway station",
     "lat": 55.8826,
     "lng": -4.3246,
     "blurb": "Wikipedia's millionth article!",
@@ -2490,6 +2660,7 @@
     "reviewedAt": "2026-07-28T01:16:01.552Z"
   },
   "good:Q9213271": {
+    "title": "Kielce Bus Station",
     "lat": 50.8756,
     "lng": 20.6217,
     "blurb": "",
@@ -2505,6 +2676,7 @@
     "reviewedAt": "2026-07-28T01:16:16.433Z"
   },
   "good:Q1126598": {
+    "title": "Kőbánya cellar system",
     "lat": 47.485,
     "lng": 19.137222,
     "blurb": "",
@@ -2520,6 +2692,7 @@
     "reviewedAt": "2026-07-28T01:17:32.983Z"
   },
   "good:Q959999": {
+    "title": "Krzywy Domek",
     "lat": 54.44415556,
     "lng": 18.566675,
     "blurb": "",
@@ -2535,6 +2708,7 @@
     "reviewedAt": "2026-07-28T01:17:43.112Z"
   },
   "good:Q1793228": {
+    "title": "Kursdorf",
     "lat": 51.418888888889,
     "lng": 12.2325,
     "blurb": "A village killed by sound pollution",
@@ -2550,6 +2724,7 @@
     "reviewedAt": "2026-07-28T01:19:10.113Z"
   },
   "good:Q56309998": {
+    "title": "La Fistinière",
     "lat": 47.429963,
     "lng": 2.73893,
     "blurb": "!!!Adult For those with a passion for fisting.",
@@ -2565,6 +2740,7 @@
     "reviewedAt": "2026-07-28T01:19:40.300Z"
   },
   "good:Q1232467": {
+    "title": "Lacus Curtius",
     "lat": 41.892345,
     "lng": 12.485106,
     "blurb": "The origin of this pit was subject to debate even during Roman times",
@@ -2580,6 +2756,7 @@
     "reviewedAt": "2026-07-28T01:20:18.429Z"
   },
   "good:Q558195": {
+    "title": "Lahn, Hesse",
     "lat": 50.57222222,
     "lng": 8.58888889,
     "blurb": "By popular demand from its residents, this city was completely eliminated.",
@@ -2588,6 +2765,7 @@
     "reviewedAt": "2026-07-28T01:21:13.787Z"
   },
   "good:Q827202": {
+    "title": "Lake Karachay",
     "lat": 55.677222222222,
     "lng": 60.799444444444,
     "blurb": "Potentially the most polluted place on Earth.",
@@ -2603,6 +2781,7 @@
     "reviewedAt": "2026-07-28T01:21:51.081Z"
   },
   "good:Q132031": {
+    "title": "Leaning Tower of Suurhusen",
     "lat": 53.413469444444,
     "lng": 7.2233305555556,
     "blurb": "Outdoes its better known competitor.",
@@ -2618,6 +2797,7 @@
     "reviewedAt": "2026-07-28T01:22:37.116Z"
   },
   "good:Q114985162": {
+    "title": "Listenbourg",
     "lat": 43.275231,
     "lng": -11.685026,
     "blurb": "",
@@ -2633,6 +2813,7 @@
     "reviewedAt": "2026-07-28T01:24:07.598Z"
   },
   "good:Q110969615": {
+    "title": "Llandegley International Airport",
     "lat": 52.274237,
     "lng": -3.32659,
     "blurb": "The airport that doesn't exist",
@@ -2648,6 +2829,7 @@
     "reviewedAt": "2026-07-28T01:24:35.008Z"
   },
   "good:Q322": {
+    "title": "Llanfairpwllgwyngyll",
     "lat": 53.223333,
     "lng": -4.199444,
     "blurb": "Its full name is even worse!",
@@ -2663,6 +2845,7 @@
     "reviewedAt": "2026-07-28T01:25:03.240Z"
   },
   "good:Q157747": {
+    "title": "Lupanar",
     "lat": 40.75025,
     "lng": 14.48677778,
     "blurb": "Remarkably well-preserved brothel",
@@ -2678,6 +2861,7 @@
     "reviewedAt": "2026-07-28T01:25:21.109Z"
   },
   "good:Q6730823": {
+    "title": "Magic Roundabout (Hemel Hempstead)",
     "lat": 51.746111111111,
     "lng": -0.47305555555556,
     "blurb": "",
@@ -2693,6 +2877,7 @@
     "reviewedAt": "2026-07-28T01:26:05.095Z"
   },
   "good:Q152072": {
+    "title": "Manneken Pis",
     "lat": 50.8449844,
     "lng": 4.349988,
     "blurb": "",
@@ -2708,6 +2893,7 @@
     "reviewedAt": "2026-07-28T01:26:58.070Z"
   },
   "good:Q152360": {
+    "title": "Jeanneke Pis",
     "lat": 50.848611,
     "lng": 4.354167,
     "blurb": "",
@@ -2723,6 +2909,7 @@
     "reviewedAt": "2026-07-28T01:27:14.226Z"
   },
   "good:Q163395": {
+    "title": "Märket",
     "lat": 60.30095,
     "lng": 19.13225,
     "blurb": "A lighthouse and a border story",
@@ -2738,6 +2925,7 @@
     "reviewedAt": "2026-07-28T01:28:41.118Z"
   },
   "good:Q771936": {
+    "title": "Metro-2",
     "lat": 55.68805556,
     "lng": 37.51333333,
     "blurb": "Supposed secret metro line",
@@ -2753,6 +2941,7 @@
     "reviewedAt": "2026-07-28T01:29:00.578Z"
   },
   "good:Q659655": {
+    "title": "Millstreet",
     "lat": 52.060277777778,
     "lng": -9.0611111111111,
     "blurb": "Hosted 1993 Eurovision, despite a population of just 1500",
@@ -2768,6 +2957,7 @@
     "reviewedAt": "2026-07-28T01:29:37.337Z"
   },
   "good:Q1526711": {
+    "title": "Monte Kaolino",
     "lat": 49.5344,
     "lng": 11.9669,
     "blurb": "Sand, snow, same difference",
@@ -2783,6 +2973,7 @@
     "reviewedAt": "2026-07-28T01:30:35.462Z"
   },
   "good:Q130321": {
+    "title": "Mount Athos",
     "lat": 40.15833333333333,
     "lng": 24.327222222222222,
     "blurb": "Women are strictly banned from this political subdivision",
@@ -2798,6 +2989,7 @@
     "reviewedAt": "2026-07-28T01:31:14.847Z"
   },
   "good:Q1954595": {
+    "title": "Museum of Broken Relationships",
     "lat": 45.81516667,
     "lng": 15.97358333,
     "blurb": "",
@@ -2813,6 +3005,7 @@
     "reviewedAt": "2026-07-28T01:31:37.682Z"
   },
   "good:Q2897273": {
+    "title": "Muzeon Park of Arts",
     "lat": 55.735554,
     "lng": 37.607916,
     "blurb": "Home to many destroyed Soviet statues",
@@ -2828,6 +3021,7 @@
     "reviewedAt": "2026-07-28T01:33:36.745Z"
   },
   "good:Q11884136": {
+    "title": "Neitokainen",
     "lat": 67.5564638,
     "lng": 24.5008281,
     "blurb": "Finlandception!",
@@ -2843,6 +3037,7 @@
     "reviewedAt": "2026-07-28T01:33:52.917Z"
   },
   "good:Q2350741": {
+    "title": "Nelson's Pillar",
     "lat": 53.349805555555555,
     "lng": -6.26025,
     "blurb": "Ireland's own Nelson's Column (you can imagine why it was blown up)",
@@ -2858,6 +3053,7 @@
     "reviewedAt": "2026-07-28T01:34:33.549Z"
   },
   "good:Q151938": {
+    "title": "Neutral Moresnet",
     "lat": 50.730277777778,
     "lng": 6.0133333333333,
     "blurb": "The world capital of Esperanto",
@@ -2873,6 +3069,7 @@
     "reviewedAt": "2026-07-28T01:35:20.102Z"
   },
   "good:Q7018185": {
+    "title": "Newhaven Marine railway station",
     "lat": 50.7875,
     "lng": 0.0566,
     "blurb": "The world's most useless railway station.",
@@ -2888,6 +3085,7 @@
     "reviewedAt": "2026-07-28T01:37:07.455Z"
   },
   "good:Q3408649": {
+    "title": "Other World Kingdom",
     "lat": 49.42608,
     "lng": 15.8638264,
     "blurb": "!!!ADULT Be prepared.",
@@ -2903,6 +3101,7 @@
     "reviewedAt": "2026-07-28T01:38:05.633Z"
   },
   "good:Q17848538": {
+    "title": "Overtoun Bridge",
     "lat": 55.95269444444445,
     "lng": -4.525333333333333,
     "blurb": "The \"Dog Suicide Bridge\"",
@@ -2918,6 +3117,7 @@
     "reviewedAt": "2026-07-28T01:38:25.592Z"
   },
   "good:Q173920": {
+    "title": "Paradiskullen",
     "lat": 63.28916667,
     "lng": 18.70333333,
     "blurb": "!!!REM meh",
@@ -2933,6 +3133,7 @@
     "reviewedAt": "2026-07-28T01:38:54.685Z"
   },
   "good:Q373767": {
+    "title": "Pheasant Island",
     "lat": 43.342778,
     "lng": -1.7655,
     "blurb": "This island changes hands every six months!",
@@ -2948,6 +3149,7 @@
     "reviewedAt": "2026-07-28T01:39:23.648Z"
   },
   "good:Q3116212": {
+    "title": "Piața Romană metro station",
     "lat": 44.44569,
     "lng": 26.09765,
     "blurb": "But you'll get fat!",
@@ -2963,6 +3165,7 @@
     "reviewedAt": "2026-07-28T01:40:36.132Z"
   },
   "good:Q10369016": {
+    "title": "Pierre-sur-Haute military radio station",
     "lat": 45.653072222222,
     "lng": 3.8084472222222,
     "blurb": "The French government threatened Wikipedia to delete its article on this station",
@@ -2978,6 +3181,7 @@
     "reviewedAt": "2026-07-28T01:41:23.561Z"
   },
   "good:Q79217": {
+    "title": "Predjama Castle",
     "lat": 45.815195994,
     "lng": 14.127588977,
     "blurb": "",
@@ -2993,6 +3197,7 @@
     "reviewedAt": "2026-07-28T01:41:43.804Z"
   },
   "good:Q13706": {
+    "title": "Principality of Sealand",
     "lat": 51.894444444444,
     "lng": 1.4825,
     "blurb": "",
@@ -3008,6 +3213,7 @@
     "reviewedAt": "2026-07-28T01:42:04.440Z"
   },
   "good:Q2118416": {
+    "title": "Punkendeich",
     "lat": 53.07108,
     "lng": 8.81308,
     "blurb": "",
@@ -3016,6 +3222,7 @@
     "reviewedAt": "2026-07-28T01:42:30.744Z"
   },
   "good:Q130177": {
+    "title": "Reality Checkpoint",
     "lat": 52.202189,
     "lng": 0.128182,
     "blurb": "",
@@ -3031,6 +3238,7 @@
     "reviewedAt": "2026-07-28T01:43:03.577Z"
   },
   "good:Q4403385": {
+    "title": "Saatse Boot",
     "lat": 57.90577,
     "lng": 27.71323,
     "blurb": "",
@@ -3046,6 +3254,7 @@
     "reviewedAt": "2026-07-28T01:43:28.048Z"
   },
   "good:Q704670": {
+    "title": "Schwerbelastungskörper",
     "lat": 52.484,
     "lng": 13.3716,
     "blurb": "Lasting example of Nazi architecture, mostly because it was intended to be ridiculously heavy",
@@ -3061,6 +3270,7 @@
     "reviewedAt": "2026-07-28T01:44:56.736Z"
   },
   "good:Q137696327": {
+    "title": "Scottish Court in the Netherlands",
     "lat": 52.12468611111111,
     "lng": 5.27275,
     "blurb": "",
@@ -3076,6 +3286,7 @@
     "reviewedAt": "2026-07-28T01:45:11.422Z"
   },
   "good:Q513821": {
+    "title": "Sedlec Ossuary",
     "lat": 49.961955555556,
     "lng": 15.288291666667,
     "blurb": "Every bone you can think of!",
@@ -3091,6 +3302,7 @@
     "reviewedAt": "2026-07-28T01:45:36.784Z"
   },
   "good:Q47766735": {
+    "title": "Sexi (Phoenician colony)",
     "lat": 36.73333333,
     "lng": -3.68333333,
     "blurb": "!!!REM",
@@ -3106,6 +3318,7 @@
     "reviewedAt": "2026-07-28T01:47:07.943Z"
   },
   "good:Q7493665": {
+    "title": "Shell Grotto, Margate",
     "lat": 51.388,
     "lng": 1.3899,
     "blurb": "Of mysterious origin",
@@ -3121,6 +3334,7 @@
     "reviewedAt": "2026-07-28T01:48:42.618Z"
   },
   "good:Q25052267": {
+    "title": "Shit Museum",
     "lat": 45.000884,
     "lng": 9.547331,
     "blurb": "",
@@ -3129,6 +3343,7 @@
     "reviewedAt": "2026-07-28T01:48:52.622Z"
   },
   "good:Q7499163": {
+    "title": "Shitterton",
     "lat": 50.7547,
     "lng": -2.2279,
     "blurb": "Yes, this town is actually named after excrement",
@@ -3144,6 +3359,7 @@
     "reviewedAt": "2026-07-28T01:49:42.358Z"
   },
   "good:Q211480": {
+    "title": "Smallest House in Great Britain",
     "lat": 53.282341,
     "lng": -3.8285799,
     "blurb": "",
@@ -3159,6 +3375,7 @@
     "reviewedAt": "2026-07-28T01:49:51.835Z"
   },
   "good:Q1746596": {
+    "title": "SnowCastle of Kemi",
     "lat": 65.7261,
     "lng": 24.5687,
     "blurb": "Has its own SnowHotel",
@@ -3174,6 +3391,7 @@
     "reviewedAt": "2026-07-28T01:50:19.212Z"
   },
   "good:Q190353": {
+    "title": "Sovereign Military Order of Malta",
     "lat": 41.90541,
     "lng": 12.48061,
     "blurb": "A recognized, sovereign entity that possesses zero land",
@@ -3189,6 +3407,7 @@
     "reviewedAt": "2026-07-28T01:50:53.678Z"
   },
   "good:Q574289": {
+    "title": "Spreuerhofstraße",
     "lat": 48.4908,
     "lng": 9.21573,
     "blurb": "Good luck walking along this street.",
@@ -3204,6 +3423,7 @@
     "reviewedAt": "2026-07-28T01:51:25.455Z"
   },
   "good:Q801472": {
+    "title": "Stratford International station",
     "lat": 51.5448,
     "lng": -0.0086,
     "blurb": "!!!REM nah",
@@ -3219,6 +3439,7 @@
     "reviewedAt": "2026-07-28T01:51:42.859Z"
   },
   "good:Q106609885": {
+    "title": "Stockport Pyramid",
     "lat": 53.408,
     "lng": -2.1754,
     "blurb": "It is in fact not a pyramid.",
@@ -3234,6 +3455,7 @@
     "reviewedAt": "2026-07-28T01:52:06.637Z"
   },
   "good:Q201013": {
+    "title": "Svalbard Global Seed Vault",
     "lat": 78.235866666667,
     "lng": 15.491372222222,
     "blurb": "",
@@ -3249,6 +3471,7 @@
     "reviewedAt": "2026-07-28T01:52:18.665Z"
   },
   "good:Q907112": {
+    "title": "Transnistria",
     "lat": 47.3,
     "lng": 29.25,
     "blurb": "A time machine to the Soviet era",
@@ -3264,6 +3487,7 @@
     "reviewedAt": "2026-07-28T01:52:46.758Z"
   },
   "good:Q1056493": {
+    "title": "Uffington White Horse",
     "lat": 51.5777,
     "lng": -1.56675,
     "blurb": "",
@@ -3279,6 +3503,7 @@
     "reviewedAt": "2026-07-28T01:53:06.254Z"
   },
   "good:Q1508395": {
+    "title": "Unst Bus Shelter",
     "lat": 60.765530555556,
     "lng": -0.83496111111111,
     "blurb": "",
@@ -3294,6 +3519,7 @@
     "reviewedAt": "2026-07-28T01:53:55.059Z"
   },
   "good:Q7899119": {
+    "title": "Uppland Runic Inscription 53",
     "lat": 59.32472,
     "lng": 18.07017,
     "blurb": "Was eventually reused as part of a building, to notoriety",
@@ -3309,6 +3535,7 @@
     "reviewedAt": "2026-07-28T01:55:02.000Z"
   },
   "good:Q1092030": {
+    "title": "Vajdahunyad Castle",
     "lat": 47.515277777778,
     "lng": 19.081944444444,
     "blurb": "This castle started out as cardboard!",
@@ -3324,6 +3551,7 @@
     "reviewedAt": "2026-07-28T01:55:26.135Z"
   },
   "good:Q856747": {
+    "title": "Vatican Railway",
     "lat": 41.901011111111,
     "lng": 12.451169444444,
     "blurb": "!!!REM meh",
@@ -3339,6 +3567,7 @@
     "reviewedAt": "2026-07-28T01:55:52.565Z"
   },
   "good:Q678572": {
+    "title": "Vennbahn",
     "lat": 50.424,
     "lng": 6.221,
     "blurb": "!!!REM eh",
@@ -3354,6 +3583,7 @@
     "reviewedAt": "2026-07-28T01:57:44.779Z"
   },
   "good:Q7963252": {
+    "title": "Wallsend Metro station",
     "lat": 54.9897,
     "lng": -1.5323,
     "blurb": "All of its signs are in Latin",
@@ -3369,6 +3599,7 @@
     "reviewedAt": "2026-07-28T01:58:07.560Z"
   },
   "good:Q7993682": {
+    "title": "Whip-Ma-Whop-Ma-Gate",
     "lat": 53.9591,
     "lng": -1.07959,
     "blurb": "",
@@ -3384,6 +3615,7 @@
     "reviewedAt": "2026-07-28T01:58:51.804Z"
   },
   "good:Q105558872": {
+    "title": "Wooden Spoons Museum",
     "lat": 47.53278611111111,
     "lng": 25.5515625,
     "blurb": "",
@@ -3392,6 +3624,7 @@
     "reviewedAt": "2026-07-28T01:59:11.994Z"
   },
   "good:Q8035941": {
+    "title": "World Map at Lake Klejtrup",
     "lat": 56.5905,
     "lng": 9.64147,
     "blurb": "",
@@ -3405,5 +3638,318 @@
     },
     "status": "confirmed",
     "reviewedAt": "2026-07-28T01:59:42.589Z"
+  },
+  "good:Q186556": {
+    "title": "Zeitpyramide",
+    "lat": 48.8842,
+    "lng": 10.7214,
+    "blurb": "Won't be completed anytime soon.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wemdinger_Zeitpyramide_September_2023.jpg/330px-Wemdinger_Zeitpyramide_September_2023.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Wemdinger_Zeitpyramide_September_2023.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Wemdinger_Zeitpyramide_September_2023.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Bernhard Schiffmann, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T23:50:59.262Z"
+  },
+  "good:Q640410": {
+    "title": "Željava Air Base",
+    "lat": 44.836388888889,
+    "lng": 15.758055555556,
+    "blurb": "Underground air base",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%C5%BDeljava%2C_Runway_1.jpg/330px-%C5%BDeljava%2C_Runway_1.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/%C5%BDeljava%2C_Runway_1.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:%C5%BDeljava,_Runway_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Ballota, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T23:51:29.847Z"
+  },
+  "good:Q219894": {
+    "title": "Zone rouge",
+    "lat": 50.36,
+    "lng": 2.8,
+    "blurb": "Chemical weapons render this area yet uninhabitable",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Red_Zone_Map-fr.svg/330px-Red_Zone_Map-fr.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Red_Zone_Map-fr.svg/1920px-Red_Zone_Map-fr.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Tinodela, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T23:52:02.013Z"
+  },
+  "good:Q467421": {
+    "title": "Americana, São Paulo",
+    "lat": -22.738888888889,
+    "lng": -47.330833333333,
+    "blurb": "Founded by Confederate soldiers after losing the Civil War",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vista_a%C3%A9rea_de_Americana.jpg/330px-Vista_a%C3%A9rea_de_Americana.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vista_a%C3%A9rea_de_Americana.jpg/3840px-Vista_a%C3%A9rea_de_Americana.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Mario L. Cavicchiolli, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T23:52:30.973Z"
+  },
+  "good:Q5031539": {
+    "title": "Cancún Underwater Museum",
+    "lat": 21.0763,
+    "lng": -86.8463,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/DSCN0626_%2814108251890%29.jpg/330px-DSCN0626_%2814108251890%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/DSCN0626_%2814108251890%29.jpg/3840px-DSCN0626_%2814108251890%29.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "allenran 917, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T23:53:02.825Z"
+  },
+  "good:Q942053": {
+    "title": "Cândido Godói",
+    "lat": -27.951944444444,
+    "lng": -54.751944444444,
+    "blurb": "Town with a twin rate 5x the national average",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Portico_Candido_Godoi.jpg/330px-Portico_Candido_Godoi.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Portico_Candido_Godoi.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Portico_Candido_Godoi.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Felipe P, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T23:53:30.139Z"
+  },
+  "good:Q911662": {
+    "title": "Cashew of Pirangi",
+    "lat": -5.973991,
+    "lng": -35.12902,
+    "blurb": "Tree larger than a football field",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Vista_do_mirante_do_cajueiro_de_Pirangi.jpg/330px-Vista_do_mirante_do_cajueiro_de_Pirangi.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Vista_do_mirante_do_cajueiro_de_Pirangi.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Vista_do_mirante_do_cajueiro_de_Pirangi.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Marina Almeida, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T23:54:19.860Z"
+  },
+  "good:Q2962825": {
+    "title": "Cherán",
+    "lat": 19.733333333333334,
+    "lng": -102,
+    "blurb": "The power lies with the people",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/La_plaza_central_de_Cheran%2C_con_la_carpa_que_dispusieron_para_la.jpeg/330px-La_plaza_central_de_Cheran%2C_con_la_carpa_que_dispusieron_para_la.jpeg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/La_plaza_central_de_Cheran%2C_con_la_carpa_que_dispusieron_para_la.jpeg/3840px-La_plaza_central_de_Cheran%2C_con_la_carpa_que_dispusieron_para_la.jpeg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T23:55:50.170Z"
+  },
+  "good:Q1806478": {
+    "title": "Ciudad Mitad del Mundo",
+    "lat": -0.0022222222222222222,
+    "lng": -78.45583333333333,
+    "blurb": "Sadly, it's just a bit off the mark",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/330px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/3840px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+      "filePage": "",
+      "license": "",
+      "attribution": "Diego Delso, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T23:57:44.306Z"
+  },
+  "good:Q701176": {
+    "title": "Colonia Dignidad",
+    "lat": -36.3875,
+    "lng": -71.5875,
+    "blurb": "A child abuse cult with Nazi ties",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Villa_Baviera.jpg/330px-Villa_Baviera.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Villa_Baviera.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Villa_Baviera.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Xarucoponce, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-28T23:59:47.641Z"
+  },
+  "good:Q917276": {
+    "title": "Darién Gap",
+    "lat": 7.9,
+    "lng": -77.46,
+    "blurb": "Deceptively inhospitable",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_Dari%C3%A9n_Gap-en.svg/330px-Map_of_Dari%C3%A9n_Gap-en.svg.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_Dari%C3%A9n_Gap-en.svg/500px-Map_of_Dari%C3%A9n_Gap-en.svg.png",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-29T00:00:45.245Z"
+  },
+  "good:Q220385": {
+    "title": "Devil's Island",
+    "lat": 5.29389,
+    "lng": -52.5833,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tour_dreyfus_kourou.jpg/330px-Tour_dreyfus_kourou.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Tour_dreyfus_kourou.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Tour_dreyfus_kourou.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Arria Belli, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-29T00:00:59.803Z"
+  },
+  "good:Q704637": {
+    "title": "Ernst Thälmann Island",
+    "lat": 22.029111,
+    "lng": -81.392434,
+    "blurb": "Technically Germany's island, but not really?",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-07-29T00:08:02.169Z"
+  },
+  "good:Q267439": {
+    "title": "Guarapari",
+    "lat": -20.657777777778,
+    "lng": -40.510833333333,
+    "blurb": "Radioactive beach",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Guarapari_-_ES._Aerial_view_of_the_city_of_Guarapari_and_its_beaches%2C_in_Esp%C3%ADrito_Santo%2C_Brazil.jpg/330px-Guarapari_-_ES._Aerial_view_of_the_city_of_Guarapari_and_its_beaches%2C_in_Esp%C3%ADrito_Santo%2C_Brazil.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Guarapari_-_ES._Aerial_view_of_the_city_of_Guarapari_and_its_beaches%2C_in_Esp%C3%ADrito_Santo%2C_Brazil.jpg/3840px-Guarapari_-_ES._Aerial_view_of_the_city_of_Guarapari_and_its_beaches%2C_in_Esp%C3%ADrito_Santo%2C_Brazil.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Rosanetur, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-29T01:57:30.847Z"
+  },
+  "good:Q1437077": {
+    "title": "Fordlândia",
+    "lat": -3.8313888888889,
+    "lng": -55.4975,
+    "blurb": "Yep, that Ford",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fordlandia.JPG/330px-Fordlandia.JPG",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Fordlandia.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Fordlandia.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "User: (WT-shared) Amitevron at wts wikivoyage, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-29T01:57:59.640Z"
+  },
+  "good:Q5504413": {
+    "title": "Friendship Park (San Diego–Tijuana)",
+    "lat": 32.5346,
+    "lng": -117.122,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pedestrian_entrance_into_Friendship_Park.jpg/330px-Pedestrian_entrance_into_Friendship_Park.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pedestrian_entrance_into_Friendship_Park.jpg/3840px-Pedestrian_entrance_into_Friendship_Park.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "RightCowLeftCoast, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-29T01:58:22.254Z"
+  },
+  "good:Q2788637": {
+    "title": "Hacienda Nápoles",
+    "lat": 5.925541666666667,
+    "lng": -74.7221888888889,
+    "blurb": "Pablo Escobar's estate, whose hippos escaped and went feral",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Parque_Tem%C3%A1tico_Hacienda_N%C3%A1poles_-_Puerto_Triunfo_Antioquia.jpg/330px-Parque_Tem%C3%A1tico_Hacienda_N%C3%A1poles_-_Puerto_Triunfo_Antioquia.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Parque_Tem%C3%A1tico_Hacienda_N%C3%A1poles_-_Puerto_Triunfo_Antioquia.jpg/3840px-Parque_Tem%C3%A1tico_Hacienda_N%C3%A1poles_-_Puerto_Triunfo_Antioquia.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Arrasaris, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-29T01:59:22.822Z"
+  },
+  "good:Q17072525": {
+    "title": "Heladería Coromoto",
+    "lat": 8.594444,
+    "lng": -71.148611,
+    "blurb": "!!!REM ig",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Neon_sign_at_Helader%C3%ADa_Coromoto.jpg/330px-Neon_sign_at_Helader%C3%ADa_Coromoto.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Neon_sign_at_Helader%C3%ADa_Coromoto.jpg/3840px-Neon_sign_at_Helader%C3%ADa_Coromoto.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-29T01:59:48.204Z"
+  },
+  "good:Q2836481": {
+    "title": "Isla Apipé",
+    "lat": -27.5,
+    "lng": -56.9,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Islas_Apip%C3%A9.png",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Islas_Apip%C3%A9.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Islas_Apip%C3%A9.png",
+      "license": "CC BY 3.0",
+      "attribution": "Make with Planiglobe, CC BY 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-29T02:00:02.444Z"
+  },
+  "good:Q15401946": {
+    "title": "Island of the Dolls",
+    "lat": 19.27220855,
+    "lng": -99.08878592,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Xochimilco_Dolls%27_Island.jpg/330px-Xochimilco_Dolls%27_Island.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Xochimilco_Dolls%27_Island.jpg/3840px-Xochimilco_Dolls%27_Island.jpg",
+      "filePage": "",
+      "license": "",
+      "attribution": "Esparta Palma, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-07-29T02:00:24.959Z"
   }
 }

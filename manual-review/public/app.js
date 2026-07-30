@@ -479,6 +479,7 @@ async function saveAndNext() {
   }
   try {
     await postReview(a.id, {
+      title: a.title,
       lat: state.marker.lat,
       lng: state.marker.lng,
       blurb: dom.blurbInput.value.trim(),
@@ -497,6 +498,7 @@ async function skip() {
   if (!a) return;
   try {
     await postReview(a.id, {
+      title: a.title,
       lat: state.marker ? state.marker.lat : null,
       lng: state.marker ? state.marker.lng : null,
       blurb: dom.blurbInput.value.trim(),
