@@ -1,11 +1,26 @@
-import { useState } from 'react'
-import * as React from 'react'
-import Map from 'react-map-gl/maplibre'
+import {Map, Source, Layer} from 'react-map-gl/maplibre'
+import type { LayerProps } from 'react-map-gl/maplibre'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import './App.css'
+import type { FeatureCollection } from 'geojson'
+import geojson_data from '../scripts/data/geojson_data.json'
+
 
 function App() {
-  const [count, setCount] = useState<number>(0)
+
+// essentially a test layer, but good for poc
+  const layerStyle: LayerProps = {
+    id: "point",
+    type: "circle" as const,
+    paint: {
+      "circle-radius": [
+        "interpolate", ["linear"], ["zoom"],
+        2, 2,
+        10, 8
+      ],
+      "circle-color": "#007cbf"
+    }
+  } 
 
   return (
     <>
@@ -14,13 +29,18 @@ function App() {
     </header>
     <Map
       initialViewState={{
-        longitude: -122.4,
-        latitude: 37.8,
-        zoom: 14
+        longitude: 0,
+        latitude: 0,
+        zoom: 2
       }}
       style={{width:"1125px", height:"640px"}}
       mapStyle="https://tiles.openfreemap.org/styles/liberty"
-    />
+      projection={{'type': "globe"}}
+      >
+      <Source id="geojson_data" type="geojson" data={geojson_data as FeatureCollection}>
+        <Layer {...layerStyle}/>
+      </Source>
+    </Map>
     <footer className="App-footer">
     </footer>
     </>
