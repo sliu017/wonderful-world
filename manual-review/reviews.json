@@ -3,6 +3,8 @@
     "title": "Null Island",
     "lat": 0,
     "lng": 0,
+    "blurb": "",
+    "image": null,
     "status": "confirmed",
     "reviewedAt": "2026-07-27T00:37:33.340Z"
   },
@@ -10,6 +12,8 @@
     "title": "Abuja Airplane House",
     "lat": 9.049444444444445,
     "lng": 7.516388888888889,
+    "blurb": "",
+    "image": null,
     "status": "confirmed",
     "reviewedAt": "2026-07-27T01:00:11.291Z"
   },

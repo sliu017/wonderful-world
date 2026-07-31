@@ -11,29 +11,35 @@ with open("../manual-review/reviews.json", "r") as f:
 
 ## TODO: Not currently working, need to fix data shape
 geojson_data = {}
+geojson_data["type"] = "FeatureCollection"
+geojson_data["features"] = []
 for key, value in data.items():
-    data_category = key.split(":")[0]
+    if(value["status"] == "skipped"):
+        continue
+
+    data_category = key.split(":")[0] # Might need later? "good", "ner"
     id = key.split(":")[1]
-    geojson_data[id] = {
-        "type": "FeatureCollection",
-        "features": []
+    
+    this_item = {                     
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [value["lng"], value["lat"]],
+        },
+        "properties": {
+            "title": value["title"],
+            "qid": id,
+            "blurb": value["blurb"],
+            "image": { "thumbUrl": value["image"]["thumbUrl"], 
+                       "fullUrl": value["image"]["fullUrl"],
+                        "filePage": value["image"]["filePage"],
+                        "license": value["image"]["license"],
+                        "attribution": value["image"]["attribution"],
+                        "nonFree": value["image"]["nonFree"]}
+                        if value["image"] else None
+        },
     }
-        # "type": "Feature",
-        # "geometry": {
-        #     "type": "Point",
-        #     "coordinates": [value["lng"], value["lat"]],
-        # },
-        # "properties": {
-        #     "title": value["title"],
-        #     "qid": id,
-        #     "blurb": value["blurb"],
-        #     "image": { "thumbUrl": value["image"]["thumbUrl"], 
-        #                "fullUrl": value["image"]["fullUrl"],
-        #                 "filePage": value["image"]["filePage"],
-        #                 "license": value["image"]["license"],
-        #                 "attribution": value["image"]["attribution"],
-        #                 "nonFree": value["image"]["nonFree"]}
-        # },
+    geojson_data["features"].append(this_item)
     
 
 with open("./data/geojson_data.json", "w") as f:
