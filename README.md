@@ -2,4 +2,4 @@
 A manually curated collection of interesting and unusual spots around the globe. Inspired by Wikipedia deep dives and wacky Geoguessr maps. 
 
 # TODO
-Match data shape of the first two records to the others
+perhaps allow zooming "through" cards - because currently the popup acts as a blocker
