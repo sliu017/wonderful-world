@@ -69,8 +69,41 @@ body {
   background: var(--accent);
   transition: width 0.2s ease;
 }
-.filters {
+/* Sticky "current category" — every save is stamped with it, so it's styled to
+   stay visible rather than blend into the other controls. */
+.category-box {
   margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 10px 4px 12px;
+  background: var(--panel-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: 14px;
+}
+.category-box input {
+  width: 130px;
+  background: transparent;
+  color: var(--accent);
+  font: inherit;
+  font-weight: 600;
+  border: none;
+  border-bottom: 1px dashed var(--border);
+  padding: 3px 2px;
+}
+.category-box input:focus {
+  outline: none;
+  border-bottom-color: var(--accent);
+}
+.category-box input::placeholder {
+  color: var(--muted);
+  font-weight: 400;
+}
+
+.filters {
+  margin-left: 20px;
   display: flex;
   align-items: center;
   gap: 16px;

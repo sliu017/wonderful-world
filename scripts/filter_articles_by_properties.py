@@ -4,9 +4,9 @@ import time
 
 # Script to find location properties for all unusual articles
 # First try to find direct coordinates, and if that fails, hop through internally linked articles to try again
-# Sent to ./good_group.json
+# Sent to ./data/group_with_direct_coordinates.json
 # If that second pass fails, send to NER
-# Sent to ./run_through_ner.json
+# Sent to ./data/group_without_direct_coordinates.json
 HEADERS = {
     "User-Agent": "Wonderful World Project/0.1 (https://github.com/sliu017)"
 }

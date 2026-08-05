@@ -19,6 +19,19 @@
         <strong id="reviewedCount">0</strong> / <span id="totalCount">0</span> reviewed
         <span class="bar"><span id="progressFill"></span></span>
       </div>
+      <div class="category-box">
+        <label for="categoryInput">Tagging as</label>
+        <input
+          id="categoryInput"
+          list="categoryOptions"
+          autocomplete="off"
+          spellcheck="false"
+          placeholder="place"
+          title="Every article you save is tagged with this. Change it when you move on to a different kind of article."
+        />
+        <datalist id="categoryOptions"></datalist>
+      </div>
+
       <div class="filters">
         <label>
           Show

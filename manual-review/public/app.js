@@ -8,6 +8,16 @@
 
 'use strict';
 
+// The category box is sticky by design: it is not reset per article, so a whole
+// run of articles gets tagged without touching it. Change it by hand whenever
+// you move on to a different kind of article.
+const DEFAULT_CATEGORY = 'place';
+
+// Must match sanitizeCategory() in server.mjs so what you see is what is stored.
+function normalizeCategory(v) {
+  return String(v || '').trim().replace(/\s+/g, ' ').toLowerCase().slice(0, 40);
+}
+
 const state = {
   articles: [], // full list from the server
   reviews: {}, // id -> { lat, lng, status, reviewedAt }
@@ -16,6 +26,7 @@ const state = {
   filter: 'unreviewed',
   marker: null, // current pin lat/lng ({lat,lng}) or null
   image: undefined, // current image object, null (none), or undefined (loading)
+  category: DEFAULT_CATEGORY, // sticky: stamped onto every save until changed
 };
 
 let map;
@@ -29,6 +40,8 @@ const dom = {
   totalCount: el('totalCount'),
   progressFill: el('progressFill'),
   filterSelect: el('filterSelect'),
+  categoryInput: el('categoryInput'),
+  categoryOptions: el('categoryOptions'),
   positionLabel: el('positionLabel'),
   sourceBadge: el('sourceBadge'),
   articleTitle: el('articleTitle'),
@@ -83,6 +96,13 @@ async function init() {
   if (savedFilter) state.filter = savedFilter;
   dom.filterSelect.value = state.filter;
 
+  // Restore the category you were last tagging with, so a session picks up
+  // where the previous one left off.
+  const savedCategory = normalizeCategory(localStorage.getItem('mr.category'));
+  state.category = savedCategory || DEFAULT_CATEGORY;
+  dom.categoryInput.value = state.category;
+  refreshCategoryOptions();
+
   rebuildView();
 
   const savedId = localStorage.getItem('mr.currentId');
@@ -94,6 +114,29 @@ async function init() {
   wireControls();
   render();
   updateProgress();
+}
+
+// --- Category -------------------------------------------------------------
+
+// Autocomplete suggestions = every category already used, so the set stays
+// tight instead of drifting into near-duplicates.
+function refreshCategoryOptions() {
+  const used = new Set([DEFAULT_CATEGORY]);
+  for (const r of Object.values(state.reviews)) {
+    if (r && r.category) used.add(r.category);
+  }
+  dom.categoryOptions.innerHTML = '';
+  for (const c of [...used].sort()) {
+    const opt = document.createElement('option');
+    opt.value = c;
+    dom.categoryOptions.appendChild(opt);
+  }
+}
+
+function setCategoryFromInput() {
+  const next = normalizeCategory(dom.categoryInput.value);
+  state.category = next;
+  localStorage.setItem('mr.category', next);
 }
 
 // --- Filtering ------------------------------------------------------------
@@ -182,6 +225,10 @@ function render() {
     meta.push('no coordinates — place a pin');
   }
   if (review) {
+    // Show what this article was tagged as. The box above stays sticky, so this
+    // is how you spot an article saved under a category you've since moved on
+    // from — re-saving restamps it with whatever the box currently says.
+    if (review.category) meta.push('tagged “' + review.category + '”');
     meta.push(
       `${review.status} ${review.reviewedAt ? '· ' + new Date(review.reviewedAt).toLocaleString() : ''}`,
     );
@@ -484,8 +531,10 @@ async function saveAndNext() {
       lng: state.marker.lng,
       blurb: dom.blurbInput.value.trim(),
       image: currentImagePayload(),
+      category: state.category,
       status: 'confirmed',
     });
+    refreshCategoryOptions();
     updateProgress();
     advanceAfterReview();
   } catch (err) {
@@ -503,8 +552,10 @@ async function skip() {
       lng: state.marker ? state.marker.lng : null,
       blurb: dom.blurbInput.value.trim(),
       image: currentImagePayload(),
+      category: state.category,
       status: 'skipped',
     });
+    refreshCategoryOptions();
     updateProgress();
     advanceAfterReview();
   } catch (err) {
@@ -605,6 +656,19 @@ function wireControls() {
     render();
   });
 
+  dom.categoryInput.addEventListener('input', setCategoryFromInput);
+  dom.categoryInput.addEventListener('change', () => {
+    setCategoryFromInput();
+    dom.categoryInput.value = state.category; // reflect the normalised form
+  });
+  // Enter in the category box shouldn't fall through to Save & Next.
+  dom.categoryInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      dom.categoryInput.blur();
+    }
+  });
+
   dom.loadSummaryBtn.addEventListener('click', loadSummary);
   dom.blurbInput.addEventListener('input', updateBlurbCount);
   dom.imgClearBtn.addEventListener('click', clearImage);
@@ -626,9 +690,10 @@ function wireControls() {
   });
 
   document.addEventListener('keydown', (e) => {
-    // Ignore shortcuts while typing in any text field.
-    if (e.target === dom.geoInput || e.target === dom.blurbInput || e.target === dom.imgAttribution)
-      return;
+    // Ignore shortcuts while typing in any text field. Matching on the element
+    // type rather than a list of ids means a newly added input (like the
+    // category box) can't accidentally trigger `s` = skip.
+    if (e.target instanceof HTMLElement && e.target.matches('input, textarea, select')) return;
     if (e.key === 'ArrowLeft') {
       prev();
     } else if (e.key === 'ArrowRight') {

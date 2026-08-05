@@ -29,6 +29,7 @@ for key, value in data.items():
         "properties": {
             "title": value["title"],
             "qid": id,
+            "category": value.get("category", ""),
             "blurb": value["blurb"],
             "image": { "thumbUrl": value["image"]["thumbUrl"], 
                        "fullUrl": value["image"]["fullUrl"],

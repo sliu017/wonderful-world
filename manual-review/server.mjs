@@ -258,6 +258,15 @@ async function getMedia(title) {
   return result;
 }
 
+// Categories are free text typed by the reviewer, so normalise them (trim,
+// collapse whitespace, lowercase) to keep "Place", "place " and "place" from
+// becoming three different tags.
+const MAX_CATEGORY_LEN = 40;
+function sanitizeCategory(v) {
+  if (typeof v !== 'string') return '';
+  return v.trim().replace(/\s+/g, ' ').toLowerCase().slice(0, MAX_CATEGORY_LEN);
+}
+
 function sanitizeImage(img) {
   if (!img || typeof img !== 'object') return null;
   const str = (k) => (typeof img[k] === 'string' ? img[k] : '');
@@ -350,7 +359,7 @@ const server = http.createServer(async (req, res) => {
 
     if (pathname === '/api/reviews' && req.method === 'POST') {
       const body = JSON.parse(await readBody(req));
-      const { id, lat, lng, status, blurb, image, title: bodyTitle } = body;
+      const { id, lat, lng, status, blurb, image, category, title: bodyTitle } = body;
       if (typeof id !== 'string') return sendJson(res, 400, { error: 'id required' });
 
       if (status === 'unreviewed') {
@@ -365,6 +374,10 @@ const server = http.createServer(async (req, res) => {
         const title = titleById.get(id) || (typeof bodyTitle === 'string' ? bodyTitle : '');
         reviews[id] = {
           title,
+          // stamped from whatever the reviewer currently has in the Category
+          // box; falls back to the previous value so re-saving with an empty
+          // box doesn't silently drop an existing tag
+          category: sanitizeCategory(category) || reviews[id]?.category || '',
           lat: Number.isFinite(lat) ? lat : null,
           lng: Number.isFinite(lng) ? lng : null,
           blurb: typeof blurb === 'string' ? blurb : '',

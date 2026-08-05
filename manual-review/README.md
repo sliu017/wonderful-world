@@ -38,6 +38,12 @@ No build step and no extra dependencies — the server uses only Node built-ins
   **license** (green = reusable, orange = ⚠ non-free / don't reuse), an editable
   **attribution** line, and a link to the file page. Use **Custom URL…** to
   supply your own, or **Clear image** for none.
+- **Tagging as** (top right) — the category stamped onto every article you
+  save. It is **sticky**: it does not change as you move between articles, so a
+  whole run gets the same tag. Edit it by hand when you switch to a different
+  kind of article. Previously used categories autocomplete, and the value is
+  normalised (trimmed, lowercased) so `Place` and `place ` don't split into two
+  tags. An already-reviewed article shows its own saved tag in the meta line.
 - **Save & Next** (`Enter`) — stores the pin + teaser + image as `confirmed` and advances.
 - **Skip** (`s`) — marks the article `skipped` (revisit later via the filter).
 - **Prev / Next** (`←` / `→`) — move without saving.
@@ -52,6 +58,8 @@ Keyed by article id (`good:<Qid>` or `ner:<Title>`):
 ```json
 {
   "ner:Zheltuga Republic": {
+    "title": "Zheltuga Republic",
+    "category": "place",
     "lat": 53.6,
     "lng": 124.0,
     "blurb": "A gold-rush micro-republic that most maps forgot.",
@@ -70,6 +78,9 @@ Keyed by article id (`good:<Qid>` or `ner:<Title>`):
 ```
 
 - `status` is `confirmed` or `skipped`; `image` is `null` if there's none.
+- `category` is whatever the **Tagging as** box held at save time. Re-saving an
+  article restamps it with the current box value; saving with the box empty
+  keeps the tag the article already had rather than clearing it.
 - `thumbUrl` is what you'd hotlink in a popup; `fullUrl` / `filePage` let a later
   step download and self-host the image (with `attribution`) if you stop
   hotlinking. `nonFree: true` means the image is fair-use on Wikipedia and should

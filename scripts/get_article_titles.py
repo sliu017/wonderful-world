@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Script to obtain all article titles from the "list of unusual articles" page 
-# Sent to ./unusual_articles.json 
+# Sent to ./data/unusual_articles.json 
 HEADERS = {
     "User-Agent": "Wonderful World Project/0.1 (https://github.com/sliu017)"
 }

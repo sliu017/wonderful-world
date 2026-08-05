@@ -13,6 +13,7 @@
             "properties": {
                 "title": "Null Island",
                 "qid": "Q16896007",
+                "category": "place",
                 "blurb": "",
                 "image": null
             }
@@ -29,6 +30,7 @@
             "properties": {
                 "title": "Abuja Airplane House",
                 "qid": "Q123577560",
+                "category": "place",
                 "blurb": "",
                 "image": null
             }
@@ -45,6 +47,7 @@
             "properties": {
                 "title": "Akon City",
                 "qid": "Q105702255",
+                "category": "place",
                 "blurb": "Planned \"Real-life Wakanda\" based on blockchain and cryptocurrency",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Akon_City_construction_site.png/330px-Akon_City_construction_site.png",
@@ -68,6 +71,7 @@
             "properties": {
                 "title": "Bir Tawil",
                 "qid": "Q620634",
+                "category": "place",
                 "blurb": "An area of claimed strangely claimed by neither country it borders",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Topographic_Map_of_Bir_Tawil.png/330px-Topographic_Map_of_Bir_Tawil.png",
@@ -91,6 +95,7 @@
             "properties": {
                 "title": "Blue Desert",
                 "qid": "Q4929048",
+                "category": "place",
                 "blurb": "One man and a dream of peace, with lots of blue paint",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blue_Desert%2C_Sinai%2C_Egypt.jpg/330px-Blue_Desert%2C_Sinai%2C_Egypt.jpg",
@@ -114,6 +119,7 @@
             "properties": {
                 "title": "Boulders Beach",
                 "qid": "Q895056",
+                "category": "place",
                 "blurb": "A colony of critically endangered African penguins",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boulders_Beach_Suedafrika.jpg/330px-Boulders_Beach_Suedafrika.jpg",
@@ -137,6 +143,7 @@
             "properties": {
                 "title": "Congo Pedicle",
                 "qid": "Q2911837",
+                "category": "place",
                 "blurb": "A geographically peculiar area of the Democratic Republic of the Congo",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/LocationZambia.svg/330px-LocationZambia.svg.png",
@@ -160,6 +167,7 @@
             "properties": {
                 "title": "Dallol (hydrothermal system)",
                 "qid": "Q590742",
+                "category": "place",
                 "blurb": "One of the most acidic and beautiful places on Earth",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ET_Afar_asv2018-01_img48_Dallol.jpg/330px-ET_Afar_asv2018-01_img48_Dallol.jpg",
@@ -183,6 +191,7 @@
             "properties": {
                 "title": "Gaet'ale Pond",
                 "qid": "Q31347745",
+                "category": "place",
                 "blurb": "The saltiest body of water on Earth",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ET_Afar_asv2018-01_img58_Dallol.jpg/330px-ET_Afar_asv2018-01_img58_Dallol.jpg",
@@ -206,6 +215,7 @@
             "properties": {
                 "title": "Giraffe Manor",
                 "qid": "Q5564105",
+                "category": "place",
                 "blurb": "A hotel where you can dine with giraffes",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Giraffe_Manor%2C_Nairobi%2C_Kenya.jpg/330px-Giraffe_Manor%2C_Nairobi%2C_Kenya.jpg",
@@ -229,6 +239,7 @@
             "properties": {
                 "title": "Hoba meteorite",
                 "qid": "Q216876",
+                "category": "place",
                 "blurb": "Largest chunk of meteorite in the world",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hoba_meteorite_%2815682150765%29.jpg/330px-Hoba_meteorite_%2815682150765%29.jpg",
@@ -252,6 +263,7 @@
             "properties": {
                 "title": "Jacob's Ladder (Saint Helena)",
                 "qid": "Q7401347",
+                "category": "place",
                 "blurb": "One very steep ladder",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jamestown_Jacobs_Ladder.jpg/330px-Jamestown_Jacobs_Ladder.jpg",
@@ -275,6 +287,7 @@
             "properties": {
                 "title": "Kalakuta Republic",
                 "qid": "Q3743182",
+                "category": "place",
                 "blurb": "A small compound that declared itself independent from Nigeria - to devastating consequences",
                 "image": null
             }
@@ -291,6 +304,7 @@
             "properties": {
                 "title": "Lake Nyos",
                 "qid": "Q332628",
+                "category": "place",
                 "blurb": "A lake that killed thousands, without any of them touching its waters",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nyos_Lake.jpg/330px-Nyos_Lake.jpg",
@@ -314,6 +328,7 @@
             "properties": {
                 "title": "Lake Retba",
                 "qid": "Q1522557",
+                "category": "place",
                 "blurb": "A Senegalese lake famous for its unique color",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/RetbaLakeShore.jpg/330px-RetbaLakeShore.jpg",
@@ -337,6 +352,7 @@
             "properties": {
                 "title": "Mauritania Railway",
                 "qid": "Q802901",
+                "category": "place",
                 "blurb": "The entire rail system of Mauritania",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Map_Mauritania_Railway.png/330px-Map_Mauritania_Railway.png",
@@ -360,6 +376,7 @@
             "properties": {
                 "title": "Oklo",
                 "qid": "Q26761",
+                "category": "place",
                 "blurb": "All-natural nuclear reactors",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gabon_Geology_Oklo.svg/330px-Gabon_Geology_Oklo.svg.png",
@@ -383,6 +400,7 @@
             "properties": {
                 "title": "Pal\u00e1cio de Ferro",
                 "qid": "Q7128887",
+                "category": "place",
                 "blurb": "Legend has it that Gustave Eiffel himself designed this mysterious building",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pal%C3%A1cio_de_Ferro.jpg/330px-Pal%C3%A1cio_de_Ferro.jpg",
@@ -406,6 +424,7 @@
             "properties": {
                 "title": "Pe\u00f1\u00f3n de V\u00e9lez de la Gomera",
                 "qid": "Q191146",
+                "category": "place",
                 "blurb": "This rock off the Moroccan coast is actually owned by Spain",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Velez_de_la_Gomera.jpg/330px-Velez_de_la_Gomera.jpg",
@@ -429,6 +448,7 @@
             "properties": {
                 "title": "Republic of Benin (1967)",
                 "qid": "Q1108659",
+                "category": "place",
                 "blurb": "State that lasted a grand total of seven hours",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_the_Republic_of_Benin_%281967%29.svg/330px-Flag_of_the_Republic_of_Benin_%281967%29.svg.png",
@@ -452,6 +472,7 @@
             "properties": {
                 "title": "Socotra",
                 "qid": "Q82859",
+                "category": "place",
                 "blurb": "The most alien-looking place on Earth, where cucumbers grow on trees",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Socotra_satview.jpg/330px-Socotra_satview.jpg",
@@ -475,6 +496,7 @@
             "properties": {
                 "title": "Tromelin Island",
                 "qid": "Q234208",
+                "category": "place",
                 "blurb": "This tiny island was the site of a humanitarian crisis that fueled the abolitionist movement",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/330px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png",
@@ -498,6 +520,7 @@
             "properties": {
                 "title": "The Owl House (museum)",
                 "qid": "Q7755764",
+                "category": "place",
                 "blurb": "A constructed fantasy world, unrelated to the Disney series",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Owl_house_2003_18.JPG/330px-Owl_house_2003_18.JPG",
@@ -521,6 +544,7 @@
             "properties": {
                 "title": "Umoja, Kenya",
                 "qid": "Q1021583",
+                "category": "place",
                 "blurb": "A matriarchal society formed as a sanctuary",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Paulina_et_Margaret.jpg/330px-Paulina_et_Margaret.jpg",
@@ -544,6 +568,7 @@
             "properties": {
                 "title": "Blood Falls",
                 "qid": "Q885118",
+                "category": "place",
                 "blurb": "The name truly says it all",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Blood_Falls_by_Peter_Rejcek.jpg/330px-Blood_Falls_by_Peter_Rejcek.jpg",
@@ -567,6 +592,7 @@
             "properties": {
                 "title": "COVID-19 pandemic in Antarctica",
                 "qid": "Q89453779",
+                "category": "place",
                 "blurb": "Yep, it reached here too",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/COVID-19_Cases_in_Antarctica_%28en%29.svg/330px-COVID-19_Cases_in_Antarctica_%28en%29.svg.png",
@@ -590,6 +616,7 @@
             "properties": {
                 "title": "Esperanza Base",
                 "qid": "Q1368174",
+                "category": "place",
                 "blurb": "The only civilian settlement on Antarctica",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hope_Bay-2016-Trinity_Peninsula%E2%80%93Esperanza_Station_03.jpg/330px-Hope_Bay-2016-Trinity_Peninsula%E2%80%93Esperanza_Station_03.jpg",
@@ -613,6 +640,7 @@
             "properties": {
                 "title": "Mawson Peak",
                 "qid": "Q2114101",
+                "category": "place",
                 "blurb": "Believe it or not, the highest mountain in Australia is in fact here",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Heard_Island_%28cropped%29.jpg/330px-Heard_Island_%28cropped%29.jpg",
@@ -636,6 +664,7 @@
             "properties": {
                 "title": "McMurdo Dry Valleys",
                 "qid": "Q571433",
+                "category": "place",
                 "blurb": "An area undergoing a two million year droght",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mcmurdo_sound_USGS_map.jpg/330px-Mcmurdo_sound_USGS_map.jpg",
@@ -659,6 +688,7 @@
             "properties": {
                 "title": "Marie Byrd Land",
                 "qid": "Q745767",
+                "category": "place",
                 "blurb": "To this day, the largest completely unclaimed area of our planet",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Marie_Byrd_Land_in_Antarctica.svg/330px-Marie_Byrd_Land_in_Antarctica.svg.png",
@@ -682,6 +712,7 @@
             "properties": {
                 "title": "New Swabia",
                 "qid": "Q252609",
+                "category": "place",
                 "blurb": "Nazi Germany claimed parts of Antarctica... for some reason",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/NewSwabiaMap.jpg/330px-NewSwabiaMap.jpg",
@@ -705,6 +736,7 @@
             "properties": {
                 "title": "Pole of Inaccessibility research station",
                 "qid": "Q1469788",
+                "category": "place",
                 "blurb": "A Soviet research station completely buried under snow... except for a statue of Lenin",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Southern_Pole_of_Inaccessibility_Henry_Cookson_team_n2i.jpg/330px-Southern_Pole_of_Inaccessibility_Henry_Cookson_team_n2i.jpg",
@@ -728,6 +760,7 @@
             "properties": {
                 "title": "Villa Las Estrellas",
                 "qid": "Q2745332",
+                "category": "place",
                 "blurb": "An extremely remote town near Antarctica",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Villa-Las-Estrellas-Antarctica.JPG/330px-Villa-Las-Estrellas-Antarctica.JPG",
@@ -751,6 +784,7 @@
             "properties": {
                 "title": "798 Art Zone",
                 "qid": "Q1203470",
+                "category": "place",
                 "blurb": "Old military factories, now the heart of the Beijing art world",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Beijing_798_Art_District.jpg/330px-Beijing_798_Art_District.jpg",
@@ -774,6 +808,7 @@
             "properties": {
                 "title": "Aoshima, Ehime",
                 "qid": "Q11661371",
+                "category": "place",
                 "blurb": "An island with 36x more cats than people",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Iyo-Aoshima_Island_Aerial_photograph.jpg/330px-Iyo-Aoshima_Island_Aerial_photograph.jpg",
@@ -797,6 +832,7 @@
             "properties": {
                 "title": "Artsvashen",
                 "qid": "Q514729",
+                "category": "place",
                 "blurb": "An Armenian village completely surrounded and controlled by Azerbaijan",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D0%B4_%D0%B2_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B5.jpg/330px-%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D0%B4_%D0%B2_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B5.jpg",
@@ -820,6 +856,7 @@
             "properties": {
                 "title": "Barangay 76, Caloocan",
                 "qid": "Q123266032",
+                "category": "place",
                 "blurb": "An area with zero residents, but 210 voters",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BonifacioMonumentjf9868_03.JPG/330px-BonifacioMonumentjf9868_03.JPG",
@@ -843,6 +880,7 @@
             "properties": {
                 "title": "Bust of Ferdinand Marcos",
                 "qid": "Q19839934",
+                "category": "place",
                 "blurb": "The Filipino Mount Rushmore which blew up",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Bust_of_Ferdinand_Marcos.jpg",
@@ -866,6 +904,7 @@
             "properties": {
                 "title": "Camp Bonifas",
                 "qid": "Q498293",
+                "category": "place",
                 "blurb": "\"The most dangerous hole in golf\"",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CampBonifas1.jpg/330px-CampBonifas1.jpg",
@@ -889,6 +928,7 @@
             "properties": {
                 "title": "Chao Mae Tuptim shrine",
                 "qid": "Q2956442",
+                "category": "place",
                 "blurb": "Also known as Penis Shrine",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chao_Mae_Tuptim-002.jpg/330px-Chao_Mae_Tuptim-002.jpg",
@@ -912,6 +952,7 @@
             "properties": {
                 "title": "Christmas Island",
                 "qid": "Q31063",
+                "category": "place",
                 "blurb": "Isolated island with unique wildlife and many, many crabs",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/330px-Flag_of_Christmas_Island.svg.png",
@@ -935,6 +976,7 @@
             "properties": {
                 "title": "Dahala Khagrabari",
                 "qid": "Q1764787",
+                "category": "place",
                 "blurb": "A piece of India within a piece of Bangladesh within a piece of India within a piece of Bangladesh",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dahala_Khagrabari_English.svg/330px-Dahala_Khagrabari_English.svg.png",
@@ -958,6 +1000,7 @@
             "properties": {
                 "title": "Darvaza gas crater",
                 "qid": "Q70458",
+                "category": "place",
                 "blurb": "Locals call it the Gates of Hell",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Darvasa_gas_crater_panorama.jpg/330px-Darvasa_gas_crater_panorama.jpg",
@@ -981,6 +1024,7 @@
             "properties": {
                 "title": "Dhekelia Power Station",
                 "qid": "Q5269505",
+                "category": "place",
                 "blurb": "This Cypriot power plant provides energy to the British",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dhekelia_Power_Station.jpg/330px-Dhekelia_Power_Station.jpg",
@@ -1004,6 +1048,7 @@
             "properties": {
                 "title": "Diomede Islands",
                 "qid": "Q204403",
+                "category": "place",
                 "blurb": "Two islands, two miles between them, 21 hours apart",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BeringSt-close-VE.jpg/330px-BeringSt-close-VE.jpg",
@@ -1027,6 +1072,7 @@
             "properties": {
                 "title": "Ennigaldi-Nanna's museum",
                 "qid": "Q3014063",
+                "category": "place",
                 "blurb": "The first museum in the world",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ur-Nassiriyah.jpg/330px-Ur-Nassiriyah.jpg",
@@ -1050,6 +1096,7 @@
             "properties": {
                 "title": "Fukushima Prefecture salient",
                 "qid": "Q135645069",
+                "category": "place",
                 "blurb": "A hiking trail known as \"the umbilical cord\"",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mt._Iide_Sando.JPG/330px-Mt._Iide_Sando.JPG",
@@ -1073,6 +1120,7 @@
             "properties": {
                 "title": "Gangkhar Puensum",
                 "qid": "Q219986",
+                "category": "place",
                 "blurb": "The tallest unclimbed mountain, due to the Bhutanese government",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gangkhar_puensum_summit.JPG/330px-Gangkhar_puensum_summit.JPG",
@@ -1096,6 +1144,7 @@
             "properties": {
                 "title": "Gate Tower Building",
                 "qid": "Q850547",
+                "category": "place",
                 "blurb": "A highway passes straight through this office building",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Building_penetrated_by_an_expressway_001_OSAKA_JPN.jpg/330px-Building_penetrated_by_an_expressway_001_OSAKA_JPN.jpg",
@@ -1119,6 +1168,7 @@
             "properties": {
                 "title": "Hallstatt (China)",
                 "qid": "Q18125416",
+                "category": "place",
                 "blurb": "An attempt to recreate a charming Austrian town in China",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hallstatt-china.jpg/330px-Hallstatt-china.jpg",
@@ -1142,6 +1192,7 @@
             "properties": {
                 "title": "Haesindang Park",
                 "qid": "Q5638290",
+                "category": "place",
                 "blurb": "A park known for its many, many penis statues",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Haesindang_Park%2C_South_Korea.jpg/330px-Haesindang_Park%2C_South_Korea.jpg",
@@ -1165,6 +1216,7 @@
             "properties": {
                 "title": "Hanazono Room",
                 "qid": "Q17219690",
+                "category": "place",
                 "blurb": "!!!ADULT This unassuming apartment building is infamous in Japan for certain reasons",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hanazono_Room_appearance.jpg/330px-Hanazono_Room_appearance.jpg",
@@ -1188,6 +1240,7 @@
             "properties": {
                 "title": "H\u1eb1ng Nga Guesthouse",
                 "qid": "Q1171693",
+                "category": "place",
                 "blurb": "A fairy tale house",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/HangNgaCrazyHouse3.jpg/330px-HangNgaCrazyHouse3.jpg",
@@ -1211,6 +1264,7 @@
             "properties": {
                 "title": "High-Heel Wedding Church",
                 "qid": "Q23729074",
+                "category": "place",
                 "blurb": "Is that where the glass slipper went?",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%E9%AB%98%E8%B7%9F%E9%9E%8B%E6%95%99%E5%A0%82.jpg/330px-%E9%AB%98%E8%B7%9F%E9%9E%8B%E6%95%99%E5%A0%82.jpg",
@@ -1234,6 +1288,7 @@
             "properties": {
                 "title": "Immovable Ladder",
                 "qid": "Q4316031",
+                "category": "place",
                 "blurb": "This ladder has guarantees from six different religious groups, over 300 years",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Immovable_ladder_on_ledge_over_entrance_to_Church_of_the_Holy_Sepulchre.jpg/330px-Immovable_ladder_on_ledge_over_entrance_to_Church_of_the_Holy_Sepulchre.jpg",
@@ -1257,6 +1312,7 @@
             "properties": {
                 "title": "Imsil Cheese Theme Park",
                 "qid": "Q55733959",
+                "category": "place",
                 "blurb": "That's one way to drive tourism.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Imsilgun_County_04_%2816597675160%29.jpg/330px-Imsilgun_County_04_%2816597675160%29.jpg",
@@ -1280,6 +1336,7 @@
             "properties": {
                 "title": "Jackson Hole, China",
                 "qid": "Q6117151",
+                "category": "place",
                 "blurb": "A resort based on the similarly named Wyoming town",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%E5%8E%9F%E4%B9%A1%E7%BE%8E%E5%88%A9%E5%9D%9A%E5%88%AB%E5%A2%85_-_Jackson_Hole_-_2013.06_-_panoramio.jpg/330px-%E5%8E%9F%E4%B9%A1%E7%BE%8E%E5%88%A9%E5%9D%9A%E5%88%AB%E5%A2%85_-_Jackson_Hole_-_2013.06_-_panoramio.jpg",
@@ -1303,6 +1360,7 @@
             "properties": {
                 "title": "Jatinga",
                 "qid": "Q3827773",
+                "category": "place",
                 "blurb": "Where birds disappear under mysterious circumstances",
                 "image": null
             }
@@ -1319,6 +1377,7 @@
             "properties": {
                 "title": "Jaxa (state)",
                 "qid": "Q11723502",
+                "category": "place",
                 "blurb": "How did Poles and Ukrainians find their way here?",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-Amur-2572.jpg/330px-CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-Amur-2572.jpg",
@@ -1342,6 +1401,7 @@
             "properties": {
                 "title": "Jewish Autonomous Oblast",
                 "qid": "Q7730",
+                "category": "place",
                 "blurb": "Despite its name, only 0.6% of this oblast's population is Jewish",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_the_Jewish_Autonomous_Oblast.svg/330px-Flag_of_the_Jewish_Autonomous_Oblast.svg.png",
@@ -1365,6 +1425,7 @@
             "properties": {
                 "title": "Kabul synagogue",
                 "qid": "Q121327032",
+                "category": "place",
                 "blurb": "Two guys who really couldn't stand each other.",
                 "image": null
             }
@@ -1381,6 +1442,7 @@
             "properties": {
                 "title": "Kamuning Footbridge",
                 "qid": "Q134720448",
+                "category": "place",
                 "blurb": "Mockingly nicknamed the \"stairway to heaven\"",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EDSA_Scout_Borromeo-NIA_South_Footbridge_%28Quezon_City%3B_03-21-2021%29.jpg/330px-EDSA_Scout_Borromeo-NIA_South_Footbridge_%28Quezon_City%3B_03-21-2021%29.jpg",
@@ -1404,6 +1466,7 @@
             "properties": {
                 "title": "Karni Mata Temple",
                 "qid": "Q15233884",
+                "category": "place",
                 "blurb": "A temple renowned for its worship of 25,000 rats",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20191212_%C5%9Awi%C4%85tynia_Karni_Maty_w_De%C5%9Bnok_1031_8078_DxO.jpg/330px-20191212_%C5%9Awi%C4%85tynia_Karni_Maty_w_De%C5%9Bnok_1031_8078_DxO.jpg",
@@ -1427,6 +1490,7 @@
             "properties": {
                 "title": "Khewra Salt Mine",
                 "qid": "Q2504719",
+                "category": "place",
                 "blurb": "Salt mine allegedly discovered not by Alexander the Great, but by his horses",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg/330px-Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg",
@@ -1450,6 +1514,7 @@
             "properties": {
                 "title": "Kijong-dong",
                 "qid": "Q494593",
+                "category": "place",
                 "blurb": "A fake village constantly blasting propaganda",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/North_Korean_village_Kijong-dong.JPEG/330px-North_Korean_village_Kijong-dong.JPEG",
@@ -1473,6 +1538,7 @@
             "properties": {
                 "title": "Daeseong-dong",
                 "qid": "Q487455",
+                "category": "place",
                 "blurb": "Grew wealthy from \"DMZ Rice\"",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Daeseong-dong_Scene.jpg/330px-Daeseong-dong_Scene.jpg",
@@ -1496,6 +1562,7 @@
             "properties": {
                 "title": "Kirisuto no Haka",
                 "qid": "Q17354837",
+                "category": "place",
                 "blurb": "This tomb of Jesus isn't where one would expect",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tomb_of_Jesus_Christ_and_his_brother_in_Shingo_Village.jpg/330px-Tomb_of_Jesus_Christ_and_his_brother_in_Shingo_Village.jpg",
@@ -1519,6 +1586,7 @@
             "properties": {
                 "title": "Korea Central Zoo",
                 "qid": "Q708915",
+                "category": "place",
                 "blurb": "A zoo with a chimpanzee that can't quite kick its smoking habit, among other wacky animals",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Korea_Central_Zoo_Logo.png",
@@ -1542,6 +1610,7 @@
             "properties": {
                 "title": "Kowloon Walled City",
                 "qid": "Q1022918",
+                "category": "place",
                 "blurb": "Achieved an absurd population density of 3 million people per square mile",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kowloon_Walled_City_-_1989_Aerial.jpg/330px-Kowloon_Walled_City_-_1989_Aerial.jpg",
@@ -1565,6 +1634,7 @@
             "properties": {
                 "title": "Love Land (South Korea)",
                 "qid": "Q495590",
+                "category": "place",
                 "blurb": "!!!Adult \"A place where love oriented art and eroticism meet\"",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Love_Land_interactive_articulated_puppet.jpg/330px-Love_Land_interactive_articulated_puppet.jpg",
@@ -1588,6 +1658,7 @@
             "properties": {
                 "title": "Maijishan Grottoes",
                 "qid": "Q1885375",
+                "category": "place",
                 "blurb": "A sprawling, ancient complex of caves and sculptures",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Majishan_entire_hill_20090226.jpg/330px-Majishan_entire_hill_20090226.jpg",
@@ -1611,6 +1682,7 @@
             "properties": {
                 "title": "Masuleh",
                 "qid": "Q862310",
+                "category": "place",
                 "blurb": "A village where the roofs form the ground",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Masuleh%2C_Fuman_County%2C_Gilan_Province%2C_Iran.jpg/330px-Masuleh%2C_Fuman_County%2C_Gilan_Province%2C_Iran.jpg",
@@ -1634,6 +1706,7 @@
             "properties": {
                 "title": "Missing Post Office",
                 "qid": "Q19896600",
+                "category": "place",
                 "blurb": "If you've ever had a letter go missing, here's where it ended up.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Missing_Post_Office_building%EF%BC%88Japan%2C_Kagawa_Prefecture_Mitoyo_Takuma_cho_Awashima%EF%BC%89.JPG/330px-Missing_Post_Office_building%EF%BC%88Japan%2C_Kagawa_Prefecture_Mitoyo_Takuma_cho_Awashima%EF%BC%89.JPG",
@@ -1657,6 +1730,7 @@
             "properties": {
                 "title": "Nahwa",
                 "qid": "Q252275",
+                "category": "place",
                 "blurb": "One of eight \"counter-enclaves\"",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NewNahwa.jpg/330px-NewNahwa.jpg",
@@ -1680,6 +1754,7 @@
             "properties": {
                 "title": "Nakhchivan Autonomous Republic",
                 "qid": "Q131083",
+                "category": "place",
                 "blurb": "This enclave is surrounded by three other countries!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nakhchivan_Autonomous_Republic_of_Azerbaijan.svg/330px-Nakhchivan_Autonomous_Republic_of_Azerbaijan.svg.png",
@@ -1703,6 +1778,7 @@
             "properties": {
                 "title": "Nanjie",
                 "qid": "Q1306242",
+                "category": "place",
                 "blurb": "Mao's last hope",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20240818_Nanjie_Village%2C_Linying_02.jpg/330px-20240818_Nanjie_Village%2C_Linying_02.jpg",
@@ -1726,6 +1802,7 @@
             "properties": {
                 "title": "National Fisheries Development Board building",
                 "qid": "Q118896527",
+                "category": "place",
                 "blurb": "This building is fittingly shaped like a giant fish!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fish_shaped_building.jpg/330px-Fish_shaped_building.jpg",
@@ -1749,6 +1826,7 @@
             "properties": {
                 "title": "North Sentinel Island",
                 "qid": "Q1260331",
+                "category": "place",
                 "blurb": "One of the most infamous uncontacted tribes (although not for lack of trying)",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/North-Sentinel-Island-Sentinel-2A.png/330px-North-Sentinel-Island-Sentinel-2A.png",
@@ -1772,6 +1850,7 @@
             "properties": {
                 "title": "Japan National Route 339",
                 "qid": "Q6157281",
+                "category": "place",
                 "blurb": "A section of this highway is on a staircase",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%E9%9A%8E%E6%AE%B5%E5%9B%BD%E9%81%93_-_panoramio.jpg/1280px-%E9%9A%8E%E6%AE%B5%E5%9B%BD%E9%81%93_-_panoramio.jpg",
@@ -1795,6 +1874,7 @@
             "properties": {
                 "title": "Neutrality Monument",
                 "qid": "Q2564552",
+                "category": "place",
                 "blurb": "Commemorates the great neutrality of Turkmenistan",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Arch_of_Neutrality_%2841652997594%29.jpg/330px-Arch_of_Neutrality_%2841652997594%29.jpg",
@@ -1818,6 +1898,7 @@
             "properties": {
                 "title": "Okinoshima (Fukuoka)",
                 "qid": "Q7082047",
+                "category": "place",
                 "blurb": "A sacred island protected by rotating monks",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Okinoshima_aerial01.jpg/330px-Okinoshima_aerial01.jpg",
@@ -1841,6 +1922,7 @@
             "properties": {
                 "title": "\u014ckunoshima",
                 "qid": "Q385313",
+                "category": "place",
                 "blurb": "Once a chemical plant, now a haven for feral rabbits",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Okunoshima_2.JPG/330px-Okunoshima_2.JPG",
@@ -1864,6 +1946,7 @@
             "properties": {
                 "title": "Om Banna",
                 "qid": "Q7089334",
+                "category": "place",
                 "blurb": "A shrine dedicated to a miraculous motorcycle spirit",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Om_Bana_sthan%2C_near_Chotila_village%2C_Pali%2C_Rajasthan.jpg/330px-Om_Bana_sthan%2C_near_Chotila_village%2C_Pali%2C_Rajasthan.jpg",
@@ -1887,6 +1970,7 @@
             "properties": {
                 "title": "Peanut Hole",
                 "qid": "Q15943124",
+                "category": "place",
                 "blurb": "Completely surrounded by, but not within, Russia's EEZ",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Peanut_Hole.jpg/330px-Peanut_Hole.jpg",
@@ -1910,6 +1994,7 @@
             "properties": {
                 "title": "Porcelain Palace",
                 "qid": "Q7229972",
+                "category": "place",
                 "blurb": "An ode to the toilet",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/View_of_the_Porcelain_Palace%2C_Foreigners_Street%2C_Chongqing.JPG/330px-View_of_the_Porcelain_Palace%2C_Foreigners_Street%2C_Chongqing.JPG",
@@ -1933,6 +2018,7 @@
             "properties": {
                 "title": "Rednaxela Terrace",
                 "qid": "Q10897002",
+                "category": "place",
                 "blurb": "Oops, spelled the street backwards!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rednaxelaterrace.jpg/330px-Rednaxelaterrace.jpg",
@@ -1956,6 +2042,7 @@
             "properties": {
                 "title": "Robot Building",
                 "qid": "Q783806",
+                "category": "place",
                 "blurb": "Previous to its tragic renovation, a large building resembling a robot",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_%22renovated%22_Robot_Building_of_Bangkok_-_no_more_iconic_%28Feb_2025%29_-_img_01.jpg/330px-The_%22renovated%22_Robot_Building_of_Bangkok_-_no_more_iconic_%28Feb_2025%29_-_img_01.jpg",
@@ -1979,6 +2066,7 @@
             "properties": {
                 "title": "Roopkund",
                 "qid": "Q1112110",
+                "category": "place",
                 "blurb": "Ancient skeletons of unknown origin surround this lake",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roopkund_Lake.jpg/330px-Roopkund_Lake.jpg",
@@ -2002,6 +2090,7 @@
             "properties": {
                 "title": "Ryugyong Hotel",
                 "qid": "Q29272",
+                "category": "place",
                 "blurb": "A 105-story hotel without windows?",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pr%C3%A1zdn%C3%A9_slnice_a_rozestav%C4%9Bn%C3%BD_hotel_Ryugyong_-_panoramio.jpg/330px-Pr%C3%A1zdn%C3%A9_slnice_a_rozestav%C4%9Bn%C3%BD_hotel_Ryugyong_-_panoramio.jpg",
@@ -2025,6 +2114,7 @@
             "properties": {
                 "title": "Sansha",
                 "qid": "Q264818",
+                "category": "place",
                 "blurb": "\"City\" comprised of many islands and atolls",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%E4%B8%89%E6%B2%99%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F.png/330px-%E4%B8%89%E6%B2%99%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F.png",
@@ -2048,6 +2138,7 @@
             "properties": {
                 "title": "Kingdom of Sedang",
                 "qid": "Q2096935",
+                "category": "place",
                 "blurb": "Short-lived kingdom founded by a French explorer",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Sedang.svg/330px-Flag_of_Sedang.svg.png",
@@ -2071,6 +2162,7 @@
             "properties": {
                 "title": "Seikan Tunnel Tappi Shak\u014d Line",
                 "qid": "Q7446759",
+                "category": "place",
                 "blurb": "Funicular railway connecting an underground tunnel with a museum",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Seikan_Tunnel_Kinenkan_Station_with_Mogura-ho.jpg/330px-Seikan_Tunnel_Kinenkan_Station_with_Mogura-ho.jpg",
@@ -2094,6 +2186,7 @@
             "properties": {
                 "title": "Sasmuan",
                 "qid": "Q55734",
+                "category": "place",
                 "blurb": "Once known as Sexmoan.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sasmuan_Municipal_Hall%2C_Pampanga%2C_Jan_2026_%281%29.jpg/330px-Sasmuan_Municipal_Hall%2C_Pampanga%2C_Jan_2026_%281%29.jpg",
@@ -2117,6 +2210,7 @@
             "properties": {
                 "title": "Shani Shingnapur",
                 "qid": "Q2723631",
+                "category": "place",
                 "blurb": "A village with no doors.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Shani_Shignapur_renowned_for_its_Shani_temple.jpg/330px-Shani_Shignapur_renowned_for_its_Shani_temple.jpg",
@@ -2140,6 +2234,7 @@
             "properties": {
                 "title": "Snake Temple",
                 "qid": "Q182774",
+                "category": "place",
                 "blurb": "Temple dedicated to reincarnated snakes",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Snake_Temple%2C_Penang.jpg/330px-Snake_Temple%2C_Penang.jpg",
@@ -2163,6 +2258,7 @@
             "properties": {
                 "title": "Sobieto",
                 "qid": "Q17995776",
+                "category": "place",
                 "blurb": "This island is surprisingly not named after the Soviet Union. In fact, we have no idea where the name originated.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sobieto_rock_located_on_the_south_side_of_Okinokuroshima_Island_A.jpg/330px-Sobieto_rock_located_on_the_south_side_of_Okinokuroshima_Island_A.jpg",
@@ -2186,6 +2282,7 @@
             "properties": {
                 "title": "Sokh District",
                 "qid": "Q1027768",
+                "category": "place",
                 "blurb": "An Uzbek exclave, surrounded by Kyrgyzstan, that is ethnically Tajik",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/So%27x_tumani.png/330px-So%27x_tumani.png",
@@ -2209,6 +2306,7 @@
             "properties": {
                 "title": "Taiwan (People's Republic of China province)",
                 "qid": "Q57251",
+                "category": "place",
                 "blurb": "!!!REM lowk not doing this one, it's about taiwanese \"representation\" in Chinese politics",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Taiwan_in_China.svg/330px-Taiwan_in_China.svg.png",
@@ -2232,6 +2330,7 @@
             "properties": {
                 "title": "Tashirojima",
                 "qid": "Q1061394",
+                "category": "place",
                 "blurb": "An island of cats, with dogs strictly banned!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tashirojima_Island.JPG/330px-Tashirojima_Island.JPG",
@@ -2255,6 +2354,7 @@
             "properties": {
                 "title": "Thames Town",
                 "qid": "Q30191",
+                "category": "place",
                 "blurb": "Ghost town resembling a British market town",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Thames_Town_in_Songjiang.jpg/330px-Thames_Town_in_Songjiang.jpg",
@@ -2278,6 +2378,7 @@
             "properties": {
                 "title": "The Line, Saudi Arabia",
                 "qid": "Q104772074",
+                "category": "place",
                 "blurb": "City planned in a 110-mile long line",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B0%D8%A7_%D9%84%D8%A7%D9%8A%D9%86.svg/1280px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B0%D8%A7_%D9%84%D8%A7%D9%8A%D9%86.svg.png",
@@ -2301,6 +2402,7 @@
             "properties": {
                 "title": "The world's smallest park",
                 "qid": "Q85875400",
+                "category": "place",
                 "blurb": "I believe it.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sekaiichi_Chiisana_Kouen.jpg/330px-Sekaiichi_Chiisana_Kouen.jpg",
@@ -2324,6 +2426,7 @@
             "properties": {
                 "title": "Thimmamma Marrimanu",
                 "qid": "Q7784222",
+                "category": "place",
                 "blurb": "Just one tree covering an area the size of three football fields",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Thimmamma_Marrimanu_Anantapur_dt_Andhra_JEG9125_%28cropped%29.JPG/330px-Thimmamma_Marrimanu_Anantapur_dt_Andhra_JEG9125_%28cropped%29.JPG",
@@ -2347,6 +2450,7 @@
             "properties": {
                 "title": "Tomb of Suleyman Shah",
                 "qid": "Q7818644",
+                "category": "place",
                 "blurb": "Despite being on Syrian land, this Ottoman tomb is owned by Turkiye",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tombeau_de_Suleiman_Chah.jpg/330px-Tombeau_de_Suleiman_Chah.jpg",
@@ -2370,6 +2474,7 @@
             "properties": {
                 "title": "Trunyan",
                 "qid": "Q4260571",
+                "category": "place",
                 "blurb": "A village where corpses are left out to decompose",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Trunyan_200507.jpg/330px-Trunyan_200507.jpg",
@@ -2393,6 +2498,7 @@
             "properties": {
                 "title": "Tsu Station",
                 "qid": "Q869763",
+                "category": "place",
                 "blurb": "Terse!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tsu-Station.jpg/330px-Tsu-Station.jpg",
@@ -2416,6 +2522,7 @@
             "properties": {
                 "title": "Underground City (Beijing)",
                 "qid": "Q2263304",
+                "category": "place",
                 "blurb": "Cold-War era network of tunnels, fit with a skating rink",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dixia_Cheng_entrance.JPG/330px-Dixia_Cheng_entrance.JPG",
@@ -2439,6 +2546,7 @@
             "properties": {
                 "title": "Villaggio Mall",
                 "qid": "Q7930800",
+                "category": "place",
                 "blurb": "Hold on, this isn't Venice!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Villagio_Mall%2C_Aspire_Park%2C_Doha_-_panoramio_%283%29.jpg/330px-Villagio_Mall%2C_Aspire_Park%2C_Doha_-_panoramio_%283%29.jpg",
@@ -2462,6 +2570,7 @@
             "properties": {
                 "title": "Wang Saen Suk",
                 "qid": "Q17015584",
+                "category": "place",
                 "blurb": "Welcome to hell.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_central_area_of_Wang_Saen_Suk%2C_featuring_the_Pretas_and_tortured_souls%2C_June_2013.jpg/330px-The_central_area_of_Wang_Saen_Suk%2C_featuring_the_Pretas_and_tortured_souls%2C_June_2013.jpg",
@@ -2485,6 +2594,7 @@
             "properties": {
                 "title": "Wonderland Amusement Park (Beijing)",
                 "qid": "Q8031892",
+                "category": "place",
                 "blurb": "Massive abandoned amusement park",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wonderland_Beijing_1.jpg/330px-Wonderland_Beijing_1.jpg",
@@ -2508,6 +2618,7 @@
             "properties": {
                 "title": "Yokohama Chinatown",
                 "qid": "Q1141498",
+                "category": "place",
                 "blurb": "Small but culturally significant Chinatown",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Yokohama_Chinatown_signage_2015.jpg/330px-Yokohama_Chinatown_signage_2015.jpg",
@@ -2531,6 +2642,7 @@
             "properties": {
                 "title": "Yongning Pagoda",
                 "qid": "Q8055036",
+                "category": "place",
                 "blurb": "The Burj Khalifa of the 500s",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/20240815_Site_of_Luoyang_City_from_Han_to_Wei_Dynasty_-_Site_of_the_Pagoda_of_Yongning_Temple_03.jpg/330px-20240815_Site_of_Luoyang_City_from_Han_to_Wei_Dynasty_-_Site_of_the_Pagoda_of_Yongning_Temple_03.jpg",
@@ -2554,6 +2666,7 @@
             "properties": {
                 "title": "Zhangye National Geopark",
                 "qid": "Q17638329",
+                "category": "place",
                 "blurb": "These mountains have mesmerizing, all-natural stripes",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Zhangye_National_Geopark_5.jpg/330px-Zhangye_National_Geopark_5.jpg",
@@ -2577,6 +2690,7 @@
             "properties": {
                 "title": "Abode of Chaos",
                 "qid": "Q10143",
+                "category": "place",
                 "blurb": "\"Humanly intolerable\" art piece",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Photo_panoramique.jpg/330px-Photo_panoramique.jpg",
@@ -2600,6 +2714,7 @@
             "properties": {
                 "title": "\u00c4ngelholm UFO memorial",
                 "qid": "Q1466589",
+                "category": "place",
                 "blurb": "The extraterrestrial bring good fortune?",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/UFO-monumentet_i_%C3%84ngelholm_1.jpg/330px-UFO-monumentet_i_%C3%84ngelholm_1.jpg",
@@ -2623,6 +2738,7 @@
             "properties": {
                 "title": "Argleton",
                 "qid": "Q399369",
+                "category": "place",
                 "blurb": "Google Maps once displayed this town, despite it not actually existing",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Argleton_-_Google_Maps_1257569106217.png",
@@ -2646,6 +2762,7 @@
             "properties": {
                 "title": "Baarle-Hertog",
                 "qid": "Q244959",
+                "category": "place",
                 "blurb": "True border gore",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gemeentehuis_Baarle-Hertog.jpg/330px-Gemeentehuis_Baarle-Hertog.jpg",
@@ -2669,6 +2786,7 @@
             "properties": {
                 "title": "Baarle-Nassau",
                 "qid": "Q9811",
+                "category": "place",
                 "blurb": "!!!REM duplicate basically",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/P1070673Gemeentehuis.JPG/330px-P1070673Gemeentehuis.JPG",
@@ -2692,6 +2810,7 @@
             "properties": {
                 "title": "Barack Obama Plaza",
                 "qid": "Q55604878",
+                "category": "place",
                 "blurb": "Did you know Obama has Irish ancestry?",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bronze_sculpture_of_Barack_and_Michelle_Obama_at_Barack_Obama_Plaza_-_1.jpg/330px-Bronze_sculpture_of_Barack_and_Michelle_Obama_at_Barack_Obama_Plaza_-_1.jpg",
@@ -2715,6 +2834,7 @@
             "properties": {
                 "title": "Barcelona Supercomputing Center",
                 "qid": "Q1580126",
+                "category": "place",
                 "blurb": "Old church housing a leading supercomputer",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Barcelona_Supercomputing_Center_-_Jardins_de_la_Torre_Girona.jpg/330px-Barcelona_Supercomputing_Center_-_Jardins_de_la_Torre_Girona.jpg",
@@ -2738,6 +2858,7 @@
             "properties": {
                 "title": "Barentsburg",
                 "qid": "Q690333",
+                "category": "place",
                 "blurb": "For all intents and purposes, this Norwegian town is Russian",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Barentsburg_view.jpg/330px-Barentsburg_view.jpg",
@@ -2761,6 +2882,7 @@
             "properties": {
                 "title": "Barra Airport",
                 "qid": "Q808778",
+                "category": "place",
                 "blurb": "Planes landing here must wait for the tides to fall",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BarraAirport_above.jpg/330px-BarraAirport_above.jpg",
@@ -2784,6 +2906,7 @@
             "properties": {
                 "title": "Battersea Power Station tube station",
                 "qid": "Q18619174",
+                "category": "place",
                 "blurb": "!!!REM idek what this means",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Battersea_Power_Station_48.jpg/330px-Battersea_Power_Station_48.jpg",
@@ -2807,6 +2930,7 @@
             "properties": {
                 "title": "Beans and Bacon mine",
                 "qid": "Q19654709",
+                "category": "place",
                 "blurb": "The person naming mines in this area got a little silly",
                 "image": null
             }
@@ -2823,6 +2947,7 @@
             "properties": {
                 "title": "Berlin Brandenburg Airport",
                 "qid": "Q160556",
+                "category": "place",
                 "blurb": "!!!REM not interesting",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Berlin_Brandenburg_Airport_Terminal_1.jpg/330px-Berlin_Brandenburg_Airport_Terminal_1.jpg",
@@ -2846,6 +2971,7 @@
             "properties": {
                 "title": "Bielefeld conspiracy",
                 "qid": "Q703899",
+                "category": "place",
                 "blurb": "This city doesn't exist.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bielefeld_Verschwoerung.jpg/330px-Bielefeld_Verschwoerung.jpg",
@@ -2869,6 +2995,7 @@
             "properties": {
                 "title": "Brennender Berg",
                 "qid": "Q316640",
+                "category": "place",
                 "blurb": "This fire is older than Germany... by a lot.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_berg_felsoeffnungen_2009.jpg/330px-Brennender_berg_felsoeffnungen_2009.jpg",
@@ -2892,6 +3019,7 @@
             "properties": {
                 "title": "The Broomway",
                 "qid": "Q4975350",
+                "category": "place",
                 "blurb": "People disappear into the mist walking this path",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wakering_Stairs_-_geograph.org.uk_-_902355.jpg/330px-Wakering_Stairs_-_geograph.org.uk_-_902355.jpg",
@@ -2915,6 +3043,7 @@
             "properties": {
                 "title": "Brusio spiral viaduct",
                 "qid": "Q850305",
+                "category": "place",
                 "blurb": "Fascinating work of architecture",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/RhB_ABe_4-4_III_Kreisviadukt_Brusio.jpg/330px-RhB_ABe_4-4_III_Kreisviadukt_Brusio.jpg",
@@ -2938,6 +3067,7 @@
             "properties": {
                 "title": "Bucket Lake",
                 "qid": "Q18806332",
+                "category": "place",
                 "blurb": "A plastic bucket and a happy accident",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Oberer_Eimersee_%282%29.jpg/330px-Oberer_Eimersee_%282%29.jpg",
@@ -2961,6 +3091,7 @@
             "properties": {
                 "title": "B\u00fcsingen am Hochrhein",
                 "qid": "Q61698",
+                "category": "place",
                 "blurb": "German town fully surrounded by Switzerland",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buesingen_am_Hochrhein_083.JPG/330px-Buesingen_am_Hochrhein_083.JPG",
@@ -2984,6 +3115,7 @@
             "properties": {
                 "title": "Butt Hole Road",
                 "qid": "Q5002759",
+                "category": "place",
                 "blurb": "Ha, ha.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Butt_Hole_Road_tourists.jpg/330px-Butt_Hole_Road_tourists.jpg",
@@ -3007,6 +3139,7 @@
             "properties": {
                 "title": "Buzludzha monument",
                 "qid": "Q1058720",
+                "category": "place",
                 "blurb": "Bulgarian communists built this spaceship-resembling monument",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sunset_and_Buzludza.jpg/330px-Sunset_and_Buzludza.jpg",
@@ -3030,6 +3163,7 @@
             "properties": {
                 "title": "Carpatho-Ukraine",
                 "qid": "Q950644",
+                "category": "place",
                 "blurb": "The republic that lasted a day",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_Ukraine_%281917%E2%80%931921%29.svg/330px-Flag_of_Ukraine_%281917%E2%80%931921%29.svg.png",
@@ -3053,6 +3187,7 @@
             "properties": {
                 "title": "Cerne Abbas Giant",
                 "qid": "Q1055469",
+                "category": "place",
                 "blurb": "It seems that one aspect of the human condition has persisted.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cerne-abbas-giant-2001-cropped.jpg",
@@ -3076,6 +3211,7 @@
             "properties": {
                 "title": "Clachan Bridge",
                 "qid": "Q448856",
+                "category": "place",
                 "blurb": "This bridge technically crosses the Atlantic Ocean!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Clachan_Bridge.jpg/330px-Clachan_Bridge.jpg",
@@ -3099,6 +3235,7 @@
             "properties": {
                 "title": "Colletto Fava",
                 "qid": "Q21288354",
+                "category": "place",
                 "blurb": "There's something poetic about this humongous bunny",
                 "image": null
             }
@@ -3115,6 +3252,7 @@
             "properties": {
                 "title": "Cologne sewerage system",
                 "qid": "Q1399679",
+                "category": "place",
                 "blurb": "Take a wrong turn in these sewers and you'll end up in a performance hall!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kronleuchtersaal03.jpg/330px-Kronleuchtersaal03.jpg",
@@ -3138,6 +3276,7 @@
             "properties": {
                 "title": "Couto Misto",
                 "qid": "Q953432",
+                "category": "place",
                 "blurb": "Neither Portugal or Spain could seem to get a firm grasp on this tiny state",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_the_Couto_Misto.svg/330px-Flag_of_the_Couto_Misto.svg.png",
@@ -3161,6 +3300,7 @@
             "properties": {
                 "title": "The Crooked House",
                 "qid": "Q7728155",
+                "category": "place",
                 "blurb": "Am I already drunk?",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Thecrookedhouse-2023-06.jpg/330px-Thecrookedhouse-2023-06.jpg",
@@ -3184,6 +3324,7 @@
             "properties": {
                 "title": "Crooked Forest",
                 "qid": "Q1602409",
+                "category": "place",
                 "blurb": "No one knows why these trees are bent as such",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Crooked_Forest.jpg/330px-Crooked_Forest.jpg",
@@ -3207,6 +3348,7 @@
             "properties": {
                 "title": "Cube house",
                 "qid": "Q1790954",
+                "category": "place",
                 "blurb": "Fully optimized urban housing.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/GraphyArchy_-_Wikipedia_00096.jpg/330px-GraphyArchy_-_Wikipedia_00096.jpg",
@@ -3230,6 +3372,7 @@
             "properties": {
                 "title": "Dancing House",
                 "qid": "Q244816",
+                "category": "place",
                 "blurb": "Landmark building in Prague resembling two dancing figures",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tanzendes_Haus_2023.jpg/330px-Tanzendes_Haus_2023.jpg",
@@ -3253,6 +3396,7 @@
             "properties": {
                 "title": "Dartmouth railway station",
                 "qid": "Q5225738",
+                "category": "place",
                 "blurb": "Not a single train has ever stopped here.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dartmouth_station_and_Boat_Float_-_geograph.org.uk_-_343763.jpg/330px-Dartmouth_station_and_Boat_Float_-_geograph.org.uk_-_343763.jpg",
@@ -3276,6 +3420,7 @@
             "properties": {
                 "title": "Dry Bridge",
                 "qid": "Q1140162",
+                "category": "place",
                 "blurb": "Humorously redundant bridge",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Most_na_Suvom.jpg/330px-Most_na_Suvom.jpg",
@@ -3299,6 +3444,7 @@
             "properties": {
                 "title": "Dumb Woman's Lane",
                 "qid": "Q124308373",
+                "category": "place",
                 "blurb": "Not very nice, innit?",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dumb_Womans_Lane_January_2024.jpg/330px-Dumb_Womans_Lane_January_2024.jpg",
@@ -3322,6 +3468,7 @@
             "properties": {
                 "title": "Ebenezer Place, Wick",
                 "qid": "Q2344439",
+                "category": "place",
                 "blurb": "World's shortest street",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ebenezer_Place.jpg/330px-Ebenezer_Place.jpg",
@@ -3345,6 +3492,7 @@
             "properties": {
                 "title": "Eichener See",
                 "qid": "Q1301642",
+                "category": "place",
                 "blurb": "!!!REM meh",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eiemer_See.JPG/330px-Eiemer_See.JPG",
@@ -3368,6 +3516,7 @@
             "properties": {
                 "title": "Eurobridges Spijkenisse",
                 "qid": "Q2265769",
+                "category": "place",
                 "blurb": "Bringing generic banknote bridges to life",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/5_Euro_Bruecke.jpg/330px-5_Euro_Bruecke.jpg",
@@ -3391,6 +3540,7 @@
             "properties": {
                 "title": "Fr. Pat Noise plaque",
                 "qid": "Q5437642",
+                "category": "place",
                 "blurb": "Plaque dedicated to a nonexistent priest",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Pat_Noise_plaque.jpg/330px-Pat_Noise_plaque.jpg",
@@ -3414,6 +3564,7 @@
             "properties": {
                 "title": "Flannan Isles Lighthouse",
                 "qid": "Q15217844",
+                "category": "place",
                 "blurb": "What happened to the keepers of this lighthouse?",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg/330px-St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg",
@@ -3437,6 +3588,7 @@
             "properties": {
                 "title": "Forest swastika",
                 "qid": "Q615792",
+                "category": "place",
                 "blurb": "Planted in 1938 and proceeded to go unnoticed for 60 years.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/e/ea/Swastikatree.jpg",
@@ -3460,6 +3612,7 @@
             "properties": {
                 "title": "Free State of Bottleneck",
                 "qid": "Q694858",
+                "category": "place",
                 "blurb": "The result of drawing imprecise borders.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Free_State_of_Bottleneck.png/330px-Flag_of_the_Free_State_of_Bottleneck.png",
@@ -3483,6 +3636,7 @@
             "properties": {
                 "title": "Fuck Tree",
                 "qid": "Q134376041",
+                "category": "place",
                 "blurb": "!!!ADULT What can I even say here?",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fuck_tree_May_2025.jpg/330px-Fuck_tree_May_2025.jpg",
@@ -3506,6 +3660,7 @@
             "properties": {
                 "title": "Fugging, Upper Austria",
                 "qid": "Q172668",
+                "category": "place",
                 "blurb": "Formerly known as Fucking.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kapellenlinde%2C_Fugging_27.1.2024.jpg/330px-Kapellenlinde%2C_Fugging_27.1.2024.jpg",
@@ -3529,6 +3684,7 @@
             "properties": {
                 "title": "Gale\u0161njak",
                 "qid": "Q2123434",
+                "category": "place",
                 "blurb": "Awwww.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gale%C5%A1njak_Island_in_Croatia_%2817114069092%29.jpg/330px-Gale%C5%A1njak_Island_in_Croatia_%2817114069092%29.jpg",
@@ -3552,6 +3708,7 @@
             "properties": {
                 "title": "Gammalsvenskby",
                 "qid": "Q629511",
+                "category": "place",
                 "blurb": "A little piece of Sweden",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%88%D0%B2%D0%B5%D0%B4%D1%81%D1%8C%D0%BA%D0%B5_%28Gamm%C3%B6lsv%C3%A4nskbi%29_%28%D0%97%D0%BC%D1%96%D1%97%D0%B2%D0%BA%D0%B0%29.jpg/330px-%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%88%D0%B2%D0%B5%D0%B4%D1%81%D1%8C%D0%BA%D0%B5_%28Gamm%C3%B6lsv%C3%A4nskbi%29_%28%D0%97%D0%BC%D1%96%D1%97%D0%B2%D0%BA%D0%B0%29.jpg",
@@ -3575,6 +3732,7 @@
             "properties": {
                 "title": "Gants Hill tube station",
                 "qid": "Q1493698",
+                "category": "place",
                 "blurb": "Designed after the Moscow metro",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gants_Hill_stn_southwest_entrance.JPG/330px-Gants_Hill_stn_southwest_entrance.JPG",
@@ -3598,6 +3756,7 @@
             "properties": {
                 "title": "Graham Island (Mediterranean Sea)",
                 "qid": "Q833975",
+                "category": "place",
                 "blurb": "This island just won't stay down!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Map_of_Graham_Island.jpg/330px-Map_of_Graham_Island.jpg",
@@ -3621,6 +3780,7 @@
             "properties": {
                 "title": "Graun im Vinschgau",
                 "qid": "Q380146",
+                "category": "place",
                 "blurb": "Beautiful submerged church",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Drowned_Village_Curon_Venosta_with_newly_%28in_1962%29_repositioned_graveyard.jpg/1280px-Drowned_Village_Curon_Venosta_with_newly_%28in_1962%29_repositioned_graveyard.jpg",
@@ -3644,6 +3804,7 @@
             "properties": {
                 "title": "Great Tower Neuwerk",
                 "qid": "Q1821443",
+                "category": "place",
                 "blurb": "!!!REM not interesting",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/330px-Leuchtturm_Neuwerk_2018.jpg",
@@ -3667,6 +3828,7 @@
             "properties": {
                 "title": "Greetings from Jerusalem Avenue",
                 "qid": "Q2374346",
+                "category": "place",
                 "blurb": "This palm tree is intended to attract attention to the street it's planted on.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sztuczna_palma_w_Warszawie_2025.jpg/330px-Sztuczna_palma_w_Warszawie_2025.jpg",
@@ -3690,6 +3852,7 @@
             "properties": {
                 "title": "Gr\u016btas Park",
                 "qid": "Q1050522",
+                "category": "place",
                 "blurb": "Soviet theme park",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gr%C5%ABto_parko_logo.svg/330px-Gr%C5%ABto_parko_logo.svg.png",
@@ -3713,6 +3876,7 @@
             "properties": {
                 "title": "Gutsbezirk Reinhardswald",
                 "qid": "Q1520648",
+                "category": "place",
                 "blurb": "!!!REM IDC",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Reinhardswald.svg/330px-Reinhardswald.svg.png",
@@ -3736,6 +3900,7 @@
             "properties": {
                 "title": "Hill of Crosses",
                 "qid": "Q223726",
+                "category": "place",
                 "blurb": "Cross count in the hundreds of thousands",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kry%C5%BEi%C5%B3_kalnas_%28G%C3%B3ra_Krzy%C5%BCy%29.JPG/330px-Kry%C5%BEi%C5%B3_kalnas_%28G%C3%B3ra_Krzy%C5%BCy%29.JPG",
@@ -3759,6 +3924,7 @@
             "properties": {
                 "title": "I Love You Will U Marry Me",
                 "qid": "Q105676989",
+                "category": "place",
                 "blurb": "Immortalized piece of graffiti",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/I_love_you_bridge_2022_%28cropped%29.png/330px-I_love_you_bridge_2022_%28cropped%29.png",
@@ -3782,6 +3948,7 @@
             "properties": {
                 "title": "ICAR Canned Beef Monument",
                 "qid": "Q19895372",
+                "category": "place",
                 "blurb": "A \"tribute\" to food so bad even animals wouldn't touch it.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/ICAR_canned_beef_monument_in_Sarajevo.jpg/330px-ICAR_canned_beef_monument_in_Sarajevo.jpg",
@@ -3805,6 +3972,7 @@
             "properties": {
                 "title": "Icelandic Phallological Museum",
                 "qid": "Q177174",
+                "category": "place",
                 "blurb": "The world's largest display of... you know.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Icelandic_Phallological_Museum_logo.svg/330px-Icelandic_Phallological_Museum_logo.svg.png",
@@ -3828,6 +3996,7 @@
             "properties": {
                 "title": "JASON reactor",
                 "qid": "Q6107726",
+                "category": "place",
                 "blurb": "17th century building converted into a nuclear reactor.",
                 "image": null
             }
@@ -3844,6 +4013,7 @@
             "properties": {
                 "title": "Jordanhill railway station",
                 "qid": "Q28620",
+                "category": "place",
                 "blurb": "Wikipedia's millionth article!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jordanhill_station_2016-08-25.jpg/330px-Jordanhill_station_2016-08-25.jpg",
@@ -3867,6 +4037,7 @@
             "properties": {
                 "title": "Kielce Bus Station",
                 "qid": "Q9213271",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kielce_Bus_Station_Jan2020.jpg/330px-Kielce_Bus_Station_Jan2020.jpg",
@@ -3890,6 +4061,7 @@
             "properties": {
                 "title": "K\u0151b\u00e1nya cellar system",
                 "qid": "Q1126598",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/K%C5%91b%C3%A1nya_limestone_mine_05.JPG/330px-K%C5%91b%C3%A1nya_limestone_mine_05.JPG",
@@ -3913,6 +4085,7 @@
             "properties": {
                 "title": "Krzywy Domek",
                 "qid": "Q959999",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Krzywy_Domek_w_Sopocie.jpg/330px-Krzywy_Domek_w_Sopocie.jpg",
@@ -3936,6 +4109,7 @@
             "properties": {
                 "title": "Kursdorf",
                 "qid": "Q1793228",
+                "category": "place",
                 "blurb": "A village killed by sound pollution",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flughafen_LeipzigHalle%2C_Blick_nach_Kursdorf_%282%29.jpg/330px-Flughafen_LeipzigHalle%2C_Blick_nach_Kursdorf_%282%29.jpg",
@@ -3959,6 +4133,7 @@
             "properties": {
                 "title": "La Fistini\u00e8re",
                 "qid": "Q56309998",
+                "category": "place",
                 "blurb": "!!!Adult For those with a passion for fisting.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/La-Fistini%C3%A8re-Logo.jpg",
@@ -3982,6 +4157,7 @@
             "properties": {
                 "title": "Lacus Curtius",
                 "qid": "Q1232467",
+                "category": "place",
                 "blurb": "The origin of this pit was subject to debate even during Roman times",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/RomaForoRomanoLacusCurtius.jpg/330px-RomaForoRomanoLacusCurtius.jpg",
@@ -4005,6 +4181,7 @@
             "properties": {
                 "title": "Lahn, Hesse",
                 "qid": "Q558195",
+                "category": "place",
                 "blurb": "By popular demand from its residents, this city was completely eliminated.",
                 "image": null
             }
@@ -4021,6 +4198,7 @@
             "properties": {
                 "title": "Lake Karachay",
                 "qid": "Q827202",
+                "category": "place",
                 "blurb": "Potentially the most polluted place on Earth.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Satellite_image_map_of_Mayak.jpg/330px-Satellite_image_map_of_Mayak.jpg",
@@ -4044,6 +4222,7 @@
             "properties": {
                 "title": "Leaning Tower of Suurhusen",
                 "qid": "Q132031",
+                "category": "place",
                 "blurb": "Outdoes its better known competitor.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Suurhusen_kirche.jpg/330px-Suurhusen_kirche.jpg",
@@ -4067,6 +4246,7 @@
             "properties": {
                 "title": "Listenbourg",
                 "qid": "Q114985162",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Europe_with_and_without_Listenbourg_fictional_country.svg/330px-Europe_with_and_without_Listenbourg_fictional_country.svg.png",
@@ -4090,6 +4270,7 @@
             "properties": {
                 "title": "Llandegley International Airport",
                 "qid": "Q110969615",
+                "category": "place",
                 "blurb": "The airport that doesn't exist",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Modern_day_folly_%28geograph_3821563%29_%28cropped%29.jpg/330px-Modern_day_folly_%28geograph_3821563%29_%28cropped%29.jpg",
@@ -4113,6 +4294,7 @@
             "properties": {
                 "title": "Llanfairpwllgwyngyll",
                 "qid": "Q322",
+                "category": "place",
                 "blurb": "Its full name is even worse!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Llanfair_Pwllgwyngyll_roofscape_%281%29_-_geograph.org.uk_-_1058331.jpg/330px-Llanfair_Pwllgwyngyll_roofscape_%281%29_-_geograph.org.uk_-_1058331.jpg",
@@ -4136,6 +4318,7 @@
             "properties": {
                 "title": "Lupanar",
                 "qid": "Q157747",
+                "category": "place",
                 "blurb": "Remarkably well-preserved brothel",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pompei_5234.jpg/330px-Pompei_5234.jpg",
@@ -4159,6 +4342,7 @@
             "properties": {
                 "title": "Magic Roundabout (Hemel Hempstead)",
                 "qid": "Q6730823",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Plough_roundabout_sign.jpg/330px-Plough_roundabout_sign.jpg",
@@ -4182,6 +4366,7 @@
             "properties": {
                 "title": "Manneken Pis",
                 "qid": "Q152072",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/330px-Bruxelles_Manneken_Pis_cropped.jpg",
@@ -4205,6 +4390,7 @@
             "properties": {
                 "title": "Jeanneke Pis",
                 "qid": "Q152360",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Janneken_Pis.jpg/330px-Janneken_Pis.jpg",
@@ -4228,6 +4414,7 @@
             "properties": {
                 "title": "M\u00e4rket",
                 "qid": "Q163395",
+                "category": "place",
                 "blurb": "A lighthouse and a border story",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/M%C3%A4rket_Island_map.svg/330px-M%C3%A4rket_Island_map.svg.png",
@@ -4251,6 +4438,7 @@
             "properties": {
                 "title": "Metro-2",
                 "qid": "Q771936",
+                "category": "place",
                 "blurb": "Supposed secret metro line",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mapmetro2.jpg/330px-Mapmetro2.jpg",
@@ -4274,6 +4462,7 @@
             "properties": {
                 "title": "Millstreet",
                 "qid": "Q659655",
+                "category": "place",
                 "blurb": "Hosted 1993 Eurovision, despite a population of just 1500",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/McCarthy%27s_Bar_-_geograph.org.uk_-_1789488.jpg/330px-McCarthy%27s_Bar_-_geograph.org.uk_-_1789488.jpg",
@@ -4297,6 +4486,7 @@
             "properties": {
                 "title": "Monte Kaolino",
                 "qid": "Q1526711",
+                "category": "place",
                 "blurb": "Sand, snow, same difference",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hirschau_Monte_Kaolino_01.jpg/330px-Hirschau_Monte_Kaolino_01.jpg",
@@ -4320,6 +4510,7 @@
             "properties": {
                 "title": "Mount Athos",
                 "qid": "Q130321",
+                "category": "place",
                 "blurb": "Women are strictly banned from this political subdivision",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mt._Athos_%283939757657%29.jpg/330px-Mt._Athos_%283939757657%29.jpg",
@@ -4343,6 +4534,7 @@
             "properties": {
                 "title": "Museum of Broken Relationships",
                 "qid": "Q1954595",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Museum_of_Broken_Relationships_logo.svg/330px-Museum_of_Broken_Relationships_logo.svg.png",
@@ -4366,6 +4558,7 @@
             "properties": {
                 "title": "Muzeon Park of Arts",
                 "qid": "Q2897273",
+                "category": "place",
                 "blurb": "Home to many destroyed Soviet statues",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Muzeon_20130427_172147_%288686208400%29.jpg/330px-Muzeon_20130427_172147_%288686208400%29.jpg",
@@ -4389,6 +4582,7 @@
             "properties": {
                 "title": "Neitokainen",
                 "qid": "Q11884136",
+                "category": "place",
                 "blurb": "Finlandception!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Neitokainen_from_above_in_Kittil%C3%A4%2C_Lapland%2C_Finland%2C_2023_September.jpg/330px-Neitokainen_from_above_in_Kittil%C3%A4%2C_Lapland%2C_Finland%2C_2023_September.jpg",
@@ -4412,6 +4606,7 @@
             "properties": {
                 "title": "Nelson's Pillar",
                 "qid": "Q2350741",
+                "category": "place",
                 "blurb": "Ireland's own Nelson's Column (you can imagine why it was blown up)",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lossy-page1-2658px-Nelson%27s_Pillar%2C_Sackville-Street%2C_Dublin_RMG_PU3914_%28cropped%29.jpg/330px-Lossy-page1-2658px-Nelson%27s_Pillar%2C_Sackville-Street%2C_Dublin_RMG_PU3914_%28cropped%29.jpg",
@@ -4435,6 +4630,7 @@
             "properties": {
                 "title": "Neutral Moresnet",
                 "qid": "Q151938",
+                "category": "place",
                 "blurb": "The world capital of Esperanto",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Moresnet.svg/330px-Flag_of_Moresnet.svg.png",
@@ -4458,6 +4654,7 @@
             "properties": {
                 "title": "Newhaven Marine railway station",
                 "qid": "Q7018185",
+                "category": "place",
                 "blurb": "The world's most useless railway station.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Newhaven_Marine_Station_-_January_2014..JPG/330px-Newhaven_Marine_Station_-_January_2014..JPG",
@@ -4481,6 +4678,7 @@
             "properties": {
                 "title": "Other World Kingdom",
                 "qid": "Q3408649",
+                "category": "place",
                 "blurb": "!!!ADULT Be prepared.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Castle_%C4%8Cern%C3%A1_in_%C4%8Cern%C3%A1%2C_%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_District.jpg/1280px-Castle_%C4%8Cern%C3%A1_in_%C4%8Cern%C3%A1%2C_%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_District.jpg",
@@ -4504,6 +4702,7 @@
             "properties": {
                 "title": "Overtoun Bridge",
                 "qid": "Q17848538",
+                "category": "place",
                 "blurb": "The \"Dog Suicide Bridge\"",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg/330px-Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg",
@@ -4527,6 +4726,7 @@
             "properties": {
                 "title": "Paradiskullen",
                 "qid": "Q173920",
+                "category": "place",
                 "blurb": "!!!REM meh",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Paradiskullen_Ornskoldsvik.jpg/330px-Paradiskullen_Ornskoldsvik.jpg",
@@ -4550,6 +4750,7 @@
             "properties": {
                 "title": "Pheasant Island",
                 "qid": "Q373767",
+                "category": "place",
                 "blurb": "This island changes hands every six months!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Isla_de_los_Faisanes-edited.jpg/330px-Isla_de_los_Faisanes-edited.jpg",
@@ -4573,6 +4774,7 @@
             "properties": {
                 "title": "Pia\u021ba Roman\u0103 metro station",
                 "qid": "Q3116212",
+                "category": "place",
                 "blurb": "But you'll get fat!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pia%C8%9Ba_Roman%C4%83_Metro_station%2C_Bucharest_%2846410498961%29.jpg/330px-Pia%C8%9Ba_Roman%C4%83_Metro_station%2C_Bucharest_%2846410498961%29.jpg",
@@ -4596,6 +4798,7 @@
             "properties": {
                 "title": "Pierre-sur-Haute military radio station",
                 "qid": "Q10369016",
+                "category": "place",
                 "blurb": "The French government threatened Wikipedia to delete its article on this station",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Base_militaire_de_Pierre-sur-Haute.jpg/330px-Base_militaire_de_Pierre-sur-Haute.jpg",
@@ -4619,6 +4822,7 @@
             "properties": {
                 "title": "Predjama Castle",
                 "qid": "Q79217",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/H%C3%B6hlenburg_Predjama_in_Slovenien.jpg/330px-H%C3%B6hlenburg_Predjama_in_Slovenien.jpg",
@@ -4642,6 +4846,7 @@
             "properties": {
                 "title": "Principality of Sealand",
                 "qid": "Q13706",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Europe_location_SLD.png/330px-Europe_location_SLD.png",
@@ -4665,6 +4870,7 @@
             "properties": {
                 "title": "Punkendeich",
                 "qid": "Q2118416",
+                "category": "place",
                 "blurb": "",
                 "image": null
             }
@@ -4681,6 +4887,7 @@
             "properties": {
                 "title": "Reality Checkpoint",
                 "qid": "Q130177",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Reality_Checkpoint_Cambridge_England_2.jpg/330px-Reality_Checkpoint_Cambridge_England_2.jpg",
@@ -4704,6 +4911,7 @@
             "properties": {
                 "title": "Saatse Boot",
                 "qid": "Q4403385",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Map_Estonia_-_V%C3%A4rska_vald_-_Saatse_Boot.png/330px-Map_Estonia_-_V%C3%A4rska_vald_-_Saatse_Boot.png",
@@ -4727,6 +4935,7 @@
             "properties": {
                 "title": "Schwerbelastungsk\u00f6rper",
                 "qid": "Q704670",
+                "category": "place",
                 "blurb": "Lasting example of Nazi architecture, mostly because it was intended to be ridiculously heavy",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Berlin_belastungskoerper.jpg/330px-Berlin_belastungskoerper.jpg",
@@ -4750,6 +4959,7 @@
             "properties": {
                 "title": "Scottish Court in the Netherlands",
                 "qid": "Q137696327",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Royal_Coat_of_Arms_of_the_United_Kingdom_%28Government_in_Scotland%29.svg/330px-Royal_Coat_of_Arms_of_the_United_Kingdom_%28Government_in_Scotland%29.svg.png",
@@ -4773,6 +4983,7 @@
             "properties": {
                 "title": "Sedlec Ossuary",
                 "qid": "Q513821",
+                "category": "place",
                 "blurb": "Every bone you can think of!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kostnice_Sedlec.JPG/330px-Kostnice_Sedlec.JPG",
@@ -4796,6 +5007,7 @@
             "properties": {
                 "title": "Sexi (Phoenician colony)",
                 "qid": "Q47766735",
+                "category": "place",
                 "blurb": "!!!REM",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/F%C3%A1brica_de_salaz%C3%B3n_de_pescado_%28Firmun_Lulium_Sexi%29._Piletas.jpg/330px-F%C3%A1brica_de_salaz%C3%B3n_de_pescado_%28Firmun_Lulium_Sexi%29._Piletas.jpg",
@@ -4819,6 +5031,7 @@
             "properties": {
                 "title": "Shell Grotto, Margate",
                 "qid": "Q7493665",
+                "category": "place",
                 "blurb": "Of mysterious origin",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shell-grotto-margate.jpg/330px-Shell-grotto-margate.jpg",
@@ -4842,6 +5055,7 @@
             "properties": {
                 "title": "Shit Museum",
                 "qid": "Q25052267",
+                "category": "place",
                 "blurb": "",
                 "image": null
             }
@@ -4858,6 +5072,7 @@
             "properties": {
                 "title": "Shitterton",
                 "qid": "Q7499163",
+                "category": "place",
                 "blurb": "Yes, this town is actually named after excrement",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Shitterton_Sign.jpg/330px-The_Shitterton_Sign.jpg",
@@ -4881,6 +5096,7 @@
             "properties": {
                 "title": "Smallest House in Great Britain",
                 "qid": "Q211480",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Smallest_House_in_Great_Britain.jpg/330px-The_Smallest_House_in_Great_Britain.jpg",
@@ -4904,6 +5120,7 @@
             "properties": {
                 "title": "SnowCastle of Kemi",
                 "qid": "Q1746596",
+                "category": "place",
                 "blurb": "Has its own SnowHotel",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/LumiLinna.jpg/330px-LumiLinna.jpg",
@@ -4927,6 +5144,7 @@
             "properties": {
                 "title": "Sovereign Military Order of Malta",
                 "qid": "Q190353",
+                "category": "place",
                 "blurb": "A recognized, sovereign entity that possesses zero land",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_the_Order_of_St._John_%28various%29.svg/330px-Flag_of_the_Order_of_St._John_%28various%29.svg.png",
@@ -4950,6 +5168,7 @@
             "properties": {
                 "title": "Spreuerhofstra\u00dfe",
                 "qid": "Q574289",
+                "category": "place",
                 "blurb": "Good luck walking along this street.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Engste_Stra%C3%9Fe_der_Welt.jpg/330px-Engste_Stra%C3%9Fe_der_Welt.jpg",
@@ -4973,6 +5192,7 @@
             "properties": {
                 "title": "Stratford International station",
                 "qid": "Q801472",
+                "category": "place",
                 "blurb": "!!!REM nah",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Stratford_International_7859960534.jpg/330px-Stratford_International_7859960534.jpg",
@@ -4996,6 +5216,7 @@
             "properties": {
                 "title": "Stockport Pyramid",
                 "qid": "Q106609885",
+                "category": "place",
                 "blurb": "It is in fact not a pyramid.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stockport_Pyramid%2C_Stockport_%2816719692949%29.jpg/330px-Stockport_Pyramid%2C_Stockport_%2816719692949%29.jpg",
@@ -5019,6 +5240,7 @@
             "properties": {
                 "title": "Svalbard Global Seed Vault",
                 "qid": "Q201013",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_Svalbard_Global_Seed_Vault.png/330px-Logo_Svalbard_Global_Seed_Vault.png",
@@ -5042,6 +5264,7 @@
             "properties": {
                 "title": "Transnistria",
                 "qid": "Q907112",
+                "category": "place",
                 "blurb": "A time machine to the Soviet era",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Transnistria_%28state%29.svg/330px-Flag_of_Transnistria_%28state%29.svg.png",
@@ -5065,6 +5288,7 @@
             "properties": {
                 "title": "Uffington White Horse",
                 "qid": "Q1056493",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Uffington-White-Horse-sat.jpg/330px-Uffington-White-Horse-sat.jpg",
@@ -5088,6 +5312,7 @@
             "properties": {
                 "title": "Unst Bus Shelter",
                 "qid": "Q1508395",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Unst_Bus_Shelter.jpg/330px-Unst_Bus_Shelter.jpg",
@@ -5111,6 +5336,7 @@
             "properties": {
                 "title": "Uppland Runic Inscription 53",
                 "qid": "Q7899119",
+                "category": "place",
                 "blurb": "Was eventually reused as part of a building, to notoriety",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pr%C3%A4stgatan_runsten_n%C3%A4rbild_mars_2007.JPG/330px-Pr%C3%A4stgatan_runsten_n%C3%A4rbild_mars_2007.JPG",
@@ -5134,6 +5360,7 @@
             "properties": {
                 "title": "Vajdahunyad Castle",
                 "qid": "Q1092030",
+                "category": "place",
                 "blurb": "This castle started out as cardboard!",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vajdahunyad_v%C3%A1ra_Budapest_September_2013.jpg/330px-Vajdahunyad_v%C3%A1ra_Budapest_September_2013.jpg",
@@ -5157,6 +5384,7 @@
             "properties": {
                 "title": "Vatican Railway",
                 "qid": "Q856747",
+                "category": "place",
                 "blurb": "!!!REM meh",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Citta_del_Vaticano_train_station_02.jpg/330px-Citta_del_Vaticano_train_station_02.jpg",
@@ -5180,6 +5408,7 @@
             "properties": {
                 "title": "Vennbahn",
                 "qid": "Q678572",
+                "category": "place",
                 "blurb": "!!!REM eh",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vennbahn.png/330px-Vennbahn.png",
@@ -5203,6 +5432,7 @@
             "properties": {
                 "title": "Wallsend Metro station",
                 "qid": "Q7963252",
+                "category": "place",
                 "blurb": "All of its signs are in Latin",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wallsend_Metro_Station_%28detail%29_%28geograph_4747420%29.jpg/330px-Wallsend_Metro_Station_%28detail%29_%28geograph_4747420%29.jpg",
@@ -5226,6 +5456,7 @@
             "properties": {
                 "title": "Whip-Ma-Whop-Ma-Gate",
                 "qid": "Q7993682",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Whip-Ma-Whop-Ma-Gate.jpg/330px-Whip-Ma-Whop-Ma-Gate.jpg",
@@ -5249,6 +5480,7 @@
             "properties": {
                 "title": "Wooden Spoons Museum",
                 "qid": "Q105558872",
+                "category": "place",
                 "blurb": "",
                 "image": null
             }
@@ -5265,6 +5497,7 @@
             "properties": {
                 "title": "World Map at Lake Klejtrup",
                 "qid": "Q8035941",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Viborg_Kommune_-_Klejtrup_-_Verdenskortet_06_ies.jpg/330px-Viborg_Kommune_-_Klejtrup_-_Verdenskortet_06_ies.jpg",
@@ -5288,6 +5521,7 @@
             "properties": {
                 "title": "Zeitpyramide",
                 "qid": "Q186556",
+                "category": "place",
                 "blurb": "Won't be completed anytime soon.",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wemdinger_Zeitpyramide_September_2023.jpg/330px-Wemdinger_Zeitpyramide_September_2023.jpg",
@@ -5311,6 +5545,7 @@
             "properties": {
                 "title": "\u017deljava Air Base",
                 "qid": "Q640410",
+                "category": "place",
                 "blurb": "Underground air base",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%C5%BDeljava%2C_Runway_1.jpg/330px-%C5%BDeljava%2C_Runway_1.jpg",
@@ -5334,6 +5569,7 @@
             "properties": {
                 "title": "Zone rouge",
                 "qid": "Q219894",
+                "category": "place",
                 "blurb": "Chemical weapons render this area yet uninhabitable",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Red_Zone_Map-fr.svg/330px-Red_Zone_Map-fr.svg.png",
@@ -5357,6 +5593,7 @@
             "properties": {
                 "title": "Americana, S\u00e3o Paulo",
                 "qid": "Q467421",
+                "category": "place",
                 "blurb": "Founded by Confederate soldiers after losing the Civil War",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vista_a%C3%A9rea_de_Americana.jpg/330px-Vista_a%C3%A9rea_de_Americana.jpg",
@@ -5380,6 +5617,7 @@
             "properties": {
                 "title": "Canc\u00fan Underwater Museum",
                 "qid": "Q5031539",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/DSCN0626_%2814108251890%29.jpg/330px-DSCN0626_%2814108251890%29.jpg",
@@ -5403,6 +5641,7 @@
             "properties": {
                 "title": "C\u00e2ndido God\u00f3i",
                 "qid": "Q942053",
+                "category": "place",
                 "blurb": "Town with a twin rate 5x the national average",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Portico_Candido_Godoi.jpg/330px-Portico_Candido_Godoi.jpg",
@@ -5426,6 +5665,7 @@
             "properties": {
                 "title": "Cashew of Pirangi",
                 "qid": "Q911662",
+                "category": "place",
                 "blurb": "Tree larger than a football field",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Vista_do_mirante_do_cajueiro_de_Pirangi.jpg/330px-Vista_do_mirante_do_cajueiro_de_Pirangi.jpg",
@@ -5449,6 +5689,7 @@
             "properties": {
                 "title": "Cher\u00e1n",
                 "qid": "Q2962825",
+                "category": "place",
                 "blurb": "The power lies with the people",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/La_plaza_central_de_Cheran%2C_con_la_carpa_que_dispusieron_para_la.jpeg/330px-La_plaza_central_de_Cheran%2C_con_la_carpa_que_dispusieron_para_la.jpeg",
@@ -5472,6 +5713,7 @@
             "properties": {
                 "title": "Ciudad Mitad del Mundo",
                 "qid": "Q1806478",
+                "category": "place",
                 "blurb": "Sadly, it's just a bit off the mark",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/330px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
@@ -5495,6 +5737,7 @@
             "properties": {
                 "title": "Colonia Dignidad",
                 "qid": "Q701176",
+                "category": "place",
                 "blurb": "A child abuse cult with Nazi ties",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Villa_Baviera.jpg/330px-Villa_Baviera.jpg",
@@ -5518,6 +5761,7 @@
             "properties": {
                 "title": "Dari\u00e9n Gap",
                 "qid": "Q917276",
+                "category": "place",
                 "blurb": "Deceptively inhospitable",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_Dari%C3%A9n_Gap-en.svg/330px-Map_of_Dari%C3%A9n_Gap-en.svg.png",
@@ -5541,6 +5785,7 @@
             "properties": {
                 "title": "Devil's Island",
                 "qid": "Q220385",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tour_dreyfus_kourou.jpg/330px-Tour_dreyfus_kourou.jpg",
@@ -5564,6 +5809,7 @@
             "properties": {
                 "title": "Ernst Th\u00e4lmann Island",
                 "qid": "Q704637",
+                "category": "place",
                 "blurb": "Technically Germany's island, but not really?",
                 "image": null
             }
@@ -5580,6 +5826,7 @@
             "properties": {
                 "title": "Guarapari",
                 "qid": "Q267439",
+                "category": "place",
                 "blurb": "Radioactive beach",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Guarapari_-_ES._Aerial_view_of_the_city_of_Guarapari_and_its_beaches%2C_in_Esp%C3%ADrito_Santo%2C_Brazil.jpg/330px-Guarapari_-_ES._Aerial_view_of_the_city_of_Guarapari_and_its_beaches%2C_in_Esp%C3%ADrito_Santo%2C_Brazil.jpg",
@@ -5603,6 +5850,7 @@
             "properties": {
                 "title": "Fordl\u00e2ndia",
                 "qid": "Q1437077",
+                "category": "place",
                 "blurb": "Yep, that Ford",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fordlandia.JPG/330px-Fordlandia.JPG",
@@ -5626,6 +5874,7 @@
             "properties": {
                 "title": "Friendship Park (San Diego\u2013Tijuana)",
                 "qid": "Q5504413",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pedestrian_entrance_into_Friendship_Park.jpg/330px-Pedestrian_entrance_into_Friendship_Park.jpg",
@@ -5649,6 +5898,7 @@
             "properties": {
                 "title": "Hacienda N\u00e1poles",
                 "qid": "Q2788637",
+                "category": "place",
                 "blurb": "Pablo Escobar's estate, whose hippos escaped and went feral",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Parque_Tem%C3%A1tico_Hacienda_N%C3%A1poles_-_Puerto_Triunfo_Antioquia.jpg/330px-Parque_Tem%C3%A1tico_Hacienda_N%C3%A1poles_-_Puerto_Triunfo_Antioquia.jpg",
@@ -5672,6 +5922,7 @@
             "properties": {
                 "title": "Helader\u00eda Coromoto",
                 "qid": "Q17072525",
+                "category": "place",
                 "blurb": "!!!REM ig",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Neon_sign_at_Helader%C3%ADa_Coromoto.jpg/330px-Neon_sign_at_Helader%C3%ADa_Coromoto.jpg",
@@ -5695,6 +5946,7 @@
             "properties": {
                 "title": "Isla Apip\u00e9",
                 "qid": "Q2836481",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Islas_Apip%C3%A9.png",
@@ -5718,6 +5970,7 @@
             "properties": {
                 "title": "Island of the Dolls",
                 "qid": "Q15401946",
+                "category": "place",
                 "blurb": "",
                 "image": {
                     "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Xochimilco_Dolls%27_Island.jpg/330px-Xochimilco_Dolls%27_Island.jpg",
