@@ -14,7 +14,9 @@ export interface PinProperties {
     title: string,
     qid: string,
     blurb: string,
+    category: string,
     image?: PinImage
+    // Add more media types as we go
 }
 
 interface PinProps {
