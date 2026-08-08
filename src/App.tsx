@@ -2,14 +2,47 @@ import {Map, Source, Layer, Popup} from 'react-map-gl/maplibre'
 import type { LayerProps, MapLayerMouseEvent } from 'react-map-gl/maplibre'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import './App.css'
-import type { FeatureCollection } from 'geojson'
-import geojson_data from '../scripts/data/geojson_data.json'
+import type { FeatureCollection, Point } from 'geojson'
 import React from 'react'
 
-import Pin, {type PinProperties} from './components/Pin.tsx';
+import Pin, {type PinProperties, type PinImage} from './components/Pin.tsx';
+import FilterPanel from './components/FilterPanel.tsx';
 
 
 const INITIAL_ZOOM = 2.5;
+
+// Equivalent to the PinRow interface from ../server/filter-db.ts
+// This is the type we receive by passing through this method, representing the post-filtered rows 
+interface PinRow {
+  qid: string,
+  title: string,
+  blurb: string,
+  category: string,
+  lat: string,
+  lng: string,
+  media: PinImage | null
+}
+
+const EMPTY_PINS: FeatureCollection<Point, PinProperties> = {type: 'FeatureCollection', features: []};
+
+// kind of an annoying consequence of server-side filtering, but it's cool
+// need geojson formatted data source for the map, so have to convert filtered rows
+function rowsToGeojson(rows: PinRow[]): FeatureCollection<Point, PinProperties> {
+  return {
+    type: 'FeatureCollection',
+    features: rows.map((row) => ({
+      type: 'Feature',
+      geometry: {type: 'Point', coordinates: [Number(row.lng), Number(row.lat)]},
+      properties: {
+        title: row.title,
+        qid: row.qid,
+        blurb: row.blurb,
+        category: row.category,
+        image: row.media ?? undefined
+      }
+    }))
+  }
+}
 
 function App() {
 
@@ -20,6 +53,29 @@ function App() {
   }
   const [selectedPin, setSelectedPin] = React.useState<SelectedPin | null>(null);
   const [zoom, setZoom] = React.useState(INITIAL_ZOOM);
+  const [categories, setCategories] = React.useState<string[]>([]);
+  const [category, setCategory] = React.useState<string | null>(null);
+  const [pins, setPins] = React.useState(EMPTY_PINS);
+
+  React.useEffect(() => {
+    fetch('/api/pins/categories')
+      .then((res) => res.json())
+      .then(setCategories)
+      .catch((error) => 
+        console.error("Couldn't load categories: ", error));
+  }, []);
+
+  
+  React.useEffect(() => {
+    const query = category ? `?category=${encodeURIComponent(category)}` : '';
+
+    fetch(`/api/pins${query}`)
+      .then((res) => res.json())
+      .then((rows: PinRow[]) => setPins(rowsToGeojson(rows)))
+      .catch((error) =>
+        console.error("Couldn't load pins: ", error));
+    setSelectedPin(null);
+  }, [category]);
 
   // allows for popup to scale with zoom, uses a slope formula to determine max 
   const popupWidth = Math.round(
@@ -60,6 +116,12 @@ function App() {
     <header className="App-header">
       <h1>MapLibre GL JS with React</h1>
     </header>
+    <FilterPanel
+      categories={categories}
+      selectedCategory={category}
+      onSelect={setCategory}
+      count={pins.features.length}
+    />
     <Map
         initialViewState={{
           longitude: 0,
@@ -74,7 +136,7 @@ function App() {
         // quantised so a continuous pinch/wheel gesture only re-renders in steps
         onZoom = {(event) => setZoom(Math.round(event.viewState.zoom * 4) / 4)}
       >
-      <Source id="geojson_data" type="geojson" data={geojson_data as FeatureCollection}>
+      <Source id="geojson_data" type="geojson" data={pins}>
         <Layer {...layerStyle}/>
       </Source>
       {selectedPin &&

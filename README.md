@@ -3,5 +3,10 @@ A manually curated collection of interesting and unusual spots around the globe.
 
 # TODO
 perhaps allow zooming "through" cards - because currently the popup acts as a blocker
+
 rewrite pinproperties in pin.tsx (and other parts of the file that depend on it) to allow for "media: image || ..."
 (or something similar), to match database schema
+
+fix favicon lol
+
+(major change) add a user-based "star" feature to articles, and provide ability to filter for most starred
