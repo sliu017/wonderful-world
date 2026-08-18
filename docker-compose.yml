@@ -1,0 +1,26 @@
+# allows us to spin up the db backend along with the rest of the app with just one command
+# (npm run dev in the root directory - instead of having to run separately in the /server directory)
+services:
+  db:
+    image: postgres:17
+    container_name: wonderful-world-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_PASSWORD: devpassword
+      POSTGRES_DB: wonderful_world
+    ports:
+      - '5432:5432'
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck: # check status until postgres is confirmed to be ready, using pg_isready 
+      test: ['CMD-SHELL', 'pg_isready -U postgres -d wonderful_world']
+      interval: 2s
+      timeout: 3s
+      retries: 20
+
+volumes:
+  pgdata:
+    # the volume the db was originally created with, so the seeded data carries
+    # over. on a fresh machine: docker volume create wonderful-world-pgdata
+    name: wonderful-world-pgdata
+    external: true
