@@ -1,9 +1,11 @@
 import pool from './db'
+import './redis'
 import express from 'express'
 import pinsRouter from './routes/pins'
 
 const app = express();
 app.use(express.json());
+console.log('[server] Express server initialized!');
 
 app.get('/api/ping', async (req, res) => {
     const result = await pool.query('SELECT NOW()');

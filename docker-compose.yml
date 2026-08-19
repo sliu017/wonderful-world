@@ -17,6 +17,24 @@ services:
       interval: 2s
       timeout: 3s
       retries: 20
+  cache:
+  # we want a pure cache without any persistence 
+    image: redis:8-alpine # more compact image
+    container_name: wonderful-world-cache
+    command: # overrides the default command the image's entrypoint would normally run
+      - redis-server # run with a specific set of flags
+      - --save "" # do not save anything to disk - keep everything strictly in memory
+      - --appendonly no # we do not need to log write operations to file either
+      - --maxmemory 128mb
+      - --maxmemory-policy allkeys-lru # evict coldest keys first 
+    restart: unless-stopped
+    ports:
+      - '6379:6379'
+    healthcheck:
+      test: ['CMD', 'redis-cli', 'ping']
+      interval: 2s
+      timeout: 3s
+      retries: 20
 
 volumes:
   pgdata:
