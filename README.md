@@ -12,3 +12,5 @@ fix favicon lol
 (major change) add a user-based "star" feature to articles, and provide ability to filter for most starred
 
 if redis is down on startup, try pinging it while the server is running and see if it can restart
+
+more comprehensively add typesafety to ts files in, for example, /server
