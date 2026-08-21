@@ -17,7 +17,7 @@ dist-ssr
 # Internal data-review tool. Tracked (not shipped — Vite only bundles src/) so
 # its hand-curated output, manual-review/reviews.json, is backed up & versioned.
 # Only the atomic-write scratch file is ignored:
-/manual-review/reviews.json.tmp
+/manual-review/reviews.json
 
 # Editor directories and files
 .vscode/*

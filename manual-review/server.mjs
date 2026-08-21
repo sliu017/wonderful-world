@@ -163,12 +163,21 @@ const mediaCache = new Map();
 
 function stripHtml(s) {
   return String(s || '')
-    .replace(/<[^>]*>/g, '')
+    // Commons' {{Unknown|author}} (and some credit templates) render the text
+    // twice: once visibly, once inside a display:none span. Drop the hidden
+    // copy first, or the credit comes out as "Unknown authorUnknown author".
+    .replace(/<(\w+)[^>]*style\s*=\s*(["'])[^"']*display\s*:\s*none[^"']*\2[^>]*>[\s\S]*?<\/\1\s*>/gi, ' ')
+    // Replace tags with a space rather than nothing, so text in adjacent
+    // elements doesn't get mashed into a single word.
+    .replace(/<[^>]*>/g, ' ')
     .replace(/&amp;/g, '&')
     .replace(/&quot;/g, '"')
     .replace(/&#0?39;|&apos;/g, "'")
     .replace(/&nbsp;/g, ' ')
     .replace(/\s+/g, ' ')
+    // ...then tidy the spacing that the tag->space swap can introduce.
+    .replace(/\s+([,.;:!?)])/g, '$1')
+    .replace(/(\()\s+/g, '$1')
     .trim();
 }
 
@@ -203,6 +212,34 @@ function buildAttribution(credit, license, repo, nonFree) {
   return license ? `${who}, ${license}, via ${source}` : `${who}, via ${source}`;
 }
 
+// Derive the Commons/Wikipedia file name from an upload.wikimedia.org URL.
+// Originals end in the file name itself (modulo a ?utm_... suffix):
+//   /wikipedia/commons/9/95/Name.jpg              -> Name.jpg
+// but the summary API hands back a *thumbnail* URL for large images, where the
+// last segment is a rendered derivative and the real file is one level up:
+//   /wikipedia/commons/thumb/9/95/Name.jpg/3840px-Name.jpg   -> Name.jpg
+//   /wikipedia/commons/thumb/d/d1/Map.svg/1280px-Map.svg.png -> Map.svg
+// Taking the last segment on a thumb URL asks the API for a file that does not
+// exist, which is what silently emptied out the license and left the credit as
+// "Unknown author".
+function fileNameFromUrl(url) {
+  // Use pathname so the ?utm_source=... analytics params Wikimedia now appends
+  // to summary-API image URLs never end up glued onto the file name.
+  let pathname;
+  try {
+    pathname = new URL(url).pathname;
+  } catch {
+    pathname = String(url).split('?')[0];
+  }
+  const parts = pathname.split('/');
+  const raw = parts.includes('thumb') ? parts[parts.length - 2] : parts[parts.length - 1];
+  try {
+    return decodeURIComponent(raw);
+  } catch {
+    return raw; // malformed %-escape: better to try the raw name than give up
+  }
+}
+
 async function fetchJson(url) {
   const r = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
   if (!r.ok) throw new Error('HTTP ' + r.status);
@@ -220,7 +257,7 @@ async function getMedia(title) {
     const full = s.originalimage?.source;
     const thumb = s.thumbnail?.source;
     if (full) {
-      const fileName = decodeURIComponent(full.split('/').pop());
+      const fileName = fileNameFromUrl(full);
       const image = {
         thumbUrl: thumb || full,
         fullUrl: full,

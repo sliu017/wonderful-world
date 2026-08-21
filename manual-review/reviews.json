@@ -4208,5 +4208,2485 @@
     },
     "status": "confirmed",
     "reviewedAt": "2026-07-29T02:00:24.959Z"
+  },
+  "good:Q1144587": {
+    "title": "John Lennon Park",
+    "category": "place",
+    "lat": 23.131944444444,
+    "lng": -82.400277777778,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/John_Lennon_Statue_in_Cuba.png/330px-John_Lennon_Statue_in_Cuba.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/John_Lennon_Statue_in_Cuba.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:14:06.917Z"
+  },
+  "good:Q852929": {
+    "title": "La Rinconada, Peru",
+    "category": "place",
+    "lat": -14.631666666667,
+    "lng": -69.446388888889,
+    "blurb": "A lawless city in the mountains",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rinconadapuno.JPG/330px-Rinconadapuno.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rinconadapuno.JPG/3840px-Rinconadapuno.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "yo - lumix serie g, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:14:50.625Z"
+  },
+  "good:Q647777": {
+    "title": "Lençóis Maranhenses National Park",
+    "category": "place",
+    "lat": -2.4833333333333334,
+    "lng": -43.13333333333333,
+    "blurb": "A desert that... floods?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/330px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/3840px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "Julius Dadalti, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:16:00.720Z"
+  },
+  "good:Q613826": {
+    "title": "Mano del Desierto",
+    "category": "place",
+    "lat": -24.15833611,
+    "lng": -70.15654444,
+    "blurb": "\"Hand of the Desert\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ManodelDesierto%28Panoramica%29.jpg/1280px-ManodelDesierto%28Panoramica%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ManodelDesierto%28Panoramica%29.jpg/1280px-ManodelDesierto%28Panoramica%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "By Marcos Escalier from Antofagasta, Chile. - Flickr, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=513789",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:16:49.427Z"
+  },
+  "good:Q2620036": {
+    "title": "Nazca lines",
+    "category": "place",
+    "lat": -14.6975,
+    "lng": -75.135,
+    "blurb": "Famous ancient lines that required impressive foresight",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/330px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/3840px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "Diego Delso, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:17:58.496Z"
+  },
+  "good:Q27889640": {
+    "title": "El Ojo",
+    "category": "place",
+    "lat": -34.25222222222222,
+    "lng": -58.83,
+    "blurb": "A strangely shaped island",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/El_Ojo_island.png/330px-El_Ojo_island.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/El_Ojo_island.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:18:41.519Z"
+  },
+  "good:Q231620": {
+    "title": "Parícutin",
+    "category": "place",
+    "lat": 19.493,
+    "lng": -102.251,
+    "blurb": "This volcano suddenly spouted out from a local cornfield",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Paricutin.jpg/330px-Paricutin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paricutin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "",
+      "license": "",
+      "attribution": "Karla Yannín Alcázar Quintero, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:19:30.364Z"
+  },
+  "good:Q1073075": {
+    "title": "Penedo, Itatiaia",
+    "category": "place",
+    "lat": -22.44277778,
+    "lng": -44.52861111,
+    "blurb": "Finland-themed resort",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Correios_Posti.jpg/330px-Correios_Posti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Correios_Posti.jpg/3840px-Correios_Posti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "Eduardo P, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:19:56.732Z"
+  },
+  "good:Q7193206": {
+    "title": "Pig Beach",
+    "category": "place",
+    "lat": 24.18361111,
+    "lng": -76.45638889,
+    "blurb": "The swimming pigs of the Bahamas",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Vorobek_Bahamas_-_swimming_pigs.jpg/330px-Vorobek_Bahamas_-_swimming_pigs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vorobek_Bahamas_-_swimming_pigs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "",
+      "license": "",
+      "attribution": "cdorobek, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:21:17.934Z"
+  },
+  "good:Q30990": {
+    "title": "Plymouth, Montserrat",
+    "category": "place",
+    "lat": 16.706416666667,
+    "lng": -62.215838888889,
+    "blurb": "A completely deserted national capital",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Plymouth_Montserrat_Heli.jpg/330px-Plymouth_Montserrat_Heli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Plymouth_Montserrat_Heli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "",
+      "license": "",
+      "attribution": "Xb-70, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:21:52.957Z"
+  },
+  "good:Q750551": {
+    "title": "Presidente Hayes Department",
+    "category": "place",
+    "lat": -23.775277777777777,
+    "lng": -58.61194444444445,
+    "blurb": "This little-remembered US president is quite beloved in the Southern hemisphere!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Presidente_Hayes_in_Paraguay.svg/330px-Presidente_Hayes_in_Paraguay.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Presidente_Hayes_in_Paraguay.svg/1280px-Presidente_Hayes_in_Paraguay.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:22:34.021Z"
+  },
+  "good:Q2708772": {
+    "title": "Río Rico, Tamaulipas",
+    "category": "place",
+    "lat": 26.056944444444444,
+    "lng": -97.89,
+    "blurb": "!!!REM",
+    "image": null,
+    "status": "skipped",
+    "reviewedAt": "2026-08-20T02:23:19.146Z"
+  },
+  "good:Q1849746": {
+    "title": "Santa Cruz del Islote",
+    "category": "place",
+    "lat": 9.78609,
+    "lng": -75.85888,
+    "blurb": "Supposedly, the most crowded island on earth",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Santa_Cruz_del_Islote_view.JPG/330px-Santa_Cruz_del_Islote_view.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Santa_Cruz_del_Islote_view.JPG/3840px-Santa_Cruz_del_Islote_view.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "Uhbaku, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:23:45.919Z"
+  },
+  "good:Q493005": {
+    "title": "Spiral Island",
+    "category": "place",
+    "lat": 21.23043,
+    "lng": -86.737189,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/SpiralIsland2000.jpg/330px-SpiralIsland2000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/SpiralIsland2000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "",
+      "license": "",
+      "attribution": "RandyMac McCallum, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:24:28.857Z"
+  },
+  "good:Q28025526": {
+    "title": "Vinicunca",
+    "category": "place",
+    "lat": -13.869534,
+    "lng": -71.30296,
+    "blurb": "\"The mountain of seven colors\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Monta%C3%B1aarcoirisperuabanto.jpg/330px-Monta%C3%B1aarcoirisperuabanto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Monta%C3%B1aarcoirisperuabanto.jpg/3840px-Monta%C3%B1aarcoirisperuabanto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "Diego Aldrin Abanto Ricce, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:24:50.630Z"
+  },
+  "good:Q385206": {
+    "title": "Yungas Road",
+    "category": "place",
+    "lat": -16.335906,
+    "lng": -68.040494,
+    "blurb": "Also known as Death Road.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Camino_a_los_Yungas_%28detall%29.png/330px-Camino_a_los_Yungas_%28detall%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Camino_a_los_Yungas_%28detall%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "",
+      "license": "",
+      "attribution": "Unknown author, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:25:07.341Z"
+  },
+  "good:Q22905940": {
+    "title": "Norfolk Southern–Gregson Street Overpass",
+    "category": "place",
+    "lat": 35.99911111111111,
+    "lng": -78.9101388888889,
+    "blurb": "\"The Gregson Street Guillotine\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Durham--Gregson_Street_Guillotine_01.jpg/330px-Durham--Gregson_Street_Guillotine_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Durham--Gregson_Street_Guillotine_01.jpg/3840px-Durham--Gregson_Street_Guillotine_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "Washuotaku, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:25:36.135Z"
+  },
+  "good:Q4635219": {
+    "title": "33 Thomas Street",
+    "category": "place",
+    "lat": 40.71654,
+    "lng": -74.00592,
+    "blurb": "A completely windowless skyscraper, suspected of being a mass surveillance facility",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/33_Thomas_Street_-_AT%26T_Long_Lines_Building_%2855314000758%29.jpg/330px-33_Thomas_Street_-_AT%26T_Long_Lines_Building_%2855314000758%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/33_Thomas_Street_-_AT%26T_Long_Lines_Building_%2855314000758%29.jpg/3840px-33_Thomas_Street_-_AT%26T_Long_Lines_Building_%2855314000758%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "Ajay Suresh, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:26:13.652Z"
+  },
+  "good:Q7451333": {
+    "title": "Sentinel Peak (Arizona)",
+    "category": "place",
+    "lat": 32.2106,
+    "lng": -110.992,
+    "blurb": "\"A\" Mountain",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sentinel_Peak_%28Arizona%29.jpg/330px-Sentinel_Peak_%28Arizona%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Sentinel_Peak_%28Arizona%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "",
+      "license": "",
+      "attribution": "Bill Morrow, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:26:36.814Z"
+  },
+  "good:Q279012": {
+    "title": "Agloe, New York",
+    "category": "place",
+    "lat": 41.9656,
+    "lng": -74.9064,
+    "blurb": "A fictional town created as a copyright trap... that later became real",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/FictionalAgloeNewYork.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/FictionalAgloeNewYork.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "",
+      "license": "",
+      "attribution": "Byrne, Ian, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:27:04.441Z"
+  },
+  "good:Q623183": {
+    "title": "Aquarius Reef Base",
+    "category": "place",
+    "lat": 24.95,
+    "lng": -80.45361111111112,
+    "blurb": "An underwater laboratory",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Aquarius_Reef_Base_Seal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Aquarius_Reef_Base_Seal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Aquarius_Reef_Base_Seal.png",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:28:37.703Z"
+  },
+  "good:Q3273530": {
+    "title": "Badlands Guardian",
+    "category": "place",
+    "lat": 50.0106,
+    "lng": -110.113,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Area_around_Badlands_Guardian.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Area_around_Badlands_Guardian.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Area_around_Badlands_Guardian.png",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:31:23.713Z"
+  },
+  "good:Q4905145": {
+    "title": "Big Blue Bug",
+    "category": "place",
+    "lat": 41.8071,
+    "lng": -71.4056,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Nibbles_Woodaway.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Nibbles_Woodaway.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Nibbles_Woodaway.JPG",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:31:48.464Z"
+  },
+  "good:Q866330": {
+    "title": "Bishop Castle",
+    "category": "place",
+    "lat": 38.0615,
+    "lng": -105.094,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bishop_Castle2_Fairview_CO.jpg/330px-Bishop_Castle2_Fairview_CO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bishop_Castle2_Fairview_CO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bishop_Castle2_Fairview_CO.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Hustvedt, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:32:03.886Z"
+  },
+  "good:Q28450571": {
+    "title": "Boston Citgo sign",
+    "category": "place",
+    "lat": 42.348712,
+    "lng": -71.095619,
+    "blurb": "Advertisement that became a city landmark due to its location",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2017_Citgo_sign_Kenmore_Square_Boston.jpg/330px-2017_Citgo_sign_Kenmore_Square_Boston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2017_Citgo_sign_Kenmore_Square_Boston.jpg/3840px-2017_Citgo_sign_Kenmore_Square_Boston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:2017_Citgo_sign_Kenmore_Square_Boston.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:32:53.733Z"
+  },
+  "good:Q4360997": {
+    "title": "Bubblegum Alley",
+    "category": "place",
+    "lat": 35.27916,
+    "lng": -120.66387,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bubblegum_alley.jpg/330px-Bubblegum_alley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bubblegum_alley.jpg/3840px-Bubblegum_alley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bubblegum_alley.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Ned Hartley, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:33:18.487Z"
+  },
+  "good:Q4982285": {
+    "title": "Bubbly Creek",
+    "category": "place",
+    "lat": 41.8258,
+    "lng": -87.6575,
+    "blurb": "So much blood and entrails was dumped into this creek that it became notorious for the gases bubbling out of it. Pleasant stuff",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bubbly_Creek_headwaters-Racine_Avenue_Pump_Station_JPG.jpg/330px-Bubbly_Creek_headwaters-Racine_Avenue_Pump_Station_JPG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bubbly_Creek_headwaters-Racine_Avenue_Pump_Station_JPG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bubbly_Creek_headwaters-Racine_Avenue_Pump_Station_JPG.jpg",
+      "license": "Public domain",
+      "attribution": "USGS Illinois Water Science Center, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:34:28.488Z"
+  },
+  "good:Q4996884": {
+    "title": "Bullfrog County, Nevada",
+    "category": "place",
+    "lat": 36.852777777778,
+    "lng": -116.42666666667,
+    "blurb": "The only uninhabited (former) US county",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Map_of_Nevada_highlighting_Bullfrog_County.svg/330px-Map_of_Nevada_highlighting_Bullfrog_County.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Map_of_Nevada_highlighting_Bullfrog_County.svg/330px-Map_of_Nevada_highlighting_Bullfrog_County.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Map_of_Nevada_highlighting_Bullfrog_County.svg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Spaceboyjosh, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:34:58.880Z"
+  },
+  "good:Q26248884": {
+    "title": "Busta Rhymes Island",
+    "category": "place",
+    "lat": 42.2841441,
+    "lng": -71.7393413,
+    "blurb": "",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:35:24.070Z"
+  },
+  "good:Q5034108": {
+    "title": "Canusa Street",
+    "category": "place",
+    "lat": 45.005835,
+    "lng": -72.13845666666667,
+    "blurb": "Life is unique for people living along this border-hugging road",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rue_canusa_full_length_marked.png/330px-Rue_canusa_full_length_marked.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rue_canusa_full_length_marked.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Rue_canusa_full_length_marked.png",
+      "license": "CC BY-SA 2.0",
+      "attribution": "OpenStreetMap contributors, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:36:19.586Z"
+  },
+  "good:Q79957364": {
+    "title": "Capitol Hill mystery soda machine",
+    "category": "place",
+    "lat": 47.62,
+    "lng": -122.31988888888888,
+    "blurb": "Possibly the most mysterious soda machine ever.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Coke_machine_on_E._John_St._in_Capitol_Hill%2C_Seattle_%282014%29.JPG/330px-Coke_machine_on_E._John_St._in_Capitol_Hill%2C_Seattle_%282014%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Coke_machine_on_E._John_St._in_Capitol_Hill%2C_Seattle_%282014%29.JPG/3840px-Coke_machine_on_E._John_St._in_Capitol_Hill%2C_Seattle_%282014%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Coke_machine_on_E._John_St._in_Capitol_Hill,_Seattle_(2014).JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Another Believer, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:36:49.804Z"
+  },
+  "good:Q575657": {
+    "title": "Casey, Illinois",
+    "category": "place",
+    "lat": 39.3026016,
+    "lng": -87.9894406,
+    "blurb": "Why does this quiet town have multiple Guinness World Records?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/City_Hall%2C_Casey%2C_IL%2C_US.jpg/330px-City_Hall%2C_Casey%2C_IL%2C_US.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/City_Hall%2C_Casey%2C_IL%2C_US.jpg/3840px-City_Hall%2C_Casey%2C_IL%2C_US.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:City_Hall,_Casey,_IL,_US.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Jud McCranie, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:37:18.630Z"
+  },
+  "good:Q65083809": {
+    "title": "Cat Girl Manor",
+    "category": "place",
+    "lat": 39.1239,
+    "lng": -104.8809,
+    "blurb": "",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:37:42.844Z"
+  },
+  "good:Q492386": {
+    "title": "Centralia, Pennsylvania",
+    "category": "place",
+    "lat": 40.803333333333,
+    "lng": -76.341666666667,
+    "blurb": "This town has been on fire for more than 50 years.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/PA_61_Centralia_and_Byrnesville.jpg/960px-PA_61_Centralia_and_Byrnesville.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/PA_61_Centralia_and_Byrnesville.jpg/960px-PA_61_Centralia_and_Byrnesville.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "United States Geological Survey, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:38:38.970Z"
+  },
+  "good:Q5134218": {
+    "title": "Clinton Road (New Jersey)",
+    "category": "place",
+    "lat": 41.0543,
+    "lng": -74.4522,
+    "blurb": "Ghosts are said to haunt this road... maybe because it's the longest traffic light wait in the US.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Clinton_Road_sign.jpg/330px-Clinton_Road_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Clinton_Road_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Clinton_Road_sign.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Daniel Case, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:39:22.230Z"
+  },
+  "good:Q987296": {
+    "title": "Colma, California",
+    "category": "place",
+    "lat": 37.678888888889,
+    "lng": -122.45555555556,
+    "blurb": "It's great to be alive in Colma!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holy_Cross_Mausoleum%2C_Colma_front_1.JPG/330px-Holy_Cross_Mausoleum%2C_Colma_front_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holy_Cross_Mausoleum%2C_Colma_front_1.JPG/3840px-Holy_Cross_Mausoleum%2C_Colma_front_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Holy_Cross_Mausoleum,_Colma_front_1.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:39:37.663Z"
+  },
+  "good:Q1123960": {
+    "title": "Conch Republic",
+    "category": "place",
+    "lat": 24.559166666667,
+    "lng": -81.784166666667,
+    "blurb": "Key West once seceded from the union, declared war, and surrendered one minute later.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Monroe_County_Florida_Incorporated_and_Unincorporated_areas_Key_West_Highlighted.svg/330px-Monroe_County_Florida_Incorporated_and_Unincorporated_areas_Key_West_Highlighted.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Monroe_County_Florida_Incorporated_and_Unincorporated_areas_Key_West_Highlighted.svg/1920px-Monroe_County_Florida_Incorporated_and_Unincorporated_areas_Key_West_Highlighted.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Monroe_County_Florida_Incorporated_and_Unincorporated_areas_Key_West_Highlighted.svg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Arkyan, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:40:12.809Z"
+  },
+  "good:Q5172531": {
+    "title": "Corporation Trust Center",
+    "category": "place",
+    "lat": 39.749,
+    "lng": -75.548,
+    "blurb": "More than 285,000 companies are based out of this one building.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CT_Corporation_-_1209_North_Orange_Street.jpg/330px-CT_Corporation_-_1209_North_Orange_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/CT_Corporation_-_1209_North_Orange_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:CT_Corporation_-_1209_North_Orange_Street.jpg",
+      "license": "CC0",
+      "attribution": "Philtoss, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:40:34.409Z"
+  },
+  "good:Q1139250": {
+    "title": "Crazy Horse Memorial",
+    "category": "place",
+    "lat": 43.836789,
+    "lng": -103.624386,
+    "blurb": "Native equivalent of Mount Rushmore, although hopes of completion are fargone",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/CrazyHorse.jpg/330px-CrazyHorse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/CrazyHorse.jpg/3840px-CrazyHorse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://en.wikipedia.org/wiki/File:CrazyHorse.jpg",
+      "license": "GFDL",
+      "attribution": "Self-created photograph by Jonathunder, GFDL, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:41:02.798Z"
+  },
+  "good:Q1146724": {
+    "title": "Cuyahoga River",
+    "category": "place",
+    "lat": 41.44060833333333,
+    "lng": -81.15204444444444,
+    "blurb": "Environmental preservation in the US owes its origins to this (formerly) fiery river.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collision_Bend_-_Cuyahoga_River_-_Cleveland.jpg/330px-Collision_Bend_-_Cuyahoga_River_-_Cleveland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collision_Bend_-_Cuyahoga_River_-_Cleveland.jpg/3840px-Collision_Bend_-_Cuyahoga_River_-_Cleveland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Collision_Bend_-_Cuyahoga_River_-_Cleveland.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Tim Evanson, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:41:51.641Z"
+  },
+  "good:Q62130136": {
+    "title": "Dave Thomas Circle",
+    "category": "place",
+    "lat": 38.90896,
+    "lng": -77.00549,
+    "blurb": "Dangerous intersection caused by an initial oversight",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dave_Thomas_Circle%2C_Washington%2C_D.C.%2C_view_from_southeast%2C_2017.jpg/330px-Dave_Thomas_Circle%2C_Washington%2C_D.C.%2C_view_from_southeast%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dave_Thomas_Circle%2C_Washington%2C_D.C.%2C_view_from_southeast%2C_2017.jpg/3840px-Dave_Thomas_Circle%2C_Washington%2C_D.C.%2C_view_from_southeast%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Dave_Thomas_Circle,_Washington,_D.C.,_view_from_southeast,_2017.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "airbus777, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:43:15.114Z"
+  },
+  "good:Q7979151": {
+    "title": "Delaware Wedge",
+    "category": "place",
+    "lat": 39.7144,
+    "lng": -75.7847,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Wedge.png/330px-The_Wedge.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Wedge.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_Wedge.png",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Exterioramoeba, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:43:26.376Z"
+  },
+  "good:Q638681": {
+    "title": "Desert of Maine",
+    "category": "place",
+    "lat": 43.8575,
+    "lng": -70.15611111111112,
+    "blurb": "A small barren desert in... Maine?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Desert_of_Maine_-_Freeport%2C_ME_-_IMG_8012.JPG/330px-Desert_of_Maine_-_Freeport%2C_ME_-_IMG_8012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Desert_of_Maine_-_Freeport%2C_ME_-_IMG_8012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Desert_of_Maine_-_Freeport,_ME_-_IMG_8012.JPG",
+      "license": "Public domain",
+      "attribution": "Daderot, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:44:07.851Z"
+  },
+  "good:Q5284894": {
+    "title": "Dixie Square Mall",
+    "category": "place",
+    "lat": 41.6132,
+    "lng": -87.6687,
+    "blurb": "A mall that stood abandoned for much longer than it remained open.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dixie_Square_Directory.jpg/330px-Dixie_Square_Directory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Dixie_Square_Directory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Dixie_Square_Directory.jpg",
+      "license": "Public domain",
+      "attribution": "Dixie Square Mall, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:44:35.279Z"
+  },
+  "good:Q5294586": {
+    "title": "Donald J. Trump State Park",
+    "category": "place",
+    "lat": 41.263,
+    "lng": -73.803,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TrumpStatePark001.jpg/330px-TrumpStatePark001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/TrumpStatePark001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:TrumpStatePark001.jpg",
+      "license": "Public domain",
+      "attribution": "Alankroeger at English Wikipedia, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:44:52.852Z"
+  },
+  "good:Q5298823": {
+    "title": "Dorset, Minnesota",
+    "category": "place",
+    "lat": 46.9562,
+    "lng": -94.9527,
+    "blurb": "This town elected multiple young children to be its mayor.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Former_2015_Mayor_of_Dorset_MN%2C_James_Tufts_reacts_to_losing_a_re-election_bid_for_Mayor_of_Dorset_2016_%2835577812494%29.jpg/1280px-Former_2015_Mayor_of_Dorset_MN%2C_James_Tufts_reacts_to_losing_a_re-election_bid_for_Mayor_of_Dorset_2016_%2835577812494%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Former_2015_Mayor_of_Dorset_MN%2C_James_Tufts_reacts_to_losing_a_re-election_bid_for_Mayor_of_Dorset_2016_%2835577812494%29.jpg/1280px-Former_2015_Mayor_of_Dorset_MN%2C_James_Tufts_reacts_to_losing_a_re-election_bid_for_Mayor_of_Dorset_2016_%2835577812494%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "Lorie Shaull, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:45:48.868Z"
+  },
+  "good:Q16967365": {
+    "title": "Dude Chilling Park",
+    "category": "place",
+    "lat": 49.26375,
+    "lng": -123.09680555555556,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/DudeChillingPark.jpg/330px-DudeChillingPark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/DudeChillingPark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:DudeChillingPark.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "The Interior, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:46:01.441Z"
+  },
+  "good:Q5420664": {
+    "title": "Exorcist steps",
+    "category": "place",
+    "lat": 38.9055,
+    "lng": -77.0702,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Exorcist_Stairs.jpg/330px-Exorcist_Stairs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Exorcist_Stairs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Exorcist_Stairs.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Dmitry K, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:46:14.413Z"
+  },
+  "good:Q5443314": {
+    "title": "Fenelon Place Elevator",
+    "category": "place",
+    "lat": 42.496306,
+    "lng": -90.669361,
+    "blurb": "An extremely short and narrow railway.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dubuque_IA_-_4th_Street_Elevator.jpg/330px-Dubuque_IA_-_4th_Street_Elevator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Dubuque_IA_-_4th_Street_Elevator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Dubuque_IA_-_4th_Street_Elevator.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Dirk, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:46:50.994Z"
+  },
+  "good:Q5460821": {
+    "title": "Florence Y'all Water Tower",
+    "category": "place",
+    "lat": 38.9977,
+    "lng": -84.6477,
+    "blurb": "Never throw away what can be reused!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Florence-yall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Florence-yall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Florence-yall.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Bakerq, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:47:36.767Z"
+  },
+  "good:Q5463815": {
+    "title": "Foamhenge",
+    "category": "place",
+    "lat": 37.6407,
+    "lng": -79.5413,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Foamhenge_from_a_distance_-02-_%2850223886083%29.png/330px-Foamhenge_from_a_distance_-02-_%2850223886083%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Foamhenge_from_a_distance_-02-_%2850223886083%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Foamhenge_from_a_distance_-02-_(50223886083).png",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Ben Schumin from Montgomery Village, Maryland, USA, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:47:41.450Z"
+  },
+  "good:Q974030": {
+    "title": "Gann Valley, South Dakota",
+    "category": "place",
+    "lat": 44.033333333333,
+    "lng": -98.9875,
+    "blurb": "Gann Valley is a census-designated place in and the county seat of Buffalo County, South Dakota, United States. The town had a population of 10 as of the 2020 census.",
+    "image": null,
+    "status": "skipped",
+    "reviewedAt": "2026-08-20T02:48:02.023Z"
+  },
+  "good:Q3914253": {
+    "title": "Greater Green River Intergalactic Spaceport",
+    "category": "place",
+    "lat": 41.4581,
+    "lng": -109.49,
+    "blurb": "Prepare to be let down.",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:48:25.844Z"
+  },
+  "good:Q3120784": {
+    "title": "Gum Wall",
+    "category": "place",
+    "lat": 47.6081,
+    "lng": -122.34,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg/330px-Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg/3840px-Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gum_wall,_Seattle,_Washington,_Estados_Unidos,_2017-09-02,_DD_19-21_HDR.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:48:33.968Z"
+  },
+  "good:Q1032248": {
+    "title": "Habitat 67",
+    "category": "place",
+    "lat": 45.5,
+    "lng": -73.54388888888889,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Habitat_67_2019_dllu_01.jpg/330px-Habitat_67_2019_dllu_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Habitat_67_2019_dllu_01.jpg/3840px-Habitat_67_2019_dllu_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Habitat_67_2019_dllu_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-20T02:48:48.819Z"
+  },
+  "good:Q681389": {
+    "title": "Hans Island",
+    "category": "place",
+    "lat": 80.826389,
+    "lng": -66.458333,
+    "blurb": "Site of the so-called Whisky War",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/HansIsland.png/330px-HansIsland.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/HansIsland.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:HansIsland.png",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Toubletap, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:18:26.920Z"
+  },
+  "good:Q19462237": {
+    "title": "Hawaii 2",
+    "category": "place",
+    "lat": 44.3972933,
+    "lng": -69.336607,
+    "blurb": "An island with a story as intriguing as its name",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:26:36.813Z"
+  },
+  "good:Q683110": {
+    "title": "Head-Smashed-In Buffalo Jump",
+    "category": "place",
+    "lat": 49.7494,
+    "lng": -113.625,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Head-Smashed-In_Buffalo_Jump-27527-2.jpg/330px-Head-Smashed-In_Buffalo_Jump-27527-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Head-Smashed-In_Buffalo_Jump-27527-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Head-Smashed-In_Buffalo_Jump-27527-2.jpg",
+      "license": "Public domain",
+      "attribution": "Ken Thomas, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:28:56.727Z"
+  },
+  "good:Q18148743": {
+    "title": "Hess triangle",
+    "category": "place",
+    "lat": 40.7336,
+    "lng": -74.0029,
+    "blurb": "The smallest plot of land in New York City, born out of a technicality",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hesstriangle.jpg/330px-Hesstriangle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hesstriangle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Hesstriangle.jpg",
+      "license": "CC0",
+      "attribution": "Protobowladdict, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:29:26.983Z"
+  },
+  "good:Q1625335": {
+    "title": "Holy Land Experience",
+    "category": "place",
+    "lat": 28.4962,
+    "lng": -81.433,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Holy_Land_Experience_-_Church_of_All_Nations.jpg/330px-Holy_Land_Experience_-_Church_of_All_Nations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Holy_Land_Experience_-_Church_of_All_Nations.jpg/3840px-Holy_Land_Experience_-_Church_of_All_Nations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Holy_Land_Experience_-_Church_of_All_Nations.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Zfigueroa, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:30:06.117Z"
+  },
+  "good:Q14709940": {
+    "title": "Horace Burgess's Treehouse",
+    "category": "place",
+    "lat": 35.9855,
+    "lng": -84.9944,
+    "blurb": "A minister built this treehouse because of a \"commandment from God\", only for it to burn down.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Horace_Burgess_Treehouse_Aug._27%2C_2011.jpg/960px-Horace_Burgess_Treehouse_Aug._27%2C_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Horace_Burgess_Treehouse_Aug._27%2C_2011.jpg/960px-Horace_Burgess_Treehouse_Aug._27%2C_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "By 1779Days - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63670378",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:31:19.496Z"
+  },
+  "good:Q14688481": {
+    "title": "Indianapolis Catacombs",
+    "category": "place",
+    "lat": 39.7687,
+    "lng": -86.154,
+    "blurb": "Does not actually contain any bones.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Indianapolis_Catacombs.jpg/330px-Indianapolis_Catacombs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Indianapolis_Catacombs.jpg/3840px-Indianapolis_Catacombs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Indianapolis_Catacombs.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Valerie Keinsley, Indiana Humanities, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:31:43.086Z"
+  },
+  "good:Q93660": {
+    "title": "Interstate 19",
+    "category": "place",
+    "lat": 31.778964,
+    "lng": -111.028547,
+    "blurb": "This interstate is marked with kilometers instead of miles!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/I-19_%28AZ%29.svg/330px-I-19_%28AZ%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/I-19_%28AZ%29.svg/960px-I-19_%28AZ%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:I-19_(AZ).svg",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:32:06.798Z"
+  },
+  "good:Q14689071": {
+    "title": "Iowa 80",
+    "category": "place",
+    "lat": 41.61805556,
+    "lng": -90.78055556,
+    "blurb": "A haven for truckers across the country",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Iowa_80_logo.png/330px-Iowa_80_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/a/a6/Iowa_80_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Iowa_80_logo.png",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:32:30.070Z"
+  },
+  "good:Q6116081": {
+    "title": "Jackass Flats",
+    "category": "place",
+    "lat": 36.718055555556,
+    "lng": -116.3625,
+    "blurb": "Nuclear-powered rockets were once tested here",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Peacekeeper_-_simulated_missile_and_canister_test_1.jpg/330px-Peacekeeper_-_simulated_missile_and_canister_test_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Peacekeeper_-_simulated_missile_and_canister_test_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Peacekeeper_-_simulated_missile_and_canister_test_1.jpg",
+      "license": "Public domain",
+      "attribution": "Federal Government of the United States, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:32:56.074Z"
+  },
+  "good:Q956395": {
+    "title": "Jerimoth Hill",
+    "category": "place",
+    "lat": 41.849444444444,
+    "lng": -71.778611111111,
+    "blurb": "The highest point in Rhode Island, vigorously defended by its angry owner.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jerimoth_Hill_Summit.JPG/330px-Jerimoth_Hill_Summit.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jerimoth_Hill_Summit.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Jerimoth_Hill_Summit.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Fredlyfish4, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:34:01.423Z"
+  },
+  "good:Q104863442": {
+    "title": "Jimmy Carter Peanut Statue",
+    "category": "place",
+    "lat": 32.0417499,
+    "lng": -84.3922802,
+    "blurb": "Was reportedly despised by Carter himself.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PEANUT_JIMMY_CARTER.jpg/330px-PEANUT_JIMMY_CARTER.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PEANUT_JIMMY_CARTER.jpg/3840px-PEANUT_JIMMY_CARTER.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:PEANUT_JIMMY_CARTER.jpg",
+      "license": "CC BY 4.0",
+      "attribution": "BakedintheHole, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:34:47.106Z"
+  },
+  "good:Q100275405": {
+    "title": "John Oliver Memorial Sewer Plant",
+    "category": "place",
+    "lat": 41.4025,
+    "lng": -73.4175,
+    "blurb": "Some would call it a petty move.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/John_Oliver_Memorial_Sign.jpg/330px-John_Oliver_Memorial_Sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/John_Oliver_Memorial_Sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:John_Oliver_Memorial_Sign.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Mbdfar, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:36:02.717Z"
+  },
+  "good:Q74077989": {
+    "title": "Joker Stairs",
+    "category": "place",
+    "lat": 40.83583333333333,
+    "lng": -73.92388888888888,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Anderson_Avenue.jpg/330px-Anderson_Avenue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Anderson_Avenue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Anderson_Avenue.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Dcastillo4070, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:36:20.752Z"
+  },
+  "good:Q34682706": {
+    "title": "Just Room Enough Island",
+    "category": "place",
+    "lat": 44.3425,
+    "lng": -75.924722222222,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Thousand_Islands_single_house.jpg/330px-Thousand_Islands_single_house.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Thousand_Islands_single_house.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Thousand_Islands_single_house.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Taken by User:Omegatron using a Canon Powershot SD110, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:36:42.397Z"
+  },
+  "good:Q1140886": {
+    "title": "Kentucky Bend",
+    "category": "place",
+    "lat": 36.535019,
+    "lng": -89.510422,
+    "blurb": "Kentucky exclave!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Kentucky_Bend_cemetery.jpg/330px-Kentucky_Bend_cemetery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Kentucky_Bend_cemetery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kentucky_Bend_cemetery.jpg",
+      "license": "Public domain",
+      "attribution": "Nyttend, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:37:02.143Z"
+  },
+  "good:Q354380": {
+    "title": "KRDK-TV mast",
+    "category": "place",
+    "lat": 47.279166666667,
+    "lng": -97.340833333333,
+    "blurb": "This is actually the seventh tallest structure in the world!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KXJBfrombase.jpeg/330px-KXJBfrombase.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/KXJBfrombase.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:KXJBfrombase.jpeg",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:37:27.921Z"
+  },
+  "good:Q1544731": {
+    "title": "Lake Peigneur",
+    "category": "place",
+    "lat": 29.9808,
+    "lng": -91.9833,
+    "blurb": "Once a swimming lake, now the deepest in the state, due to an unusual disaster.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Lake_Peigneur_Waterfall.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Lake_Peigneur_Waterfall.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "filePage": "",
+      "license": "",
+      "attribution": "By Unknown (Editor Patrick Burke) - The Mining Operations Division, Department of Minerals and Energy, Western Australia, AustraliaSource site: http://www.docep.wa.gov.au/resourcessafety/Sections/Mining_Safety/Guidance_material_and_publications/MineSafe_Magazine.htmlSource URL: http://www.docep.wa.gov.au/resourcessafety/Sections/Mining_Safety/pdf_/MS%20GMP/MineSafe%20Magazine/MS_GMP_MineSafe_mar00.pdfNew URL: https://www.dmp.wa.gov.au/Documents/Safety/RS_MineSafe_March2000.pdf, Fair use, https://en.wikipedia.org/w/index.php?curid=6168580",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:38:19.225Z"
+  },
+  "good:Q1803724": {
+    "title": "Landsat Island",
+    "category": "place",
+    "lat": 60.1610604,
+    "lng": -64.0332995,
+    "blurb": "A small island with an interesting story.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Landsat_Island_Sentinel-2_Imagery.jpg/330px-Landsat_Island_Sentinel-2_Imagery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Landsat_Island_Sentinel-2_Imagery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Landsat_Island_Sentinel-2_Imagery.jpg",
+      "license": "Attribution",
+      "attribution": "Contains modified Copernicus Sentinel data 2026, Attribution, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:39:21.095Z"
+  },
+  "good:Q96387140": {
+    "title": "Leaning Tower of Dallas",
+    "category": "place",
+    "lat": 32.807361111111106,
+    "lng": -96.79241666666667,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leaning_Tower_of_Dallas.jpg/330px-Leaning_Tower_of_Dallas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leaning_Tower_of_Dallas.jpg/3840px-Leaning_Tower_of_Dallas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Leaning_Tower_of_Dallas.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Matthew T Rader, https://matthewtrader.com, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:39:31.218Z"
+  },
+  "good:Q19864342": {
+    "title": "Lizzie Borden House",
+    "category": "place",
+    "lat": 41.6989,
+    "lng": -71.1562,
+    "blurb": "Site of an infamous ax murder.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lizzie_Borden_House_%28Bed_Breakfast%29_%283535957840%29.jpg/330px-Lizzie_Borden_House_%28Bed_Breakfast%29_%283535957840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lizzie_Borden_House_%28Bed_Breakfast%29_%283535957840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lizzie_Borden_House_(Bed_Breakfast)_(3535957840).jpg",
+      "license": "CC BY 2.0",
+      "attribution": "dbking from Washington, DC, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:40:19.600Z"
+  },
+  "good:Q985674": {
+    "title": "Lloydminster",
+    "category": "place",
+    "lat": 53.278333333333,
+    "lng": -110.005,
+    "blurb": "Why not both?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Lloydminster_City_Hall.jpg/330px-Lloydminster_City_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Lloydminster_City_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lloydminster_City_Hall.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Jason Whiting, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:40:36.149Z"
+  },
+  "good:Q1868889": {
+    "title": "London Bridge (Lake Havasu City)",
+    "category": "place",
+    "lat": 34.4717,
+    "lng": -114.347,
+    "blurb": "An authentic London bridge, now in a markedly drier home.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20251127_LondonBridge.jpg/330px-20251127_LondonBridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20251127_LondonBridge.jpg/3840px-20251127_LondonBridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:20251127_LondonBridge.jpg",
+      "license": "CC0",
+      "attribution": "Guninvalid, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:41:06.304Z"
+  },
+  "good:Q109209": {
+    "title": "Loving County, Texas",
+    "category": "place",
+    "lat": 31.84,
+    "lng": -103.57,
+    "blurb": "The US's least populated county.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mentone_Courthouse.JPG/330px-Mentone_Courthouse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mentone_Courthouse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mentone_Courthouse.JPG",
+      "license": "Public domain",
+      "attribution": "Lothar the Terrible, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:41:26.424Z"
+  },
+  "good:Q436192": {
+    "title": "M-185 (Michigan highway)",
+    "category": "place",
+    "lat": 45.854722,
+    "lng": -84.619444,
+    "blurb": "The only state highway that enforces a ban on motor vehicles.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/M-185_%28MISPC%29.svg/330px-M-185_%28MISPC%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/M-185_%28MISPC%29.svg/500px-M-185_%28MISPC%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:M-185_(MISPC).svg",
+      "license": "Public domain",
+      "attribution": "IW4, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:41:49.550Z"
+  },
+  "good:Q2673328": {
+    "title": "Maharishi Vedic City, Iowa",
+    "category": "place",
+    "lat": 41.050730555556,
+    "lng": -91.993977777778,
+    "blurb": "\"America's most unusual town\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Homes_in_MVC%2C_Iowa.JPG/330px-Homes_in_MVC%2C_Iowa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Homes_in_MVC%2C_Iowa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Homes_in_MVC,_Iowa.JPG",
+      "license": "Public domain",
+      "attribution": "Keithbob at English Wikipedia, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:42:06.729Z"
+  },
+  "good:Q14705734": {
+    "title": "Mary Ellis grave",
+    "category": "place",
+    "lat": 40.4892,
+    "lng": -74.4165,
+    "blurb": "A grave with an unfortunate modern location.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mary_Ellis_Burial_Site%2C_New_Brunswick%2C_NJ.jpg/330px-Mary_Ellis_Burial_Site%2C_New_Brunswick%2C_NJ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mary_Ellis_Burial_Site%2C_New_Brunswick%2C_NJ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mary_Ellis_Burial_Site,_New_Brunswick,_NJ.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Zeete, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:42:37.849Z"
+  },
+  "good:Q2226897": {
+    "title": "Memphis Pyramid",
+    "category": "place",
+    "lat": 35.155555555556,
+    "lng": -90.051944444444,
+    "blurb": "You already know.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Memphis_Pyramid_%28Great_American_Pyramid%29_-_Memphis%2C_TN.jpg/330px-Memphis_Pyramid_%28Great_American_Pyramid%29_-_Memphis%2C_TN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Memphis_Pyramid_%28Great_American_Pyramid%29_-_Memphis%2C_TN.jpg/3840px-Memphis_Pyramid_%28Great_American_Pyramid%29_-_Memphis%2C_TN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Memphis_Pyramid_(Great_American_Pyramid)_-_Memphis,_TN.jpg",
+      "license": "CC BY 4.0",
+      "attribution": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:42:51.772Z"
+  },
+  "good:Q124669148": {
+    "title": "Mexia Supermarket",
+    "category": "place",
+    "lat": 32.690685,
+    "lng": -97.3324,
+    "blurb": "All the food in this supermarket rotted away",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Mexia_supermarket.jpg/330px-Mexia_supermarket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Mexia_supermarket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Mexia_supermarket.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:58:42.497Z"
+  },
+  "good:Q27919255": {
+    "title": "Mickey pylon",
+    "category": "place",
+    "lat": 28.30385,
+    "lng": -81.574183333333,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mickey_%283153436441%29.jpg/330px-Mickey_%283153436441%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mickey_%283153436441%29.jpg/3840px-Mickey_%283153436441%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mickey_(3153436441).jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Marcus Quigmire from Florida, USA, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:59:06.982Z"
+  },
+  "good:Q897289": {
+    "title": "Mojave phone booth",
+    "category": "place",
+    "lat": 35.285827777778,
+    "lng": -115.68463055556,
+    "blurb": "A phone booth standing alone in the middle of vast desert",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mojave_Phone_Booth_NO_FACE.jpg/330px-Mojave_Phone_Booth_NO_FACE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mojave_Phone_Booth_NO_FACE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mojave_Phone_Booth_NO_FACE.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "James13619, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T01:59:58.998Z"
+  },
+  "good:Q1407551": {
+    "title": "Mountain Home Air Force Base",
+    "category": "place",
+    "lat": 43.043602777778,
+    "lng": -115.87243055556,
+    "blurb": "This air base hosts Singaporean planes!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Red_Flag%2C_Nellis_AFB%2C_NV_-_F-15E_Strike_Eagle_90-0237_391st_Fighter_Squadron_366th_Fighter_Wing_-_Mountain_Home_Air_Force_Base%2C_Idaho._%2812202413553%29.jpg/330px-Red_Flag%2C_Nellis_AFB%2C_NV_-_F-15E_Strike_Eagle_90-0237_391st_Fighter_Squadron_366th_Fighter_Wing_-_Mountain_Home_Air_Force_Base%2C_Idaho._%2812202413553%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Red_Flag%2C_Nellis_AFB%2C_NV_-_F-15E_Strike_Eagle_90-0237_391st_Fighter_Squadron_366th_Fighter_Wing_-_Mountain_Home_Air_Force_Base%2C_Idaho._%2812202413553%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Red_Flag,_Nellis_AFB,_NV_-_F-15E_Strike_Eagle_90-0237_391st_Fighter_Squadron_366th_Fighter_Wing_-_Mountain_Home_Air_Force_Base,_Idaho._(12202413553).jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Tomás Del Coro from Las Vegas, Nevada, USA, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:00:45.747Z"
+  },
+  "good:Q962405": {
+    "title": "Monowi, Nebraska",
+    "category": "place",
+    "lat": 42.828611111111,
+    "lng": -98.329722222222,
+    "blurb": "Population: 1",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Population_sign%2C_Monowi%2C_Nebraska%2C_USA.jpg/330px-Population_sign%2C_Monowi%2C_Nebraska%2C_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Population_sign%2C_Monowi%2C_Nebraska%2C_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Population_sign,_Monowi,_Nebraska,_USA.jpg",
+      "license": "Public domain",
+      "attribution": "Bkell, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:01:05.353Z"
+  },
+  "good:Q29033855": {
+    "title": "Mr. Trash Wheel",
+    "category": "place",
+    "lat": 39.28333333333333,
+    "lng": -76.6036111111111,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mr._Trash_Wheel_%2827582099121%29.jpg/330px-Mr._Trash_Wheel_%2827582099121%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mr._Trash_Wheel_%2827582099121%29.jpg/3840px-Mr._Trash_Wheel_%2827582099121%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mr._Trash_Wheel_(27582099121).jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Matthew Bellemare, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:01:17.116Z"
+  },
+  "good:Q18154812": {
+    "title": "Murder Kroger",
+    "category": "place",
+    "lat": 33.7717,
+    "lng": -84.3635,
+    "blurb": "This (former) Kroger might just be cursed...",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:01:51.262Z"
+  },
+  "good:Q6968400": {
+    "title": "Nataqua Territory",
+    "category": "place",
+    "lat": 40.25,
+    "lng": -118.5,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Nixon_Nevada_vicinity.jpg/330px-Nixon_Nevada_vicinity.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Nixon_Nevada_vicinity.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Nixon_Nevada_vicinity.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Ken Lund from Las Vegas, Nevada, USA, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:02:32.204Z"
+  },
+  "good:Q6974537": {
+    "title": "National Mustard Museum",
+    "category": "place",
+    "lat": 43.0954,
+    "lng": -89.5111,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/MustardMuseum.jpg/330px-MustardMuseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/MustardMuseum.jpg/3840px-MustardMuseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://en.wikipedia.org/wiki/File:MustardMuseum.jpg",
+      "license": "GFDL",
+      "attribution": "Self-created photograph by Jonathunder, GFDL, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:02:40.814Z"
+  },
+  "good:Q104843088": {
+    "title": "Ned Flanders Crossing",
+    "category": "place",
+    "lat": 45.525555555555556,
+    "lng": -122.68666666666667,
+    "blurb": "This road was renamed for a Simpsons character that was named... for that same road.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flanders_Crossing_in_Portland%2C_Oregon_%282021%29.jpg/330px-Flanders_Crossing_in_Portland%2C_Oregon_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flanders_Crossing_in_Portland%2C_Oregon_%282021%29.jpg/3840px-Flanders_Crossing_in_Portland%2C_Oregon_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Flanders_Crossing_in_Portland,_Oregon_(2021).jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Steve Morgan, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:03:28.796Z"
+  },
+  "good:Q1132211": {
+    "title": "Nettilling Lake",
+    "category": "place",
+    "lat": 66.483333333333,
+    "lng": -70.333333333333,
+    "blurb": "This is the largest lake on an island, and additionally contains the largest lake on an island on a lake on an island, which also contains the largest lake on an island... you get the idea.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nettilling_Lake_2019-08-21_Sentinel-2_L2A_Highlight_Optimized_Natural_Color.jpg/330px-Nettilling_Lake_2019-08-21_Sentinel-2_L2A_Highlight_Optimized_Natural_Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Nettilling_Lake_2019-08-21_Sentinel-2_L2A_Highlight_Optimized_Natural_Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Nettilling_Lake_2019-08-21_Sentinel-2_L2A_Highlight_Optimized_Natural_Color.jpg",
+      "license": "Attribution",
+      "attribution": "Contains modified Copernicus Sentinel data 2019, Attribution, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:04:39.099Z"
+  },
+  "good:Q7041534": {
+    "title": "Nitt Witt Ridge",
+    "category": "place",
+    "lat": 35.5668,
+    "lng": -121.095,
+    "blurb": "A house built from re-appropriated trash.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nitt_Witt_Ridge_at_Cambria.jpg/330px-Nitt_Witt_Ridge_at_Cambria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nitt_Witt_Ridge_at_Cambria.jpg/3840px-Nitt_Witt_Ridge_at_Cambria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Nitt_Witt_Ridge_at_Cambria.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sanjay ach, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:05:16.116Z"
+  },
+  "good:Q309276": {
+    "title": "Northeast Greenland National Park",
+    "category": "place",
+    "lat": 77.2,
+    "lng": -37.5,
+    "blurb": "The world's largest national park, with no permanent human population.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Franz_Josef_Fjord%2C_glacier.jpg/330px-Franz_Josef_Fjord%2C_glacier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Franz_Josef_Fjord%2C_glacier.jpg/3840px-Franz_Josef_Fjord%2C_glacier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Franz_Josef_Fjord,_glacier.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Jerzy Strzelecki, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:05:36.515Z"
+  },
+  "good:Q2229230": {
+    "title": "North Oaks, Minnesota",
+    "category": "place",
+    "lat": 45.102777777778,
+    "lng": -93.079166666667,
+    "blurb": "This richest suburb of St. Paul loves its privacy - try to check it out on Google Maps!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2009-0810-NorthOaks-HillFarm.jpg/330px-2009-0810-NorthOaks-HillFarm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/2009-0810-NorthOaks-HillFarm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:2009-0810-NorthOaks-HillFarm.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:06:34.286Z"
+  },
+  "good:Q2001250": {
+    "title": "Northwest Angle",
+    "category": "place",
+    "lat": 49.266666666667,
+    "lng": -95.05,
+    "blurb": "Ever wonder what happens here?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NORTHWEST_Angle.png/330px-NORTHWEST_Angle.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/NORTHWEST_Angle.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:NORTHWEST_Angle.png",
+      "license": "Public domain",
+      "attribution": "The Illusional Ministry, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:07:06.147Z"
+  },
+  "good:Q2005637": {
+    "title": "Nutty Narrows Bridge",
+    "category": "place",
+    "lat": 46.14138888888889,
+    "lng": -122.94055555555556,
+    "blurb": "Squirrel bridge!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nutty_Narrows_Bridge_side_view%2C_2021_-_02.jpg/330px-Nutty_Narrows_Bridge_side_view%2C_2021_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Nutty_Narrows_Bridge_side_view%2C_2021_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Nutty_Narrows_Bridge_side_view,_2021_-_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "SounderBruce, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:07:27.309Z"
+  },
+  "good:Q1508103": {
+    "title": "Old Man of the Mountain",
+    "category": "place",
+    "lat": 44.1606203,
+    "lng": -71.6834169,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Old_Man_of_the_Mountain_4-26-03_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Old_Man_of_the_Mountain_4-26-03_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Old_Man_of_the_Mountain_4-26-03_(cropped).jpg",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:07:32.250Z"
+  },
+  "good:Q134429196": {
+    "title": "Park No. 474",
+    "category": "place",
+    "lat": 41.8355,
+    "lng": -87.62752777777777,
+    "blurb": "The smallest park in Chicago, which is effectively just a bench.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Park_No._474_in_Chicago_Illinois.jpg/330px-Park_No._474_in_Chicago_Illinois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/3/3a/Park_No._474_in_Chicago_Illinois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Park_No._474_in_Chicago_Illinois.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:07:59.700Z"
+  },
+  "good:Q9043320": {
+    "title": "Pee Pee Township, Ohio",
+    "category": "place",
+    "lat": 39.123055555556,
+    "lng": -83.000833333333,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LakeWhite2.JPG/330px-LakeWhite2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LakeWhite2.JPG/3840px-LakeWhite2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:LakeWhite2.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Aesopposea, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:08:38.416Z"
+  },
+  "good:Q505387": {
+    "title": "Perry County, Kentucky",
+    "category": "place",
+    "lat": 37.24,
+    "lng": -83.23,
+    "blurb": "Check out the cities this county boasts!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Perry_County_Courthouse%2C_Hazard.jpg/330px-Perry_County_Courthouse%2C_Hazard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Perry_County_Courthouse%2C_Hazard.jpg/3840px-Perry_County_Courthouse%2C_Hazard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Perry_County_Courthouse,_Hazard.jpg",
+      "license": "Public domain",
+      "attribution": "Nyttend, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:09:05.882Z"
+  },
+  "good:Q1203794": {
+    "title": "Point Roberts, Washington",
+    "category": "place",
+    "lat": 49,
+    "lng": -123.06472222222,
+    "blurb": "A quirky result of the 49th parallel.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Point_Roberts_Marina_Resort_%28August_6%2C_2026%29.jpg/330px-Point_Roberts_Marina_Resort_%28August_6%2C_2026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Point_Roberts_Marina_Resort_%28August_6%2C_2026%29.jpg/3840px-Point_Roberts_Marina_Resort_%28August_6%2C_2026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Point_Roberts_Marina_Resort_(August_6,_2026).jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Yuet Man Lee, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:09:52.446Z"
+  },
+  "good:Q17154775": {
+    "title": "Polar bear jail",
+    "category": "place",
+    "lat": 58.753680555555555,
+    "lng": -94.07382222222222,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bear_jail_%286360643033%29.jpg/330px-Bear_jail_%286360643033%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bear_jail_%286360643033%29.jpg/3840px-Bear_jail_%286360643033%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bear_jail_(6360643033).jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Emma, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:09:57.310Z"
+  },
+  "good:Q127220346": {
+    "title": "Poozeum",
+    "category": "place",
+    "lat": 35.25113888888889,
+    "lng": -112.18775,
+    "blurb": "For very old dung.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/Poozeum_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/Poozeum_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Poozeum_logo.png",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:10:13.630Z"
+  },
+  "good:Q3909800": {
+    "title": "Prada Marfa",
+    "category": "place",
+    "lat": 30.6034655,
+    "lng": -104.5184949,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2010-05-25_Prada_Marfa_front.jpg/330px-2010-05-25_Prada_Marfa_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/2010-05-25_Prada_Marfa_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:2010-05-25_Prada_Marfa_front.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "rob zand, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:10:19.018Z"
+  },
+  "good:Q7278592": {
+    "title": "Rabbit Hash, Kentucky",
+    "category": "place",
+    "lat": 38.942222222222,
+    "lng": -84.845833333333,
+    "blurb": "This town's mayors don't seem very politically-minded...",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rabbit_Hash_General_Store.jpg/330px-Rabbit_Hash_General_Store.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rabbit_Hash_General_Store.jpg/3840px-Rabbit_Hash_General_Store.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Rabbit_Hash_General_Store.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Ivan's Illyich, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:10:44.518Z"
+  },
+  "good:Q7284629": {
+    "title": "Rainbow Farm",
+    "category": "place",
+    "lat": 41.928,
+    "lng": -85.8715,
+    "blurb": "Hippie haven with a tragic end.",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:12:24.231Z"
+  },
+  "good:Q3304333": {
+    "title": "Republic of Indian Stream",
+    "category": "place",
+    "lat": 45.15,
+    "lng": -71.3333,
+    "blurb": "Was in fact a legally independent country from 1832 to 1835.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Indian_stream_map.png/330px-Indian_stream_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Indian_stream_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Indian_stream_map.png",
+      "license": "CC BY-SA 2.5",
+      "attribution": "The original uploader was Citynoise at English Wikipedia. Later versions were uploaded by AnonMoos at en.wikipedia., CC BY-SA 2.5, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:12:44.320Z"
+  },
+  "good:Q1155768": {
+    "title": "Republic of Molossia",
+    "category": "place",
+    "lat": 39.322805555556,
+    "lng": -119.53947222222,
+    "blurb": "Currently at war with East Germany.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Molossia_-_Government_House.jpg/330px-Molossia_-_Government_House.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Molossia_-_Government_House.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Molossia_-_Government_House.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Kevin Baugh or someone acting as an agent of Kevin Baugh, CC BY 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:13:19.065Z"
+  },
+  "good:Q1139488": {
+    "title": "Rocky Steps",
+    "category": "place",
+    "lat": 39.9649,
+    "lng": -75.1802,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Rocky_%281976%29_-_Rocky_Steps.ogv/330px--Rocky_%281976%29_-_Rocky_Steps.ogv.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Rocky_%281976%29_-_Rocky_Steps.ogv/500px--Rocky_%281976%29_-_Rocky_Steps.ogv.jpg",
+      "filePage": "https://en.wikipedia.org/wiki/File:Rocky_(1976)_-_Rocky_Steps.ogv",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:13:27.444Z"
+  },
+  "good:Q3458646": {
+    "title": "Rough and Ready, California",
+    "category": "place",
+    "lat": 39.230277777778,
+    "lng": -121.135,
+    "blurb": "Not just notable for its name, but also its secession and reentry (because the townspeople missed celebrating July 4th)",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rough_and_Ready%2C_California.jpg/330px-Rough_and_Ready%2C_California.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rough_and_Ready%2C_California.jpg/3840px-Rough_and_Ready%2C_California.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Rough_and_Ready,_California.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Cullen328, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:14:17.485Z"
+  },
+  "good:Q1622236": {
+    "title": "Saint-Louis-du-Ha! Ha!",
+    "category": "place",
+    "lat": 47.67027777777778,
+    "lng": -68.98166666666667,
+    "blurb": "Ha! Ha!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_view_of_Saint-Louis-du-Ha%21_Ha%21%2C_Qu%C3%A9bec.jpg/330px-Aerial_view_of_Saint-Louis-du-Ha%21_Ha%21%2C_Qu%C3%A9bec.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_view_of_Saint-Louis-du-Ha%21_Ha%21%2C_Qu%C3%A9bec.jpg/3840px-Aerial_view_of_Saint-Louis-du-Ha%21_Ha%21%2C_Qu%C3%A9bec.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Saint-Louis-du-Ha!_Ha!,_Qu%C3%A9bec.jpg",
+      "license": "CC BY 4.0",
+      "attribution": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:14:36.076Z"
+  },
+  "good:Q4263314": {
+    "title": "Sam Kee Building",
+    "category": "place",
+    "lat": 49.28044444444444,
+    "lng": -123.10477777777778,
+    "blurb": "In a bitter deadlock with Pittsburgh's Skinny Building over the rightful title of narrowest building.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sam_Kee_Building%2C_23_May_2024.jpg/330px-Sam_Kee_Building%2C_23_May_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sam_Kee_Building%2C_23_May_2024.jpg/3840px-Sam_Kee_Building%2C_23_May_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Sam_Kee_Building,_23_May_2024.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "李月文, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:15:15.929Z"
+  },
+  "good:Q14680697": {
+    "title": "Santa Claus, Arizona",
+    "category": "place",
+    "lat": 35.3367,
+    "lng": -114.216,
+    "blurb": "Santa supposedly once lived in this now-abandoned tourist trap.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SantaClausLandSalesOffice2008.jpg/330px-SantaClausLandSalesOffice2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/SantaClausLandSalesOffice2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:SantaClausLandSalesOffice2008.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Todd Huffman, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:15:46.665Z"
+  },
+  "good:Q1017618": {
+    "title": "Slab City, California",
+    "category": "place",
+    "lat": 33.2575,
+    "lng": -115.4625,
+    "blurb": "For people looking to live a little off the grid.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Slab_City_Welcome.jpg/330px-Slab_City_Welcome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Slab_City_Welcome.jpg/3840px-Slab_City_Welcome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Slab_City_Welcome.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "tuchodi, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:16:13.930Z"
+  },
+  "good:Q1922695": {
+    "title": "S.N.P.J., Pennsylvania",
+    "category": "place",
+    "lat": 40.92888888888889,
+    "lng": -80.49861111111112,
+    "blurb": "What could it stand for?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/SNPJ_welcome_sign.jpg/330px-SNPJ_welcome_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/SNPJ_welcome_sign.jpg/3840px-SNPJ_welcome_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:SNPJ_welcome_sign.jpg",
+      "license": "Public domain",
+      "attribution": "Nyttend, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-21T02:16:54.371Z"
+  },
+  "good:Q1557627": {
+    "title": "State of Franklin",
+    "category": "place",
+    "lat": 36.1667,
+    "lng": -82.8167,
+    "blurb": "One of the more plausible attempts to form a new state.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/State_of_Franklin_on_US_map.jpg/330px-State_of_Franklin_on_US_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/State_of_Franklin_on_US_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:State_of_Franklin_on_US_map.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Bennett1203, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:18:10.984Z"
+  },
+  "good:Q7603795": {
+    "title": "State of Scott",
+    "category": "place",
+    "lat": 36.43,
+    "lng": -84.51,
+    "blurb": "Seceded from Tennessee to protest its joining the confederacy, officially joined back all the way in 1986!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_the_United_States_%281861%E2%80%931863%29.svg/330px-Flag_of_the_United_States_%281861%E2%80%931863%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_the_United_States_%281861%E2%80%931863%29.svg/1280px-Flag_of_the_United_States_%281861%E2%80%931863%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_(1861%E2%80%931863).svg",
+      "license": "Public domain",
+      "attribution": "Jacobolus (SVG), Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:18:37.127Z"
+  },
+  "good:Q932203": {
+    "title": "Statue of Lenin (Seattle)",
+    "category": "place",
+    "lat": 47.6514,
+    "lng": -122.351,
+    "blurb": "Imported from Czechoslovakia!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Statue_of_Lenin_Seattle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Statue_of_Lenin_Seattle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Statue_of_Lenin_Seattle.jpg",
+      "license": "CC-BY-SA-2.0",
+      "attribution": "CC-BY-SA-2.0 — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:19:01.250Z"
+  },
+  "good:Q7628615": {
+    "title": "Stull, Kansas",
+    "category": "place",
+    "lat": 38.971111111111,
+    "lng": -95.456111111111,
+    "blurb": "The Devil is said to appear at its cemetery every Halloween.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stull_Intersection.JPG/330px-Stull_Intersection.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Stull_Intersection.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Stull_Intersection.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Bhall87 (talk), CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:19:39.239Z"
+  },
+  "good:Q2503988": {
+    "title": "Texas State Highway 165",
+    "category": "place",
+    "lat": 30.265878281141834,
+    "lng": -97.72582948684556,
+    "blurb": "Did this need to be a highway?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Texas_165.svg/330px-Texas_165.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Texas_165.svg/500px-Texas_165.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Texas_165.svg",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:20:12.167Z"
+  },
+  "good:Q473553": {
+    "title": "The Greenbrier",
+    "category": "place",
+    "lat": 37.7854,
+    "lng": -80.3083,
+    "blurb": "Check out its nuclear bunker!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Greenbrier1.jpg/330px-Greenbrier1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Greenbrier1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Greenbrier1.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Richard Rosendale, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:20:50.797Z"
+  },
+  "good:Q16985712": {
+    "title": "Track 61 (New York City)",
+    "category": "place",
+    "lat": 40.75638889,
+    "lng": -73.97416667,
+    "blurb": "Track 61 is a storage track abutting a private railroad platform on the Metro-North Railroad in Manhattan, New York City. It is located beneath the Waldorf Astoria New York hotel, within an underground storage yard northeast of Grand Central Terminal.",
+    "image": null,
+    "status": "skipped",
+    "reviewedAt": "2026-08-21T02:21:07.515Z"
+  },
+  "good:Q431932": {
+    "title": "Truth or Consequences, New Mexico",
+    "category": "place",
+    "lat": 33.133611111111,
+    "lng": -107.25277777778,
+    "blurb": "Named due to (and after) a radio show contest.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Broadway%2C_Truth_or_Consequences%2C_New_Mexico.jpg/330px-Broadway%2C_Truth_or_Consequences%2C_New_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Broadway%2C_Truth_or_Consequences%2C_New_Mexico.jpg/3840px-Broadway%2C_Truth_or_Consequences%2C_New_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Broadway,_Truth_or_Consequences,_New_Mexico.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Jeff Vincent, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:21:36.127Z"
+  },
+  "good:Q933185": {
+    "title": "U Thant Island",
+    "category": "place",
+    "lat": 40.746597222222,
+    "lng": -73.964386111111,
+    "blurb": "Island with a deceptively lengthy history",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Belmont_Island_view.jpg/330px-Belmont_Island_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Belmont_Island_view.jpg/3840px-Belmont_Island_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Belmont_Island_view.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sashimi-b, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:22:15.098Z"
+  },
+  "good:Q125620754": {
+    "title": "Vulcan Bridge",
+    "category": "place",
+    "lat": 37.55166666666667,
+    "lng": -82.12555555555555,
+    "blurb": "The Soviet Union almost funded this bridge's repairs",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vulcan_Bridge_-_Vulcan%2C_West_Virginia.jpg/330px-Vulcan_Bridge_-_Vulcan%2C_West_Virginia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vulcan_Bridge_-_Vulcan%2C_West_Virginia.jpg/3840px-Vulcan_Bridge_-_Vulcan%2C_West_Virginia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Vulcan_Bridge_-_Vulcan,_West_Virginia.jpg",
+      "license": "CC0",
+      "attribution": "Kentuckian, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:23:03.252Z"
+  },
+  "good:Q329614": {
+    "title": "Weather Station Kurt",
+    "category": "place",
+    "lat": 60.08338889,
+    "lng": -64.38077778,
+    "blurb": "The closest the Nazis got to North America.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weather_Station_Kurt%2C_Labrador.jpg/330px-Weather_Station_Kurt%2C_Labrador.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Weather_Station_Kurt%2C_Labrador.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Weather_Station_Kurt,_Labrador.jpg",
+      "license": "CC0",
+      "attribution": "Bundesarchiv, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:23:40.747Z"
+  },
+  "good:Q79716": {
+    "title": "Whittier, Alaska",
+    "category": "place",
+    "lat": 60.77305555555556,
+    "lng": -148.6838888888889,
+    "blurb": "This city lives almost entirely under one roof!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Whittier%2C_Alaska_aerial_view_2026.jpg/330px-Whittier%2C_Alaska_aerial_view_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Whittier%2C_Alaska_aerial_view_2026.jpg/3840px-Whittier%2C_Alaska_aerial_view_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Whittier,_Alaska_aerial_view_2026.jpg",
+      "license": "CC BY 4.0",
+      "attribution": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:24:10.724Z"
+  },
+  "good:Q608039": {
+    "title": "Winchester Mystery House",
+    "category": "place",
+    "lat": 37.31836,
+    "lng": -121.95076,
+    "blurb": "The mansion of a firearm magnate's family, now said to be haunted by the firearm's victims",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Winchester_Mystery_House_2023-07-17_02.jpg/330px-Winchester_Mystery_House_2023-07-17_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Winchester_Mystery_House_2023-07-17_02.jpg/3840px-Winchester_Mystery_House_2023-07-17_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Winchester_Mystery_House_2023-07-17_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "The wub, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:26:35.024Z"
+  },
+  "good:Q2343848": {
+    "title": "World's littlest skyscraper",
+    "category": "place",
+    "lat": 33.914444444444,
+    "lng": -98.489722222222,
+    "blurb": "I don't think I need to tell you it's a bit of a scam.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newby-McMahon_Building%2C_1919.JPG/330px-Newby-McMahon_Building%2C_1919.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Newby-McMahon_Building%2C_1919.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Newby-McMahon_Building,_1919.JPG",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Travis K. Witt, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:27:08.509Z"
+  },
+  "good:Q3317143": {
+    "title": "Zilwaukee, Michigan",
+    "category": "place",
+    "lat": 43.476388888889,
+    "lng": -83.920555555556,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zilwaukee%2C_MI_location.png/330px-Zilwaukee%2C_MI_location.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Zilwaukee%2C_MI_location.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Zilwaukee,_MI_location.png",
+      "license": "CC0",
+      "attribution": "Notorious4life (talk) (Uploads), CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-21T02:27:36.218Z"
+  },
+  "good:Q60745558": {
+    "title": "Zone of Death (Yellowstone)",
+    "category": "place",
+    "lat": 44.29,
+    "lng": -111.07,
+    "blurb": "Crimes can technically be committed here without any repercussions!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Yellowstone_Zone_of_Death.png/330px-Yellowstone_Zone_of_Death.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Yellowstone_Zone_of_Death.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Yellowstone_Zone_of_Death.png",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:28:08.801Z"
+  },
+  "good:Q16641": {
+    "title": "American Samoa",
+    "category": "place",
+    "lat": -14.295833,
+    "lng": -170.7075,
+    "blurb": "American Samoa is a self-governing, unincorporated and unorganized territory of the United States located in the south Pacific Ocean, within the Polynesia subregion of Oceania. Centered on 14.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/330px-Flag_of_American_Samoa.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1280px-Flag_of_American_Samoa.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Flag_of_American_Samoa.svg",
+      "license": "Public domain",
+      "attribution": "by Tobias Jakobs, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-21T02:28:19.408Z"
+  },
+  "good:Q804877": {
+    "title": "Baldwin Street",
+    "category": "place",
+    "lat": -45.849444444444,
+    "lng": 170.53472222222,
+    "blurb": "The world's steepest street",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Baldwinstreet.jpg/330px-Baldwinstreet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Baldwinstreet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Baldwinstreet.jpg",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:28:31.622Z"
+  },
+  "good:Q152872": {
+    "title": "Ball's Pyramid",
+    "category": "place",
+    "lat": -31.754166666667,
+    "lng": 159.25166666667,
+    "blurb": "Notable for its extremely rare stick insect",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Balls_Pyramid_near_Lord_Howe_Island.jpg/330px-Balls_Pyramid_near_Lord_Howe_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Balls_Pyramid_near_Lord_Howe_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Balls_Pyramid_near_Lord_Howe_Island.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "JillBBruce, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:29:02.723Z"
+  },
+  "good:Q4855829": {
+    "title": "Banjawarn Station",
+    "category": "place",
+    "lat": -27.7033,
+    "lng": 121.613,
+    "blurb": "A Japanese cult possibly tested its own nuclear weapons here",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:29:32.639Z"
+  },
+  "good:Q104847682": {
+    "title": "Bayswater Subway",
+    "category": "place",
+    "lat": -31.91838,
+    "lng": 115.91142,
+    "blurb": "On the \"List of bridges known for strikes\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bayswater_Bridge_August_2020.jpg/330px-Bayswater_Bridge_August_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bayswater_Bridge_August_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bayswater_Bridge_August_2020.jpg",
+      "license": "CC BY 2.5 au",
+      "attribution": "Photographs by JarrahTree...commons.wikimedia.org, CC BY 2.5 au, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:30:01.804Z"
+  },
+  "good:Q2026998": {
+    "title": "Burning Mountain",
+    "category": "place",
+    "lat": -31.863888888889,
+    "lng": 150.90583333333,
+    "blurb": "It's been on fire for about 6,000 years",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Burning_Mountain_Summit.jpg/330px-Burning_Mountain_Summit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Burning_Mountain_Summit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Burning_Mountain_Summit.jpg",
+      "license": "Public domain",
+      "attribution": "Beruthiel at English Wikipedia, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:30:20.316Z"
+  },
+  "good:Q528852": {
+    "title": "Cardrona Bra Fence",
+    "category": "place",
+    "lat": -44.860432,
+    "lng": 169.022169,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cardrona_bra_fence.jpg/330px-Cardrona_bra_fence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Cardrona_bra_fence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cardrona_bra_fence.jpg",
+      "license": "CC BY-SA 2.5",
+      "attribution": "The original uploader was (nz)dave at English Wikipedia. (Original text: D Rout), CC BY-SA 2.5, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:30:28.831Z"
+  },
+  "good:Q779188": {
+    "title": "Coober Pedy",
+    "category": "place",
+    "lat": -29.013888888889,
+    "lng": 134.755,
+    "blurb": "Fascinating town with a sprawling underground complex",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Coober_Pedy_-_panoramio_%284%29.jpg/330px-Coober_Pedy_-_panoramio_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Coober_Pedy_-_panoramio_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Coober_Pedy_-_panoramio_(4).jpg",
+      "license": "CC BY 3.0",
+      "attribution": "qwesy qwesy, CC BY 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:30:53.088Z"
+  },
+  "good:Q1298247": {
+    "title": "Egmont National Park",
+    "category": "place",
+    "lat": -39.266666666667,
+    "lng": 174.1,
+    "blurb": "Egmont National Park, officially known as Te Papa-Kura-o-Taranaki, is a national park located south of New Plymouth, close to the west coast of the North Island of New Zealand. The park covers three volcanic cones: Mount Taranaki and its slopes, Pouākai and Kaitake.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Egmont_National_Park%2C_December_2015%2C_New_Zealand_%2842%29.JPG/330px-Egmont_National_Park%2C_December_2015%2C_New_Zealand_%2842%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Egmont_National_Park%2C_December_2015%2C_New_Zealand_%2842%29.JPG/3840px-Egmont_National_Park%2C_December_2015%2C_New_Zealand_%2842%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Egmont_National_Park,_December_2015,_New_Zealand_(42).JPG",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-21T02:31:14.099Z"
+  },
+  "good:Q1476628": {
+    "title": "Horizontal Falls",
+    "category": "place",
+    "lat": -16.38,
+    "lng": 123.95916667,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Horizontal_Falls.jpg/330px-Horizontal_Falls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Horizontal_Falls.jpg/3840px-Horizontal_Falls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Horizontal_Falls.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Reefpix, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:31:56.304Z"
+  },
+  "good:Q1339937": {
+    "title": "Hundertwasser Toilets",
+    "category": "place",
+    "lat": -35.38006,
+    "lng": 174.066999,
+    "blurb": "One of the most ornate places to take a dump",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hundertwasser_Toilets_-_Back_Wall_2023.jpg/330px-Hundertwasser_Toilets_-_Back_Wall_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hundertwasser_Toilets_-_Back_Wall_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Hundertwasser_Toilets_-_Back_Wall_2023.jpg",
+      "license": "CC BY 4.0",
+      "attribution": "Saycheeselouise, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:32:24.030Z"
+  },
+  "good:Q3143318": {
+    "title": "Hunga Tonga–Hunga Haʻapai",
+    "category": "place",
+    "lat": -20.545,
+    "lng": -175.3925,
+    "blurb": "These islands temporarily became one due to a volcanic explosion... until they were split apart again seven years later.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_on_Sentinel-2_L2A_21_February_2022_%28cropped%29.jpg/330px-Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_on_Sentinel-2_L2A_21_February_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_on_Sentinel-2_L2A_21_February_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_on_Sentinel-2_L2A_21_February_2022_(cropped).jpg",
+      "license": "CC BY-SA 3.0 igo",
+      "attribution": "ESA / Copernicus Sentinel-2 L2A, CC BY-SA 3.0 igo, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:33:13.584Z"
+  },
+  "good:Q263422": {
+    "title": "Jellyfish Lake",
+    "category": "place",
+    "lat": 7.1611111111111,
+    "lng": 134.37611111111,
+    "blurb": "A case of genetic isolation where jellyfish evolved without stingers due to a lack of natural predators.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jellyfish_Lake_aerial_%28March_2008%29.jpg/330px-Jellyfish_Lake_aerial_%28March_2008%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Jellyfish_Lake_aerial_%28March_2008%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Jellyfish_Lake_aerial_(March_2008).jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Lukas from Munich, Germany, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:33:54.583Z"
+  },
+  "good:Q15577": {
+    "title": "Jervis Bay Territory",
+    "category": "place",
+    "lat": -35.1512,
+    "lng": 150.6905,
+    "blurb": "The Jervis Bay Territory is an internal territory of Australia. It was established in 1915 by the transfer of jurisdiction from the state of New South Wales to the federal Commonwealth of Australia, in order to give the federal government control of a port in the vicinity of the landlocked Australian Capital Territory (ACT).",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jervis_Bay_Territory_in_Australia_%28close_zoom%29.svg/330px-Jervis_Bay_Territory_in_Australia_%28close_zoom%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jervis_Bay_Territory_in_Australia_%28close_zoom%29.svg/3840px-Jervis_Bay_Territory_in_Australia_%28close_zoom%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Jervis_Bay_Territory_in_Australia_(close_zoom).svg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "TUBS, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-21T02:34:16.430Z"
+  },
+  "good:Q494546": {
+    "title": "Kalawao County, Hawaii",
+    "category": "place",
+    "lat": 21.196944444444,
+    "lng": -156.96722222222,
+    "blurb": "Former leper colony, now the smallest county by area",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kalaupapa_penninsula.jpg/330px-Kalaupapa_penninsula.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kalaupapa_penninsula.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kalaupapa_penninsula.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Djzanni at the English-language Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:34:41.329Z"
+  },
+  "good:Q130895": {
+    "title": "Kingman Reef",
+    "category": "place",
+    "lat": 6.3833333333333,
+    "lng": -162.41666666667,
+    "blurb": "Technically a US overseas territory despite its small size and being... underwater",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kingman_Reef_NWR._Photo_credit-_Susan_White-USFWS_%2812198955306%29.jpg/330px-Kingman_Reef_NWR._Photo_credit-_Susan_White-USFWS_%2812198955306%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Kingman_Reef_NWR._Photo_credit-_Susan_White-USFWS_%2812198955306%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kingman_Reef_NWR._Photo_credit-_Susan_White-USFWS_(12198955306).jpg",
+      "license": "Public domain",
+      "attribution": "USFWS - Pacific Region, Susan White/USFWS, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-21T02:35:07.384Z"
   }
 }
