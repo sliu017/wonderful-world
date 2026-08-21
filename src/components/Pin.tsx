@@ -26,6 +26,12 @@ interface PinProps {
     width?: number
 }
 
+// section retrieved directly from Wikipedia, it will display below the blurb in its own section
+interface Excerpt {
+    excerpt: string | null,
+    articleUrl?: string
+}
+
 function parseImage(image: PinProperties['image']): PinImage | null {
     if (!image) return null;
     if (typeof image !== 'string') return image;
@@ -39,6 +45,21 @@ function parseImage(image: PinProperties['image']): PinImage | null {
 export default function Pin({pin, onClose, width}: PinProps) {
     const image = parseImage(pin.image);
     const credit = [image?.attribution, image?.license].filter(Boolean).join(' · ');
+
+    const [excerptItem, setExcerptItem] = React.useState<Excerpt | null>(null);
+    React.useEffect(() => {
+        const ac = new AbortController(); // can stop ongoing async tasks
+        setExcerptItem(null);
+        fetch(`/api/wiki/${encodeURIComponent(pin.title)}`, {signal: ac.signal})
+            .then((res) => res.json())
+            .then(setExcerptItem)
+            .catch((err) => {
+                if(err.name !== 'AbortError'){
+                    console.error('[pin] failed to fetch excerpt for ', pin.title, err);
+                }
+            }); // errors expected due to AbortController aborting, catch nonstandard ones
+        return () => ac.abort();
+    }, [pin.title]);
 
     // keeps the card in the keyboard tab order without the browser scrolling
     const cardRef = React.useRef<HTMLDivElement>(null);
@@ -84,6 +105,22 @@ export default function Pin({pin, onClose, width}: PinProps) {
                 </a> 
             </h3>
             <p className="pin__blurb">{pin.blurb}</p>
+
+            {excerptItem?.excerpt && (
+                <section className="pin__excerpt">
+                    <h4 className="pin__excerpt-label">From Wikipedia</h4>
+                    <p className="pin__excerpt-text">{excerptItem.excerpt}</p>
+                    {excerptItem.articleUrl &&
+                        <a 
+                        className="pin__excerpt-link" 
+                        href={excerptItem.articleUrl}
+                        target="_blank"
+                        rel="noopener noreferrer">
+                            Read the full article &rarr;
+                        </a>}
+                </section>
+            )
+            }
         </div>
     </div>
     )

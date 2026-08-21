@@ -79,7 +79,7 @@ function App() {
 
   // allows for popup to scale with zoom, uses a slope formula to determine max 
   const popupWidth = Math.round(
-    Math.min(280, Math.max(280, 380 - (zoom - 2) * 10))
+    Math.min(260, Math.max(260, 380 - (zoom - 2) * 10))
   );
 
   const layerStyle: LayerProps = {
@@ -144,7 +144,9 @@ function App() {
           longitude={selectedPin.lng}
           latitude={selectedPin.lat}
           onClose = {() => setSelectedPin(null)}
-          anchor="bottom"
+          // no fixed anchor: MapLibre flips the card below/beside the marker
+          // when there isn't room above, so the image can't run off the top
+          offset={12}
           className="pin-popup"
           closeButton={false} // we will create a custom close button
           maxWidth="none"

@@ -2,6 +2,7 @@ import pool from './db'
 import './redis'
 import express from 'express'
 import pinsRouter from './routes/pins'
+import wikiRouter from './routes/wiki'
 
 const app = express();
 app.use(express.json());
@@ -13,6 +14,7 @@ app.get('/api/ping', async (req, res) => {
 });
 
 app.use('/api/pins', pinsRouter);
+app.use('/api/wiki', wikiRouter);
 
 const PORT = process.env.PORT || 3005;
 app.listen(PORT, () => {
