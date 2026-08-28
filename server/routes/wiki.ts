@@ -17,9 +17,7 @@ router.get('/:title', async (req,res) => {
 
         return res.json({
             title: data.title,
-            description: data.description,
             excerpt: data.excerpt,
-            excerptHtml: data.excerptHtml,
             articleUrl: data.articleUrl
         });
     } catch (err) {

@@ -6688,5 +6688,807 @@
     },
     "status": "confirmed",
     "reviewedAt": "2026-08-21T02:35:07.384Z"
+  },
+  "good:Q60749688": {
+    "title": "Montague Street Bridge",
+    "category": "place",
+    "lat": -37.82983,
+    "lng": 144.94928,
+    "blurb": "Has its own website counting the number of days since it's been hit by a truck.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Montague_Street_Bridge.jpg/330px-Montague_Street_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Montague_Street_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Montague_Street_Bridge.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Philip Mallis, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:13:29.837Z"
+  },
+  "good:Q6924676": {
+    "title": "Mount Wycheproof",
+    "category": "place",
+    "lat": -36.076944444444,
+    "lng": 143.23388888889,
+    "blurb": "Mount Wycheproof is a location in the small town of Wycheproof, Victoria, Australia, which stands at 42 metres (138 ft) above the surrounding terrain and 147 metres above sea level. The township of Wycheproof is located on the hillside, and a unique geological substance known as Wycheproofite is exclusive to the local area.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mt._Wycheproof_Lookout.jpg/330px-Mt._Wycheproof_Lookout.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mt._Wycheproof_Lookout.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mt._Wycheproof_Lookout.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Prince Roy, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-22T14:13:52.787Z"
+  },
+  "good:Q916411": {
+    "title": "Murray Valley Highway",
+    "category": "place",
+    "lat": -34.5576,
+    "lng": 142.7573,
+    "blurb": "Murray Valley Highway is a 663-kilometre (412 mi) rural highway located in Victoria, Australia, between Euston, New South Wales and Corryong, Victoria. The popular tourist route mostly follows the southern bank of the Murray River and effectively acts as the northernmost highway in Victoria.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NathaliaMainStreet.JPG/330px-NathaliaMainStreet.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/NathaliaMainStreet.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:NathaliaMainStreet.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "I, Mattinbgn, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-22T14:14:17.000Z"
+  },
+  "good:Q7015723": {
+    "title": "State Highway 78 (New Zealand)",
+    "category": "place",
+    "lat": -44.39054,
+    "lng": 171.251244,
+    "blurb": "New Zealand's shortest state highway",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/State_Highway_78_NZ.svg/250px-State_Highway_78_NZ.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/State_Highway_78_NZ.svg/250px-State_Highway_78_NZ.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "filePage": "",
+      "license": "",
+      "attribution": "By Andy king50 - Own work, NZTA-Sign-Spec, https://commons.wikimedia.org/w/index.php?curid=6892108",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:14:43.872Z"
+  },
+  "good:Q515229": {
+    "title": "Ngerulmud",
+    "category": "place",
+    "lat": 7.500556,
+    "lng": 134.624167,
+    "blurb": "This national capital has a permanent population of precisely zero.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Capitol%2C_Melekeok%2C_Palau.jpg/330px-Capitol%2C_Melekeok%2C_Palau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Capitol%2C_Melekeok%2C_Palau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Capitol,_Melekeok,_Palau.jpg",
+      "license": "CC-BY-2.0",
+      "attribution": "Lukas, CC-BY-2.0, via Wikipedia",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:15:06.919Z"
+  },
+  "good:Q1186221": {
+    "title": "Ninety Mile Beach, New Zealand",
+    "category": "place",
+    "lat": -34.779802,
+    "lng": 172.981986,
+    "blurb": "It is in fact fifty-five miles long.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ninety_Mile_Beach_looking_south.jpg/330px-Ninety_Mile_Beach_looking_south.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ninety_Mile_Beach_looking_south.jpg/3840px-Ninety_Mile_Beach_looking_south.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ninety_Mile_Beach_looking_south.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "ShakyIsles, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:15:34.094Z"
+  },
+  "good:Q123076": {
+    "title": "Palmyra Atoll",
+    "category": "place",
+    "lat": 5.8833333333333,
+    "lng": -162.08333333333,
+    "blurb": "Palmyra Atoll, or Palmyra Island, is a small, low-lying, uninhabited atoll in the central Pacific Ocean that is a Territory of the United States and insular area; it is the only officially incorporated territory in the Union. It is one of the Northern Line Islands, and is located almost due south of the Hawaiian Islands, roughly one-third of the way between Hawaii and American Samoa.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Palmyra_Atoll_Visitor_Access_Map.jpg/330px-Palmyra_Atoll_Visitor_Access_Map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Palmyra_Atoll_Visitor_Access_Map.jpg/3840px-Palmyra_Atoll_Visitor_Access_Map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Palmyra_Atoll_Visitor_Access_Map.jpg",
+      "license": "Public domain",
+      "attribution": "United States Fish and Wildlife Service, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-22T14:15:56.200Z"
+  },
+  "good:Q35672": {
+    "title": "Pitcairn Islands",
+    "category": "place",
+    "lat": -25.0677812,
+    "lng": -130.1045778,
+    "blurb": "Islands with a population descended from a group of mutineers. Unrelated, a third of the island's men was once convicted in the same trial.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/330px-Flag_of_the_Pitcairn_Islands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/1280px-Flag_of_the_Pitcairn_Islands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Pitcairn_Islands.svg",
+      "license": "Public domain",
+      "attribution": "User:Dbenbenn, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:17:00.511Z"
+  },
+  "good:Q1520438": {
+    "title": "Pink Lake (Western Australia)",
+    "category": "place",
+    "lat": -33.8453,
+    "lng": 121.828,
+    "blurb": "Formerly pink lake that recently turned blue.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pink_Lake_Sunset.jpg/330px-Pink_Lake_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pink_Lake_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Pink_Lake_Sunset.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Halok, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:17:27.154Z"
+  },
+  "good:Q1045888": {
+    "title": "Puncak Jaya",
+    "category": "place",
+    "lat": -4.0833333333333,
+    "lng": 137.18333333333,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Carstenzs_Piramida_Mountain.jpg/330px-Carstenzs_Piramida_Mountain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Carstenzs_Piramida_Mountain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Carstenzs_Piramida_Mountain.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Enda Kaban, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-22T14:17:50.189Z"
+  },
+  "good:Q80326": {
+    "title": "Sandy Island, New Caledonia",
+    "category": "place",
+    "lat": -19.225,
+    "lng": 159.925,
+    "blurb": "An island that was recently \"undiscovered\".",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sandy_Island_%28Alleged_Location%29_2002-01-10%2C_Landsat_7_ETM%2B.png/330px-Sandy_Island_%28Alleged_Location%29_2002-01-10%2C_Landsat_7_ETM%2B.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sandy_Island_%28Alleged_Location%29_2002-01-10%2C_Landsat_7_ETM%2B.png/3840px-Sandy_Island_%28Alleged_Location%29_2002-01-10%2C_Landsat_7_ETM%2B.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Sandy_Island_(Alleged_Location)_2002-01-10,_Landsat_7_ETM%2B.png",
+      "license": "Public domain",
+      "attribution": "NASA, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:18:30.797Z"
+  },
+  "good:Q87853284": {
+    "title": "That Wānaka Tree",
+    "category": "place",
+    "lat": -44.6982909,
+    "lng": 169.1171182,
+    "blurb": "This tree was formerly named after an Instagram hashtag.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/ThatWanakaTree_at_Sunrise.jpg/330px-ThatWanakaTree_at_Sunrise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/ThatWanakaTree_at_Sunrise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:ThatWanakaTree_at_Sunrise.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "AJMANDELL1, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:18:53.695Z"
+  },
+  "good:Q791": {
+    "title": "Taumatawhakatangi­hangakoauauotamatea­turipukakapikimaunga­horonukupokaiwhen­uakitanatahu",
+    "category": "place",
+    "lat": -40.346,
+    "lng": 176.5402,
+    "blurb": "This hill might have the longest place name in the world.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Taumatawhakatangi%C2%ADhangakoauauotamatea%C2%ADturipukakapikimaunga%C2%ADhoronukupokaiwhen%C2%ADuakitanatahu_sign.jpg/330px-Taumatawhakatangi%C2%ADhangakoauauotamatea%C2%ADturipukakapikimaunga%C2%ADhoronukupokaiwhen%C2%ADuakitanatahu_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Taumatawhakatangi%C2%ADhangakoauauotamatea%C2%ADturipukakapikimaunga%C2%ADhoronukupokaiwhen%C2%ADuakitanatahu_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Taumatawhakatangi%C2%ADhangakoauauotamatea%C2%ADturipukakapikimaunga%C2%ADhoronukupokaiwhen%C2%ADuakitanatahu_sign.jpg",
+      "license": "Public domain",
+      "attribution": "Mattgrosso at English Wikipedia, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:20:00.509Z"
+  },
+  "good:Q7691001": {
+    "title": "Te Urewera",
+    "category": "place",
+    "lat": -38.45,
+    "lng": 177.05,
+    "blurb": "This forest is, legally, a person.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lake_Waikaremoana%2C_Urewera%2C_New_Zealand%2C_13th._Dec_2010_-_Flickr_-_PhillipC.jpg/330px-Lake_Waikaremoana%2C_Urewera%2C_New_Zealand%2C_13th._Dec_2010_-_Flickr_-_PhillipC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lake_Waikaremoana%2C_Urewera%2C_New_Zealand%2C_13th._Dec_2010_-_Flickr_-_PhillipC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lake_Waikaremoana,_Urewera,_New_Zealand,_13th._Dec_2010_-_Flickr_-_PhillipC.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Phillip Capper from Wellington, New Zealand, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:20:25.451Z"
+  },
+  "good:Q1940419": {
+    "title": "Whanganui River",
+    "category": "place",
+    "lat": -39.1294,
+    "lng": 175.6342,
+    "blurb": "A river that is, legally, a person.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Whanganui_River.jpg/330px-Whanganui_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Whanganui_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Whanganui_River.jpg",
+      "license": "CC BY 2.5",
+      "attribution": "Unknown author, CC BY 2.5, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:20:40.650Z"
+  },
+  "good:Q23073909": {
+    "title": "Wedding Cake Rock",
+    "category": "place",
+    "lat": -34.10966667,
+    "lng": 151.15241667,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Travellers_at_Wedding_Cake_Rock%2C_December_2014.jpg/330px-Travellers_at_Wedding_Cake_Rock%2C_December_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Travellers_at_Wedding_Cake_Rock%2C_December_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Travellers_at_Wedding_Cake_Rock,_December_2014.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Philip Terry Graham, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:20:54.173Z"
+  },
+  "good:Q737089": {
+    "title": "Whangamōmona",
+    "category": "place",
+    "lat": -39.145,
+    "lng": 174.739,
+    "blurb": "Whangamōmona is a township in the Stratford District and Manawatū–Whanganui Region of New Zealand. It lies on State Highway 43, the \"Forgotten World Highway\", 65 kilometres (40 mi) north-east of Stratford and 55 kilometres (34 mi) south-west of Ōhura.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Whangamomona_Hotel.jpg/330px-Whangamomona_Hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Whangamomona_Hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Whangamomona_Hotel.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Robyn Gallagher from Auckland, New Zealand, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-22T14:22:05.706Z"
+  },
+  "good:Q1350221": {
+    "title": "Erfurt latrine disaster",
+    "category": "place",
+    "lat": 50.9781,
+    "lng": 11.0289,
+    "blurb": "Has to be one of the worst ways to go out.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Codex_Manesse_Heinrich_VI._%28HRR%29.jpg/330px-Codex_Manesse_Heinrich_VI._%28HRR%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Codex_Manesse_Heinrich_VI._%28HRR%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Codex_Manesse_Heinrich_VI._(HRR).jpg",
+      "license": "Public domain",
+      "attribution": "Master of the Codex Manesse, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:23:01.417Z"
+  },
+  "good:Q3052463": {
+    "title": "Cock Lane ghost",
+    "category": "place",
+    "lat": 51.5172,
+    "lng": -0.1024,
+    "blurb": "One of the earliest ghost stories drawing massive media attention, and subsequent exposure as a hoax. (Spoilers!)",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cock_lane_ghost.png/330px-Cock_lane_ghost.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cock_lane_ghost.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cock_lane_ghost.png",
+      "license": "Public domain",
+      "attribution": "Unknown (not noted in book), the Office of the National Illustrated Library no longer exists and it is very unlikely its records of its illustrators are preserved to this date., Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:24:45.809Z"
+  },
+  "good:Q1166080": {
+    "title": "Darien scheme",
+    "category": "place",
+    "lat": 8.834166666666667,
+    "lng": -77.63333333333334,
+    "blurb": "Scotland's attempt to colonize uninhabitable parts of Panama, with far-reaching consequences.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_the_Company_of_Scotland_Trading_to_Africa_and_the_Indies.svg/330px-Flag_of_the_Company_of_Scotland_Trading_to_Africa_and_the_Indies.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_the_Company_of_Scotland_Trading_to_Africa_and_the_Indies.svg/960px-Flag_of_the_Company_of_Scotland_Trading_to_Africa_and_the_Indies.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Company_of_Scotland_Trading_to_Africa_and_the_Indies.svg",
+      "license": "CC0",
+      "attribution": "Milenioscuro, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:25:33.072Z"
+  },
+  "good:Q536822": {
+    "title": "Diet of Worms",
+    "category": "place",
+    "lat": 49.6319,
+    "lng": 8.3653,
+    "blurb": "The Diet of Worms of 1521 was an imperial diet of the Holy Roman Empire called by Emperor Charles V and conducted in the Imperial Free City of Worms. Martin Luther was summoned to the diet in order to renounce or reaffirm his views in response to a Papal bull of Pope Leo X.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%D0%9B%D1%8E%D1%82%D0%B5%D1%80_%D0%B2_%D0%92%D0%BE%D1%80%D0%BC%D1%81%D0%B5.jpg/330px-%D0%9B%D1%8E%D1%82%D0%B5%D1%80_%D0%B2_%D0%92%D0%BE%D1%80%D0%BC%D1%81%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%D0%9B%D1%8E%D1%82%D0%B5%D1%80_%D0%B2_%D0%92%D0%BE%D1%80%D0%BC%D1%81%D0%B5.jpg/3840px-%D0%9B%D1%8E%D1%82%D0%B5%D1%80_%D0%B2_%D0%92%D0%BE%D1%80%D0%BC%D1%81%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:%D0%9B%D1%8E%D1%82%D0%B5%D1%80_%D0%B2_%D0%92%D0%BE%D1%80%D0%BC%D1%81%D0%B5.jpg",
+      "license": "Public domain",
+      "attribution": "Anton von Werner, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-22T14:25:48.876Z"
+  },
+  "good:Q4702067": {
+    "title": "May 1605 conclave",
+    "category": "place",
+    "lat": 41.90361111,
+    "lng": 12.45638889,
+    "blurb": "This conclave resulted in significant physical injury due to a brawl amongst the cardinals.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pope_Paul_V_%28cropped_2%29.jpg/330px-Pope_Paul_V_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pope_Paul_V_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Pope_Paul_V_(cropped_2).jpg",
+      "license": "Public domain",
+      "attribution": "Attributed to Caravaggio, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:26:37.126Z"
+  },
+  "good:Q66761981": {
+    "title": "Dublin whiskey fire",
+    "category": "place",
+    "lat": 53.338,
+    "lng": -6.279,
+    "blurb": "Thirteen people died, not due to the fire, but from drinking the free (undiluted) alcohol.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Whiskey_Fire_Dublin.png/330px-Whiskey_Fire_Dublin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Whiskey_Fire_Dublin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Whiskey_Fire_Dublin.png",
+      "license": "Public domain",
+      "attribution": "Illustrated London News, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:27:23.340Z"
+  },
+  "good:Q546233": {
+    "title": "Great Stink",
+    "category": "place",
+    "lat": 51.5073,
+    "lng": 0.12755,
+    "blurb": "When London smelled so bad the government was forced to step in.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_silent_highwayman.jpg/330px-The_silent_highwayman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/The_silent_highwayman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_silent_highwayman.jpg",
+      "license": "Public domain",
+      "attribution": "Punch Magazine, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:27:40.950Z"
+  },
+  "good:Q2783102": {
+    "title": "London Beer Flood",
+    "category": "place",
+    "lat": 51.51656,
+    "lng": -0.13014,
+    "blurb": "Nine drowned in this great flood of liquor.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Horseshoe_Brewery%2C_London%2C_c._1800.jpg/330px-Horseshoe_Brewery%2C_London%2C_c._1800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Horseshoe_Brewery%2C_London%2C_c._1800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Horseshoe_Brewery,_London,_c._1800.jpg",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:28:08.009Z"
+  },
+  "good:Q139329722": {
+    "title": "Toronto circus riot",
+    "category": "place",
+    "lat": 43.650555555555556,
+    "lng": -79.36611111111111,
+    "blurb": "When clowns fight back",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/St._Lawrence_Market_by_Micklethwaite.jpg/330px-St._Lawrence_Market_by_Micklethwaite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/St._Lawrence_Market_by_Micklethwaite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:St._Lawrence_Market_by_Micklethwaite.jpg",
+      "license": "Public domain",
+      "attribution": "F. W. Micklethwaite, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:28:29.213Z"
+  },
+  "good:Q3284177": {
+    "title": "Assassination of Olof Palme",
+    "category": "place",
+    "lat": 59.3366,
+    "lng": 18.0628,
+    "blurb": "The assassination of Sweden's prime minister that endures as one of the country's greatest mysteries.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Palme_Trauer_1986.jpg/330px-Palme_Trauer_1986.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Palme_Trauer_1986.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Palme_Trauer_1986.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Holger Ellgaard, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:29:15.225Z"
+  },
+  "good:Q644439": {
+    "title": "COINTELPRO",
+    "category": "place",
+    "lat": 38.89527777777778,
+    "lng": -77.025,
+    "blurb": "COINTELPRO was a series of covert projects conducted between 1956 and 1971 by the United States Federal Bureau of Investigation (FBI) aimed at surveilling, infiltrating, discrediting, and disrupting American political parties and organizations that the FBI perceived as subversive.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/COINTELPRO_-_Jean_Seberg.jpg/330px-COINTELPRO_-_Jean_Seberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/COINTELPRO_-_Jean_Seberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:COINTELPRO_-_Jean_Seberg.jpg",
+      "license": "Public domain",
+      "attribution": "Richard W. Held, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-22T14:29:49.474Z"
+  },
+  "good:Q51476459": {
+    "title": "East Germany balloon escape",
+    "category": "place",
+    "lat": 50.483069444444446,
+    "lng": 11.59133888888889,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg/330px-Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg/3840px-Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Guenter_Wetzel,_Doris_Strelzyk_and_Peter_Strelzyk.jpg",
+      "license": "CC BY 4.0",
+      "attribution": "Ken Hively, Los Angeles Times, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:30:28.456Z"
+  },
+  "good:Q1129089": {
+    "title": "Great Molasses Flood",
+    "category": "place",
+    "lat": 42.3685,
+    "lng": -71.055833333333,
+    "blurb": "Molasses has never moved so fast.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/BostonMolassesDisaster.jpg/330px-BostonMolassesDisaster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/BostonMolassesDisaster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:BostonMolassesDisaster.jpg",
+      "license": "Public domain",
+      "attribution": "BPL, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:31:04.625Z"
+  },
+  "good:Q659385": {
+    "title": "North Hollywood shootout",
+    "category": "place",
+    "lat": 34.1914,
+    "lng": -118.3949,
+    "blurb": "Two HEAVILY armed perpetrators and an intense shootout. Miraculously, only the two robbers died.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mugshot_of_Larry_Phillips_Jr._in_1993.jpg/330px-Mugshot_of_Larry_Phillips_Jr._in_1993.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mugshot_of_Larry_Phillips_Jr._in_1993.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mugshot_of_Larry_Phillips_Jr._in_1993.jpg",
+      "license": "CC0",
+      "attribution": "California Glendale Police Department., CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:32:36.647Z"
+  },
+  "good:Q494418": {
+    "title": "Rangoon bombing",
+    "category": "place",
+    "lat": 16.802536,
+    "lng": 96.147658,
+    "blurb": "Relatively unknown act of North Korean violence.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chun_Doo-hwan.png/330px-Chun_Doo-hwan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chun_Doo-hwan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Chun_Doo-hwan.png",
+      "license": "Public domain",
+      "attribution": "TEMPLETON, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:33:08.854Z"
+  },
+  "good:Q112967003": {
+    "title": "Assassination of Shinzo Abe",
+    "category": "place",
+    "lat": 34.69405555555556,
+    "lng": 135.78391666666667,
+    "blurb": "On 8 July 2022, Shinzo Abe, the former prime minister of Japan and serving member of the Japanese House of Representatives, was assassinated while speaking at a political event outside Yamato-Saidaiji Station in Nara City, Nara Prefecture. Abe was delivering a campaign speech for a Liberal Democratic Party (LDP) candidate when he was fatally shot by 41-year-old Tetsuya Yamagami with an improvised firearm.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_vicinity_of_Kintetsu_Yamato-Saidaiji_station_northern_entrance_on_8th_July_2022.jpg/330px-The_vicinity_of_Kintetsu_Yamato-Saidaiji_station_northern_entrance_on_8th_July_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/The_vicinity_of_Kintetsu_Yamato-Saidaiji_station_northern_entrance_on_8th_July_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_vicinity_of_Kintetsu_Yamato-Saidaiji_station_northern_entrance_on_8th_July_2022.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-08-22T14:33:20.744Z"
+  },
+  "good:Q60630897": {
+    "title": "Pepsi fruit juice flood",
+    "category": "place",
+    "lat": 53.01203,
+    "lng": 39.15004,
+    "blurb": "",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:33:36.783Z"
+  },
+  "good:Q1090034": {
+    "title": "Manhattanhenge",
+    "category": "place",
+    "lat": 40.7283,
+    "lng": -73.9942,
+    "blurb": "A bi-annual event where the setting sun aligns perfectly with Manhattan's grid.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Manhattanhenge-byPhilipRomano.jpg/330px-Manhattanhenge-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Manhattanhenge-byPhilipRomano.jpg/3840px-Manhattanhenge-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Manhattanhenge-byPhilipRomano.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "PhilipRomano, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:34:11.190Z"
+  },
+  "good:Q465338": {
+    "title": "Phaistos Disc",
+    "category": "place",
+    "lat": 35.051681,
+    "lng": 24.814889,
+    "blurb": "A disk with hieroglyphic-like symbols, still undeciphered.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Phaistos_Disc_%E2%80%94_Side_A.jpg/330px-Phaistos_Disc_%E2%80%94_Side_A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Phaistos_Disc_%E2%80%94_Side_A.jpg/3840px-Phaistos_Disc_%E2%80%94_Side_A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Phaistos_Disc_%E2%80%94_Side_A.jpg",
+      "license": "Public domain",
+      "attribution": "Gleb Simonov, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:35:19.918Z"
+  },
+  "good:Q35284": {
+    "title": "Cia-Cia language",
+    "category": "place",
+    "lat": -5.466666666666667,
+    "lng": 122.6,
+    "blurb": "Indonesian language using the Hangul (Korean) script.",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:35:48.445Z"
+  },
+  "good:Q36350": {
+    "title": "Lojban",
+    "category": "place",
+    "lat": 38.8749007,
+    "lng": -77.2625928,
+    "blurb": "An attempt to construct a language based on formal logic.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lojban_logo.svg/330px-Lojban_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lojban_logo.svg/330px-Lojban_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lojban_logo.svg",
+      "license": "Public domain",
+      "attribution": "Elmo Todurov Eatsaq, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:38:01.974Z"
+  },
+  "good:Q36931": {
+    "title": "Ubykh language",
+    "category": "place",
+    "lat": 43.6666666667,
+    "lng": 39.6666666667,
+    "blurb": "A recently extinct language with 84 consonants and just two vowels.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Northwest_Caucasian_languages_map.png/330px-Northwest_Caucasian_languages_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Northwest_Caucasian_languages_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Northwest_Caucasian_languages_map.png",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Gaga.vaa, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-22T14:38:43.152Z"
+  },
+  "good:Q626259": {
+    "title": "Ararat anomaly",
+    "category": "place",
+    "lat": 39.70277778,
+    "lng": 44.275,
+    "blurb": "Strange bit of imagery that has confused scientists and theologians alike.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ararat_anomaly_1949.jpeg/330px-Ararat_anomaly_1949.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ararat_anomaly_1949.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ararat_anomaly_1949.jpeg",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-23T13:23:22.733Z"
+  },
+  "good:Q732267": {
+    "title": "Bloop",
+    "category": "place",
+    "lat": -50,
+    "lng": -100,
+    "blurb": "Mysterious emission said to be heard across the pacific ocean",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bloop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bloop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bloop.jpg",
+      "license": "Public domain",
+      "attribution": "National Oceanic and Atmospheric Administration, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-23T13:23:50.826Z"
+  },
+  "good:Q152646": {
+    "title": "Bone Wars",
+    "category": "place",
+    "lat": 39.828175,
+    "lng": -98.5795,
+    "blurb": "An intense rivalry between two paleontologists, with many questions of ethics and legality coming in its path",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Othniel_Charles_Marsh_%26_Edward_Drinker_Cope_bw.jpg/330px-Othniel_Charles_Marsh_%26_Edward_Drinker_Cope_bw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Othniel_Charles_Marsh_%26_Edward_Drinker_Cope_bw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Othniel_Charles_Marsh_%26_Edward_Drinker_Cope_bw.jpg",
+      "license": "Public domain",
+      "attribution": "Frederick Gutekunst, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-23T13:24:58.667Z"
+  },
+  "good:Q1512672": {
+    "title": "Catatumbo lightning",
+    "category": "place",
+    "lat": 9.3451944444444,
+    "lng": -71.736611111111,
+    "blurb": "Thunderstorms are almost omnipresent over this lake",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Catatumbo_Lightning_%28141677107%29.jpeg/330px-Catatumbo_Lightning_%28141677107%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Catatumbo_Lightning_%28141677107%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Catatumbo_Lightning_(141677107).jpeg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Fernando Flores, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-23T13:30:27.524Z"
+  },
+  "good:Q5579533": {
+    "title": "Golden Gumboot",
+    "category": "place",
+    "lat": -17.9338,
+    "lng": 145.928,
+    "blurb": "Annual competition (and prize) for the wettest town in Australia.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Golden_Gumboot%2C_Tully%2C_Queensland%2C_2025%2C_09.jpg/330px-Golden_Gumboot%2C_Tully%2C_Queensland%2C_2025%2C_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Golden_Gumboot%2C_Tully%2C_Queensland%2C_2025%2C_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Golden_Gumboot,_Tully,_Queensland,_2025,_09.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Chris Olszewski, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-23T13:31:15.036Z"
+  },
+  "good:Q5696559": {
+    "title": "Hector (cloud)",
+    "category": "place",
+    "lat": -11.6,
+    "lng": 130.8,
+    "blurb": "Some may known it (him?) as Hector the Convector",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/HectorCloud.jpg/330px-HectorCloud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/HectorCloud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:HectorCloud.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Djambalawa, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-23T13:31:55.787Z"
+  },
+  "good:Q30312614": {
+    "title": "Elephant's Foot (Chernobyl)",
+    "category": "place",
+    "lat": 51.3892,
+    "lng": 30.09833,
+    "blurb": "Infamous piece of extremely radioactive waste",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Chernobyl_Elephant%27s_Foot.jpg/330px-Chernobyl_Elephant%27s_Foot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/Chernobyl_Elephant%27s_Foot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Chernobyl_Elephant%27s_Foot.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-23T13:32:29.548Z"
+  },
+  "good:Q591045": {
+    "title": "Goiânia accident",
+    "category": "place",
+    "lat": -16.6746,
+    "lng": -49.2641,
+    "blurb": "One of the worst nuclear disasters in history... despite involving no reactors.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg/330px-02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "IAEA Imagebank, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-23T13:33:48.009Z"
+  },
+  "good:Q628929": {
+    "title": "1561 celestial phenomenon over Nuremberg",
+    "category": "event",
+    "lat": 49.45,
+    "lng": 11.083333,
+    "blurb": "One of the earliest extraterrestrial encounters",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg/330px-Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg",
+      "license": "Public domain",
+      "attribution": "Hanns Glaser (print), Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-08-24T02:43:04.149Z"
   }
 }

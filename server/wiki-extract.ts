@@ -1,15 +1,12 @@
 const WP_URL = "https://en.wikipedia.org/api/rest_v1/page/summary";
 
 // Data we get from Wikipedia to be served (will end up being the first paragraph under the blurb)
+
+// TODO ngl we don't really need most of these, consider optionaling or removing some entirely
 export interface WikiExcerpt {
-    title: string, 
-    requestedTitle: string, // for the sake of redirects 
-    qid: string | null, // wikidata id. absent on brand-new articles, so never rely on it to identify an article
-    description: string, // short one-line descriptor, may not exist
-    excerpt: string, // is everything under the intro header, so can be very long. we will webkit-clamp it on the frontend
-    excerptHtml: string, // same text as excerpt, but collapsed into a single <p> - paragraph breaks are NOT preserved
-    articleUrl: string,
-    fetchedAt: number,
+    title: string;
+    excerpt: string;
+    articleUrl: string;
 }
 
 export async function fetchExcerpt(title: string): Promise<WikiExcerpt | null> {
@@ -37,13 +34,8 @@ export async function fetchExcerpt(title: string): Promise<WikiExcerpt | null> {
 
     return {
         title: data.titles?.normalized ?? title,
-        requestedTitle: title,
-        qid: data.wikibase_item ?? null,
-        description: data.description ?? "",
         excerpt: data.extract ?? "",
-        excerptHtml: data.extract_html ?? "",
         articleUrl: data.content_urls?.desktop?.page ?? "",
-        fetchedAt: Date.now()
     }
 
 }
