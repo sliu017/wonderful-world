@@ -1,5 +1,6 @@
 import { Router } from 'express';
 import { getExcerpt } from '../wiki-cache';
+import { RateLimitError } from '../rate-limiter'
 
 const router = Router();
 
@@ -21,6 +22,14 @@ router.get('/:title', async (req,res) => {
             articleUrl: data.articleUrl
         });
     } catch (err) {
+        // not a fatal error, just noting that we reached rate limits
+        if(err instanceof RateLimitError){
+            console.warn('[wiki]', err.message);
+            res.set('X-Cache-Status', 'RATE_LIMIT');
+            return res.json({
+                excerpt: null
+            })
+        }
         console.error('[wiki]', err);
         res.set('X-Cache-Status', 'ERROR');
         return res.json({

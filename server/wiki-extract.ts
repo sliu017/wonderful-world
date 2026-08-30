@@ -1,8 +1,9 @@
+import { wikiBucket, RateLimitError } from './rate-limiter';
+
 const WP_URL = "https://en.wikipedia.org/api/rest_v1/page/summary";
 
 // Data we get from Wikipedia to be served (will end up being the first paragraph under the blurb)
 
-// TODO ngl we don't really need most of these, consider optionaling or removing some entirely
 export interface WikiExcerpt {
     title: string;
     excerpt: string;
@@ -10,6 +11,9 @@ export interface WikiExcerpt {
 }
 
 export async function fetchExcerpt(title: string): Promise<WikiExcerpt | null> {
+    if(!wikiBucket.consumeToken()){
+        throw new RateLimitError(title);
+    }
     const slug = encodeURIComponent(title.replace(/ /g, '_'));
     const res = await fetch(`${WP_URL}/${slug}`, {
         headers: {
