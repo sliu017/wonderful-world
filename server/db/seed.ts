@@ -6,9 +6,9 @@
 
 import pool from './db';
 import type { FeatureCollection, Point} from 'geojson';
-import geojsonData from '../scripts/data/geojson_data.json'
+import geojsonData from '../../scripts/data/geojson_data.json'
 import {createInterface} from 'node:readline/promises';
-// import type PinProperties from '../src/components/Pin.tsx'
+// import type PinProperties from '../../src/components/Pin.tsx'
 
 const data = geojsonData as FeatureCollection<Point, PinProperties>;
 

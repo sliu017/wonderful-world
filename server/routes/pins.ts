@@ -1,6 +1,6 @@
 import {Router} from 'express';
-import pool from '../db';
-import {filterPins} from '../filter-db';
+import pool from '../db/db';
+import {filterPins} from '../db/filter-db';
 
 const router = Router();
 

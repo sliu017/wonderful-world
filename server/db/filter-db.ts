@@ -7,7 +7,7 @@ const ALLOWED_FILTER_PROPERTIES = ['category', 'title', 'lat', 'lng'] // ['media
 // can add more later, although category will be used most in practice
 // this is just to prevent sql injection since property is used directly in the query
 
-// Again, directly from '../src/components/Pin.tsx' 
+// Again, directly from '../../src/components/Pin.tsx' 
 export interface PinImage {
     thumbUrl: string,
     fullUrl: string,

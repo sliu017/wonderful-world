@@ -12,7 +12,7 @@ Note: currently moving rate limiting logic to its own file due to its shared nat
 */
 
 import { WikiExcerpt, fetchExcerpt } from './wiki-extract';
-import { wikiBucket, RESERVE_FOR_DIRECT_REQUESTS } from './rate-limiter';
+import { wikiBucket, RESERVE_FOR_DIRECT_REQUESTS } from '../cache/rate-limiter';
 
 
 function buildArticleUrl(title: string): string {

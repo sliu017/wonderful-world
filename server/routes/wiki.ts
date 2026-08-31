@@ -1,6 +1,6 @@
 import { Router } from 'express';
-import { getExcerpt } from '../wiki-cache';
-import { RateLimitError } from '../rate-limiter'
+import { getExcerpt } from '../wiki-api/wiki-cache';
+import { RateLimitError } from '../cache/rate-limiter'
 
 const router = Router();
 

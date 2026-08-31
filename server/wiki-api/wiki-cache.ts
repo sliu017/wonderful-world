@@ -1,4 +1,4 @@
-import client, {isReady} from './redis'
+import client, {isReady} from '../cache/redis'
 import { fetchExcerpt, type WikiExcerpt } from './wiki-extract';
 
 // Redis cache layer for our Wikipedia excerpts
@@ -36,3 +36,11 @@ export async function getExcerpt(title: string){
     )
     return { data: fresh, status: "MISS" as CacheStatus}
 }
+
+// // uses MGET functionality 
+// export async function findUncached(titles: string[]): Promise<string[]>{
+//     if(titles.length === 0){ 
+//         return [];
+//     }
+
+// }

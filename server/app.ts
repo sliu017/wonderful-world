@@ -1,5 +1,5 @@
-import pool from './db'
-import './redis'
+import pool from './db/db'
+import './cache/redis'
 import express from 'express'
 import pinsRouter from './routes/pins'
 import wikiRouter from './routes/wiki'

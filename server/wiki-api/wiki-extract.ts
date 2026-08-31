@@ -1,4 +1,4 @@
-import { wikiBucket, RateLimitError } from './rate-limiter';
+import { wikiBucket, RateLimitError } from '../cache/rate-limiter';
 
 const WP_URL = "https://en.wikipedia.org/api/rest_v1/page/summary";
 

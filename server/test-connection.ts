@@ -1,5 +1,5 @@
 // test-connection.ts
-import pool from './db'
+import pool from './db/db'
 
 pool.query('SELECT NOW()')
   .then((res) => {
