@@ -3,6 +3,7 @@
 // (Might wanna clean up the file structure a little)
 
 // Must be run within /server due to .env 
+// npx tsx db/seed.ts 
 
 import pool from './db';
 import type { FeatureCollection, Point} from 'geojson';

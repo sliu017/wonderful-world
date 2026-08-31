@@ -37,10 +37,30 @@ export async function getExcerpt(title: string){
     return { data: fresh, status: "MISS" as CacheStatus}
 }
 
-// // uses MGET functionality 
-// export async function findUncached(titles: string[]): Promise<string[]>{
-//     if(titles.length === 0){ 
-//         return [];
-//     }
+// uses MGET to determine which articles we actually need to send an api call to retrieve
+export async function findUncached(titles: string[]): Promise<string[]>{
+    if(titles.length === 0){ 
+        return [];
+    }
+    const cached = await client.mGet(titles.map(key));
+    return titles.filter
+        ((_, i) => cached[i] === null);
+}
 
-// }
+export async function primeExcerpts(entries: Map<string, WikiExcerpt | null>): Promise<void>{
+    if(entries.size === 0){
+        return;
+    }
+    const multi = client.multi();
+    for (const [title, excerpt] of entries){
+        multi.set(
+            key(title),
+            excerpt === null ? GONE : JSON.stringify(excerpt),
+            {
+                expiration: { type: 'EX', value: excerpt === null ? NEG_TTL : jitter(TTL)},
+                condition: 'NX' // not existent - can only add, not overwrite 
+            }
+        )
+    }
+    await multi.exec();
+}
