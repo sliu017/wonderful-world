@@ -13,7 +13,7 @@ const key = (title: string) =>
 
 const jitter = (base: number) => base + Math.floor(Math.random() * 3600); // spread expiries slightly
 
-export type CacheStatus = 'HIT' | 'MISS' | 'BYPASS'
+export type CacheStatus = 'HIT' | 'MISS' | 'BYPASS' | 'RATE_LIMIT' | 'ERROR';
 export async function getExcerpt(title: string){
     const k: string = key(title);
 
@@ -38,7 +38,7 @@ export async function getExcerpt(title: string){
 }
 
 // uses MGET to determine which articles we actually need to send an api call to retrieve
-export async function findUncached(titles: string[]): Promise<string[]>{
+export async function readMissingTitles(titles: string[]): Promise<string[]>{
     if(titles.length === 0){ 
         return [];
     }
@@ -47,7 +47,7 @@ export async function findUncached(titles: string[]): Promise<string[]>{
         ((_, i) => cached[i] === null);
 }
 
-export async function primeExcerpts(entries: Map<string, WikiExcerpt | null>): Promise<void>{
+export async function writeExcerpts(entries: Map<string, WikiExcerpt | null>): Promise<void>{
     if(entries.size === 0){
         return;
     }

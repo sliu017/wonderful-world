@@ -41,11 +41,11 @@ class TokenBucket {
         this.lastRefillTime = now;
     }
 
-    public consumeToken(tokens_required_in_reserve: number = 0): boolean { // where the amount represents the 
+    public consumeToken(minTokensRemaining: number = 0): boolean { // where the amount represents the 
         // number of tokens left in reserve for this call to go through, reflecting the tokens we leave in reserve
         // to ensure direct calls always go through.
         this.refill();
-        if(this.tokens >= 1 + tokens_required_in_reserve) {
+        if(this.tokens >= 1 + minTokensRemaining) {
             this.tokens--;
             return true;
         } else {

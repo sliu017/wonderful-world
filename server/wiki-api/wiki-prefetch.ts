@@ -13,14 +13,15 @@ Note: currently moving rate limiting logic to its own file due to its shared nat
 
 import { WikiExcerpt, } from './wiki-extract';
 import { wikiBucket, RESERVE_FOR_DIRECT_REQUESTS } from '../cache/rate-limiter';
-import { resumeToPipeableStream } from 'react-dom/server';
+import { isReady } from '../cache/redis';
+import { readMissingTitles, writeExcerpts } from './wiki-cache';
 
 function buildArticleUrl(title: string): string {
     const slug = encodeURIComponent(title.replace(/ /g, '_'));
     return `https://en.wikipedia.org/wiki/${slug}`;
 }
 
-async function callWikipediaExtracts(titles: string[]): Promise<Map<string, WikiExcerpt | null>> {
+async function fetchExcerpts(titles: string[]): Promise<Map<string, WikiExcerpt | null>> {
     // params required to batch fetch - as opposed to the easier single fetch within wiki-extract.ts
     const params = new URLSearchParams({
         action: 'query',
@@ -56,7 +57,11 @@ async function callWikipediaExtracts(titles: string[]): Promise<Map<string, Wiki
             resultMap.set(page.title, null);
             continue;
         }
-        if(typeof page.extract !== 'string' || page.extract.length === 0){
+        if(typeof page.extract !== 'string'){
+            continue;
+        }
+        if(page.extract.length === 0){
+            resultMap.set(page.title, null); // if the page just has no extract
             continue;
         }
         resultMap.set(page.title, {
@@ -87,6 +92,7 @@ async function callWikipediaExtracts(titles: string[]): Promise<Map<string, Wiki
 
 }
 
+/*
 export async function fetchExtractsBatch(titles: string[]): Promise<Map<string, WikiExcerpt | null>> {
     if(titles.length === 0){
         return new Map();
@@ -98,5 +104,55 @@ export async function fetchExtractsBatch(titles: string[]): Promise<Map<string, 
         return new Map();
     }
 
-    return callWikipediaExtracts(titles);
+    return fetchExcerpts(titles);
+}
+*/
+
+const MAX_TITLES_PER_CALL = 20;
+const inFlight = new Set<string>();
+
+function chunk<T>(arr: T[], size: number): T[][] {
+    const chunks: T[][] = [];
+    for(let i = 0; i < arr.length; i += size){
+        chunks.push(arr.slice(i, i+size));
+    }
+    return chunks;
+}
+export async function prefetchExcerpts(titles: string[]): Promise<void>{
+    if(!isReady()){
+        return;
+    }
+    const titlesToFind = [...new Set(titles)]
+        .filter((t) => t.trim().length > 0 && !t.includes("|") && !inFlight.has(t));
+    if(titlesToFind.length === 0){
+        return;
+    }
+    titlesToFind.forEach((t: string) => inFlight.add(t));
+    try {
+        const misses = await readMissingTitles(titlesToFind);
+        for(const batch of chunk(misses, MAX_TITLES_PER_CALL)){
+            if(!wikiBucket.consumeToken(RESERVE_FOR_DIRECT_REQUESTS)){
+                console.warn("[prefetch] rate limit reached. skipping batch of titles:", batch);
+                return; 
+            }
+            try {
+                await writeExcerpts(await fetchExcerpts(batch));
+            } catch(err){
+                console.error("[prefetch] failed to fetch excerpts for batch of titles:", batch, err);
+            } 
+        }
+    } catch(err) {
+        console.error("[prefetch] cache lookup failed:" ,err);
+        return;
+    } finally {
+        titlesToFind.forEach((t: string) => inFlight.delete(t));
+    }
+    // try {
+    //     misses = await readMissingTitles(titlesToFind);
+    // } catch(err) {
+    //     console.error("[prefetch] cache lookup failed:" ,err);
+    //     return;
+    // }
+
+
 }
