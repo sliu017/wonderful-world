@@ -8,8 +8,10 @@ const TTL = 60 * 60 * 24; // 60 seconds * 60 minutes * 24 hours = 1 day
 const NEG_TTL = 60 * 60; // 1 hour for cache misses - we cache the fact that the data *doesn't* exist
 const GONE = "__NOTFOUND__";
 
+export const normalizeTitle = (title: string) =>
+    title.trim().toLowerCase().replace(/ /g, '_'); 
 const key = (title: string) => 
-    `wiki-excerpt:en:${title.trim().toLowerCase().replace(/ /g, '_')}`; // normalize all titles by lowercasing and spaces -> underscores
+    `wiki-excerpt:en:${normalizeTitle(title)}`; 
 
 const jitter = (base: number) => base + Math.floor(Math.random() * 3600); // spread expiries slightly
 

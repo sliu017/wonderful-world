@@ -8,13 +8,12 @@ We use the viewport the user is currently looking at, capping at a certain numbe
 reach rate limits - this means that at first load on the zoomed out world map this will certainly instantly reach the cap.
 TODO: This is an issue we can resolve by limiting to certain zoom levels 
 
-Note: currently moving rate limiting logic to its own file due to its shared nature 
 */
 
 import { WikiExcerpt, } from './wiki-extract';
 import { wikiBucket, RESERVE_FOR_DIRECT_REQUESTS } from '../cache/rate-limiter';
 import { isReady } from '../cache/redis';
-import { readMissingTitles, writeExcerpts } from './wiki-cache';
+import { readMissingTitles, writeExcerpts, normalizeTitle } from './wiki-cache';
 
 function buildArticleUrl(title: string): string {
     const slug = encodeURIComponent(title.replace(/ /g, '_'));
@@ -122,12 +121,25 @@ export async function prefetchExcerpts(titles: string[]): Promise<void>{
     if(!isReady()){
         return;
     }
-    const titlesToFind = [...new Set(titles)]
-        .filter((t) => t.trim().length > 0 && !t.includes("|") && !inFlight.has(t));
-    if(titlesToFind.length === 0){
-        return;
-    }
-    titlesToFind.forEach((t: string) => inFlight.add(t));
+    const seen = new Set<string>();
+    const titlesToFind = titles.filter((t) => {
+        if(t.trim().length === 0 || t.includes("|")){ // we use | as our delimiter so make sure to exclude titles with it
+                                                      // (luckily, it's a banned character in Wikipedia titles)
+            return false;
+        }
+        const normedTitle = normalizeTitle(t);
+        if(seen.has(normedTitle) || inFlight.has(normedTitle)){
+            return false;
+        }
+        seen.add(normedTitle);
+        return true;
+    })
+    // const titlesToFind = [...new Set(titles)] // deduplicate 
+    //     .filter((t) => t.trim().length > 0 && !t.includes("|") && !inFlight.has(t));
+    // if(titlesToFind.length === 0){
+    //     return;
+    // }
+    titlesToFind.forEach((t: string) => inFlight.add(normalizeTitle(t)));
     try {
         const misses = await readMissingTitles(titlesToFind);
         for(const batch of chunk(misses, MAX_TITLES_PER_CALL)){
@@ -145,7 +157,7 @@ export async function prefetchExcerpts(titles: string[]): Promise<void>{
         console.error("[prefetch] cache lookup failed:" ,err);
         return;
     } finally {
-        titlesToFind.forEach((t: string) => inFlight.delete(t));
+        titlesToFind.forEach((t: string) => inFlight.delete(normalizeTitle(t)));
     }
     // try {
     //     misses = await readMissingTitles(titlesToFind);

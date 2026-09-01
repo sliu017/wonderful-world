@@ -1,8 +1,29 @@
 import { Router } from 'express';
 import { getExcerpt } from '../wiki-api/wiki-cache';
+import { prefetchExcerpts } from '../wiki-api/wiki-prefetch';
 import { RateLimitError } from '../cache/rate-limiter'
 
 const router = Router();
+
+
+const MAX_TITLES_PER_REQUEST = 3000; // soft limit
+// exists because before we limit deeper into the lifecycle, we call readMissingTitles() on the list,
+// which is a Redis MGET - an absurdly large list of titles (more than Wikipedia can even send back)
+// will cause the server to slow down significantly. thus, we limit to only requests "within the limits"
+
+router.post('/prefetch', (req, res) => {
+    const body = req.body as { titles?: unknown };
+    if(!Array.isArray(body?.titles)){
+        return res.status(400).json({ error: 'expected { titles: string[] }' });
+    }
+    const titles = body.titles
+        .filter((t): t is string => typeof t === 'string') 
+        // typeof filters non-strings at runtime
+        // typescript then treats the resulting filtered array as string[] because of our type predicate note 
+        .slice(0, MAX_TITLES_PER_REQUEST);
+    void prefetchExcerpts(titles).catch((err) => console.error('[wiki] prefetch', err));
+    return res.status(202).end(); // still processing, use 202
+});
 
 router.get('/:title', async (req,res) => {
     try {
