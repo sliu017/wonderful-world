@@ -7490,5 +7490,1554 @@
     },
     "status": "confirmed",
     "reviewedAt": "2026-08-24T02:43:04.149Z"
+  },
+  "good:Q3699867": {
+    "title": "Cydonia (Mars)",
+    "category": "event",
+    "lat": 40.74,
+    "lng": -9.46,
+    "blurb": "Cydonia is a region on the planet Mars that has attracted both scientific and popular interest. The name originally referred to the albedo feature that was visible from earthbound telescopes.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Martian_face_viking.jpg/330px-Martian_face_viking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Martian_face_viking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Martian_face_viking.jpg",
+      "license": "Public domain",
+      "attribution": "Viking 1, NASA, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T21:21:45.843Z"
+  },
+  "good:Q1161218": {
+    "title": "Fallen Astronaut",
+    "category": "event",
+    "lat": 26.13222,
+    "lng": 3.63386,
+    "blurb": "Fallen Astronaut is a 3. 5-inch (8.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Fallen_Astronaut.jpg/330px-Fallen_Astronaut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Fallen_Astronaut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Fallen_Astronaut.jpg",
+      "license": "Public domain",
+      "attribution": "NASA, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T21:21:56.776Z"
+  },
+  "good:Q5658357": {
+    "title": "Harlan J. Smith Telescope",
+    "category": "event",
+    "lat": 30.6718,
+    "lng": -104.022,
+    "blurb": "The Harlan J. Smith Telescope is a 107-inch (2.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/USA_harlan_j_smith_telescope_TX.jpg/330px-USA_harlan_j_smith_telescope_TX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/USA_harlan_j_smith_telescope_TX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:USA_harlan_j_smith_telescope_TX.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Daniel Schwen, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T21:22:22.973Z"
+  },
+  "good:Q326868": {
+    "title": "Mare Moscoviense",
+    "category": "event",
+    "lat": 27.28,
+    "lng": 148.12,
+    "blurb": "Mare Moscoviense is a lunar mare that sits in the Moscoviense basin. It is one of the very few maria on the far side of the Moon.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mare_Moscoviense_-_Clementine.jpg/330px-Mare_Moscoviense_-_Clementine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mare_Moscoviense_-_Clementine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mare_Moscoviense_-_Clementine.jpg",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T21:22:27.376Z"
+  },
+  "good:Q3988385": {
+    "title": "Moon Museum",
+    "category": "event",
+    "lat": -3.013611111111111,
+    "lng": -23.424444444444443,
+    "blurb": "Moon Museum is a small ceramic wafer three-quarters by one-half inch in size, containing artworks by six prominent artists from the late 1960s. The artists with works in the \"museum\" are Robert Rauschenberg, David Novros, John Chamberlain, Claes Oldenburg, Forrest Myers and Andy Warhol.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Moon_Art_Scale_Fingers.jpg/330px-Moon_Art_Scale_Fingers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/Moon_Art_Scale_Fingers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Moon_Art_Scale_Fingers.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T21:23:03.937Z"
+  },
+  "good:Q2564923": {
+    "title": "Sylacauga (meteorite)",
+    "category": "event",
+    "lat": 33.1884,
+    "lng": -86.2945,
+    "blurb": "The first meteorite to have hit a human,",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2024-10-21_-_Tuscaloosa%2C_AL%2C_USA_-_Hodges_%28Sylacauga%29_Meteorite_%28cropped%29.jpg/330px-2024-10-21_-_Tuscaloosa%2C_AL%2C_USA_-_Hodges_%28Sylacauga%29_Meteorite_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/2024-10-21_-_Tuscaloosa%2C_AL%2C_USA_-_Hodges_%28Sylacauga%29_Meteorite_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:2024-10-21_-_Tuscaloosa,_AL,_USA_-_Hodges_(Sylacauga)_Meteorite_(cropped).jpg",
+      "license": "CC BY 4.0",
+      "attribution": "Kai NeSmith, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:23:33.551Z"
+  },
+  "good:Q591923": {
+    "title": "Vatican Observatory",
+    "category": "event",
+    "lat": 41.747222222222,
+    "lng": 12.650555555556,
+    "blurb": "The Vatican Observatory is an astronomical research and educational institution supported by the Holy See. Originally based in the Roman College of Rome, the Observatory is now headquartered in Castel Gandolfo, Italy and operates a telescope at the Mount Graham International Observatory in the United States.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Specola1.jpg/330px-Specola1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Specola1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Specola1.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Rb85, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T21:24:45.025Z"
+  },
+  "good:Q133289677": {
+    "title": "Beaver-engineered dam in the Czech Republic",
+    "category": "event",
+    "lat": 49.7074,
+    "lng": 13.8376,
+    "blurb": "This family of beavers has saved the Czech government millions.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tayside_Beaver_mother_and_kit_June_5%2C_2010_Ray_Scott.jpg/330px-Tayside_Beaver_mother_and_kit_June_5%2C_2010_Ray_Scott.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tayside_Beaver_mother_and_kit_June_5%2C_2010_Ray_Scott.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Tayside_Beaver_mother_and_kit_June_5,_2010_Ray_Scott.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Ray Scott, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:25:10.793Z"
+  },
+  "good:Q2510263": {
+    "title": "Tsavo Man-Eaters",
+    "category": "event",
+    "lat": -2.99355556,
+    "lng": 38.46138889,
+    "blurb": "Pair of lions who killed dozens of people in 1898",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lionsoftsavo2008.jpg/330px-Lionsoftsavo2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lionsoftsavo2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lionsoftsavo2008.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Superx308 Jeffrey Jung email: superx308 at gmail.com, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:25:53.857Z"
+  },
+  "good:Q6548483": {
+    "title": "Lily Flagg",
+    "category": "event",
+    "lat": 34.6549,
+    "lng": -86.5663,
+    "blurb": "Cow that broke butter records",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lily_Flagg.jpg/330px-Lily_Flagg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lily_Flagg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lily_Flagg.jpg",
+      "license": "Public domain",
+      "attribution": "Artist not credited, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:26:39.195Z"
+  },
+  "good:Q27792640": {
+    "title": "Gereja Ayam",
+    "category": "event",
+    "lat": -7.605694,
+    "lng": 110.1805,
+    "blurb": "Chicken-shaped church",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bukit_Rhema_-_July_2024.jpg/330px-Bukit_Rhema_-_July_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bukit_Rhema_-_July_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bukit_Rhema_-_July_2024.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "LNeeson, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:26:58.674Z"
+  },
+  "good:Q855274": {
+    "title": "Bialbero di Casorzo",
+    "category": "event",
+    "lat": 45.0048877,
+    "lng": 8.3230394,
+    "blurb": "Trees growing on trees",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bialbero_di_Casorzo.jpg/330px-Bialbero_di_Casorzo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bialbero_di_Casorzo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bialbero_di_Casorzo.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "alfio cioffi from Asti, Italia, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:28:27.290Z"
+  },
+  "good:Q1061704": {
+    "title": "Chandelier Tree",
+    "category": "event",
+    "lat": 39.8586,
+    "lng": -123.719,
+    "blurb": "Tree with a car-shaped hole",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chandelier_Tree.jpg/330px-Chandelier_Tree.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Chandelier_Tree.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Chandelier_Tree.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Ramakrishna Gundra, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:28:59.761Z"
+  },
+  "good:Q17018585": {
+    "title": "Eisenhower Tree",
+    "category": "event",
+    "lat": 33.5,
+    "lng": -82.02,
+    "blurb": "\"Arguably the most famous tree in golf\" due to Eisenhower's failed attempts at removing it",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eisenhower_Tree_2011_%28cropped%29.jpg/330px-Eisenhower_Tree_2011_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Eisenhower_Tree_2011_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Eisenhower_Tree_2011_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Shannon, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:29:29.463Z"
+  },
+  "good:Q3350203": {
+    "title": "Old Man of the Lake",
+    "category": "event",
+    "lat": 42.95,
+    "lng": -122.1,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Old_Man_of_the_Lake_-_Crater_Lake_National_Park_-_NPS_8.jpg/330px-Old_Man_of_the_Lake_-_Crater_Lake_National_Park_-_NPS_8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Old_Man_of_the_Lake_-_Crater_Lake_National_Park_-_NPS_8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Old_Man_of_the_Lake_-_Crater_Lake_National_Park_-_NPS_8.jpg",
+      "license": "Public domain",
+      "attribution": "NPS, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:29:50.196Z"
+  },
+  "good:Q921090": {
+    "title": "Pando (tree)",
+    "category": "event",
+    "lat": 38.525943,
+    "lng": -111.751192,
+    "blurb": "One of the oldest still-living organisms",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pando_Land_Mass_Outline.jpg/330px-Pando_Land_Mass_Outline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Pando_Land_Mass_Outline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Pando_Land_Mass_Outline.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Lance Oditt, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:30:18.782Z"
+  },
+  "good:Q7837599": {
+    "title": "Tree of Knowledge (Australia)",
+    "category": "event",
+    "lat": -23.552352,
+    "lng": 145.28963,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tree_of_knowledge_1.jpg/330px-Tree_of_knowledge_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tree_of_knowledge_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Tree_of_knowledge_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Camerong, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:30:33.033Z"
+  },
+  "good:Q630678": {
+    "title": "Tree of Ténéré",
+    "category": "event",
+    "lat": 17.744166666666665,
+    "lng": 10.082777777777778,
+    "blurb": "Previously the most isolated tree on Earth before falling victim to drunk driving",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Arbre-du-tenere-1961.jpg/330px-Arbre-du-tenere-1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Arbre-du-tenere-1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Arbre-du-tenere-1961.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Michel Mazeau, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:31:00.068Z"
+  },
+  "good:Q1421130": {
+    "title": "Tree That Owns Itself",
+    "category": "event",
+    "lat": 33.955,
+    "lng": -83.3824,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_tree_that_owns_itself%2C_Athens%2C_Georgia_%288342838973%29.jpg/330px-The_tree_that_owns_itself%2C_Athens%2C_Georgia_%288342838973%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/The_tree_that_owns_itself%2C_Athens%2C_Georgia_%288342838973%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_tree_that_owns_itself,_Athens,_Georgia_(8342838973).jpg",
+      "license": "Public domain",
+      "attribution": "Boston Public Library, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:31:06.527Z"
+  },
+  "good:Q182324": {
+    "title": "Antikythera mechanism",
+    "category": "event",
+    "lat": 35.864167,
+    "lng": 23.305,
+    "blurb": "An Ancient Greek analog computer",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antikythera_Fragment_A_%28Front%29.webp/330px-Antikythera_Fragment_A_%28Front%29.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Antikythera_Fragment_A_%28Front%29.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Antikythera_Fragment_A_(Front).webp",
+      "license": "CC BY 4.0",
+      "attribution": "Logg Tandy, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:31:21.190Z"
+  },
+  "good:Q736374": {
+    "title": "Centennial Light",
+    "category": "event",
+    "lat": 37.68,
+    "lng": -121.739,
+    "blurb": "The Centennial Light is an incandescent light bulb recognized as the oldest known operating light bulb. It was first illuminated in 1901, and has only been turned off a few brief times since.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Livermore_Centennial_Light_Bulb.jpg/330px-Livermore_Centennial_Light_Bulb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Livermore_Centennial_Light_Bulb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Livermore_Centennial_Light_Bulb.jpg",
+      "license": "CC0",
+      "attribution": "LPS.1, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:31:54.464Z"
+  },
+  "good:Q963249": {
+    "title": "Clock of the Long Now",
+    "category": "event",
+    "lat": 31.448411111111,
+    "lng": -104.90383888889,
+    "blurb": "A clock that will work for 10,000 years",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Clock_of_the_Long_Now.JPG/330px-Clock_of_the_Long_Now.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Clock_of_the_Long_Now.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Clock_of_the_Long_Now.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Pkirlin at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:32:20.902Z"
+  },
+  "good:Q303363": {
+    "title": "Mengenlehreuhr",
+    "category": "event",
+    "lat": 52.505153,
+    "lng": 13.338878,
+    "blurb": "\"Set Theory Clock\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berlin_Kurf%C3%BCrstendamm_113714a.jpg/330px-Berlin_Kurf%C3%BCrstendamm_113714a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Berlin_Kurf%C3%BCrstendamm_113714a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Berlin_Kurf%C3%BCrstendamm_113714a.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Willy Pragher, CC BY 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:32:55.977Z"
+  },
+  "good:Q172129": {
+    "title": "2001 Japan Airlines mid-air incident",
+    "category": "event",
+    "lat": 34.754333333333335,
+    "lng": 138.22308333333334,
+    "blurb": "Just 135 meters prevented what would've been the deadliest aviation incident in history.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/JAL_Japan_Airlines_Boeing_747-400D%3B_JA8904%2C_March_2004.jpg/330px-JAL_Japan_Airlines_Boeing_747-400D%3B_JA8904%2C_March_2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/JAL_Japan_Airlines_Boeing_747-400D%3B_JA8904%2C_March_2004.jpg/3840px-JAL_Japan_Airlines_Boeing_747-400D%3B_JA8904%2C_March_2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:JAL_Japan_Airlines_Boeing_747-400D;_JA8904,_March_2004.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Aero Icarus, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:33:36.010Z"
+  },
+  "good:Q6952032": {
+    "title": "2003 Angola Boeing 727 disappearance",
+    "category": "event",
+    "lat": -8.85833,
+    "lng": 13.2311,
+    "blurb": "A large plane that was stolen, with at least two people aboard, that has never been found.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/N844AA_American_AL_Boeing_727_St_Louis_7th_October_1981.jpg/330px-N844AA_American_AL_Boeing_727_St_Louis_7th_October_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/N844AA_American_AL_Boeing_727_St_Louis_7th_October_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:N844AA_American_AL_Boeing_727_St_Louis_7th_October_1981.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Tim, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:39:07.352Z"
+  },
+  "good:Q2290851": {
+    "title": "2010 Filair Let L-410 crash",
+    "category": "event",
+    "lat": -3.31111,
+    "lng": 17.3733,
+    "blurb": "A smuggled crocodile on a plane",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Crash-avion-FIL-AIR1.jpg/330px-Crash-avion-FIL-AIR1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Crash-avion-FIL-AIR1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Crash-avion-FIL-AIR1.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Radio Okapi, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:39:33.997Z"
+  },
+  "good:Q56050557": {
+    "title": "2018 Horizon Air Bombardier Q400 incident",
+    "category": "event",
+    "lat": 47.157222222222,
+    "lng": -122.63416666667,
+    "blurb": "A man with no flight experience performs some incredibly difficult maneuvers in a pre-suicide romp",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/De_Havilland_Canada_DHC-8-402Q_N449QX_Horizon_Air_-_43974956671.jpg/330px-De_Havilland_Canada_DHC-8-402Q_N449QX_Horizon_Air_-_43974956671.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De_Havilland_Canada_DHC-8-402Q_N449QX_Horizon_Air_-_43974956671.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:De_Havilland_Canada_DHC-8-402Q_N449QX_Horizon_Air_-_43974956671.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "William Musculus, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:41:12.813Z"
+  },
+  "good:Q138502870": {
+    "title": "2026 Bolivian Air Force Lockheed C-130 crash",
+    "category": "event",
+    "lat": -16.512777777777778,
+    "lng": -68.21666666666667,
+    "blurb": "Unfortunately, this plane was carrying crates of new banknotes, resulting in difficulties you might expect.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fuerza_A%C3%A9rea_Boliviana_Lockheed_C-130H_Hercules_FAB-81_in_September_2024.jpg/330px-Fuerza_A%C3%A9rea_Boliviana_Lockheed_C-130H_Hercules_FAB-81_in_September_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Fuerza_A%C3%A9rea_Boliviana_Lockheed_C-130H_Hercules_FAB-81_in_September_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Fuerza_A%C3%A9rea_Boliviana_Lockheed_C-130H_Hercules_FAB-81_in_September_2024.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "MINISTERIO DE DEFENSA DEL PERÚ, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:41:55.084Z"
+  },
+  "good:Q381461": {
+    "title": "Aeroflot Flight 593",
+    "category": "event",
+    "lat": 53.30083333333334,
+    "lng": 88.14972222222222,
+    "blurb": "A plane crash resulting from his pilot letting his kids try to fly.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aeroflot_Airbus_A310-300_F-OGQS_CDG_1993.png/330px-Aeroflot_Airbus_A310-300_F-OGQS_CDG_1993.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Aeroflot_Airbus_A310-300_F-OGQS_CDG_1993.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Aeroflot_Airbus_A310-300_F-OGQS_CDG_1993.png",
+      "license": "GFDL 1.2",
+      "attribution": "Michel Gilliand, GFDL 1.2, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:42:27.372Z"
+  },
+  "good:Q4055762": {
+    "title": "Aeroflot Flight 6502",
+    "category": "event",
+    "lat": 53.50563,
+    "lng": 50.159933,
+    "blurb": "Irresponsible is an understatement for this plane-crashing bet.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png/330px-Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Eduard Marmet, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:42:57.835Z"
+  },
+  "good:Q665566": {
+    "title": "Aloha Airlines Flight 243",
+    "category": "event",
+    "lat": 20.54,
+    "lng": -156.28,
+    "blurb": "This plane's ceiling flew off midflight - but only one person died.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_aftermath_of_N73711.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_aftermath_of_N73711.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_aftermath_of_N73711.jpg",
+      "license": "Public domain",
+      "attribution": "Federal Aviation Administration, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:43:18.992Z"
+  },
+  "good:Q109236356": {
+    "title": "Bayside Canadian Railway",
+    "category": "event",
+    "lat": 45.15863,
+    "lng": -67.13966,
+    "blurb": "The Bayside Canadian Railway was an extremely short railway in Bayside, New Brunswick, Canada. Its apparent sole purpose was to perform as a Canadian railway, to take advantage of an exemption in the Jones Act that would normally forbid the use of foreign-flagged vessels in shipping between two U.",
+    "image": null,
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T21:43:42.925Z"
+  },
+  "good:Q12857801": {
+    "title": "Billups Neon Crossing Signal",
+    "category": "event",
+    "lat": 33.8055,
+    "lng": -89.8016,
+    "blurb": "The Billups Neon Crossing Signal was an experimental grade crossing signal installed at a dangerous Illinois Central crossing on Mississippi Highway 7 in Grenada, Mississippi.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Billups_Neon_Crossing_Signal_patent_%28illustration_detail%29.jpg/330px-Billups_Neon_Crossing_Signal_patent_%28illustration_detail%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Billups_Neon_Crossing_Signal_patent_%28illustration_detail%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Billups_Neon_Crossing_Signal_patent_(illustration_detail).jpg",
+      "license": "Public domain",
+      "attribution": "William Alonzo Billups, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T21:44:05.763Z"
+  },
+  "good:Q915878": {
+    "title": "Brighton and Rottingdean Seashore Electric Railway",
+    "category": "event",
+    "lat": 50.8097,
+    "lng": -0.0851,
+    "blurb": "The Brighton and Rottingdean Seashore Electric Railway was a unique coastline railway in Brighton, England, that ran through the shallow coastal waters of the English Channel between 1896 and 1901. It was designed by Magnus Volk to extend his Volk's Electric Railway from its terminus in Paston Place to the village of Rottingdean and avoid difficult terrain.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ellis_Kelsey_Img_5.jpg/330px-Ellis_Kelsey_Img_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ellis_Kelsey_Img_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ellis_Kelsey_Img_5.jpg",
+      "license": "Public domain",
+      "attribution": "Ellis Kelsey (1866–1939), Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:17:23.997Z"
+  },
+  "good:Q5131033": {
+    "title": "Cleckheaton Central railway station",
+    "category": "event",
+    "lat": 53.7244,
+    "lng": -1.71572,
+    "blurb": "Cleckheaton Central railway station was a railway station serving the West Yorkshire town of Cleckheaton, England, until it was closed in the Beeching era, which saw the closure of many minor lines and stations around the United Kingdom through the 1960s. It has the distinction of being the only British railway station to have been stolen.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cleckheaton-Station-entrance-by-Betty-Longbottom.jpg/330px-Cleckheaton-Station-entrance-by-Betty-Longbottom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Cleckheaton-Station-entrance-by-Betty-Longbottom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cleckheaton-Station-entrance-by-Betty-Longbottom.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Betty Longbottom, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:17:34.362Z"
+  },
+  "good:Q94570740": {
+    "title": "Collision between a car and a submarine",
+    "category": "event",
+    "lat": 58.27359067,
+    "lng": 11.43823743,
+    "blurb": "Only one of its kind!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/A_collision_between_a_car_and_a_submarine.jpg/330px-A_collision_between_a_car_and_a_submarine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/A_collision_between_a_car_and_a_submarine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:A_collision_between_a_car_and_a_submarine.jpg",
+      "license": "Public domain",
+      "attribution": "Hans Johansson, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:17:45.878Z"
+  },
+  "good:Q1312181": {
+    "title": "Crash at Crush",
+    "category": "event",
+    "lat": 31.7451,
+    "lng": -97.0996,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Explosion%2C_Views_of_the_Head_End_Collision_at_Crush%2C_Texas_%28cropped%29.jpg/330px-The_Explosion%2C_Views_of_the_Head_End_Collision_at_Crush%2C_Texas_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/The_Explosion%2C_Views_of_the_Head_End_Collision_at_Crush%2C_Texas_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_Explosion,_Views_of_the_Head_End_Collision_at_Crush,_Texas_(cropped).jpg",
+      "license": "Public domain",
+      "attribution": "Jervis C. Deane (b. 1860), Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:18:04.709Z"
+  },
+  "good:Q22450721": {
+    "title": "Daallo Airlines Flight 159",
+    "category": "event",
+    "lat": 2.235667,
+    "lng": 45.285083,
+    "blurb": "Failed terrorist attack that literally blew up in its perpetrator's face",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SX-BHS_after_landing.jpg/330px-SX-BHS_after_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/SX-BHS_after_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:SX-BHS_after_landing.jpg",
+      "license": "Public domain",
+      "attribution": "Ministry of Transport and Civil Aviation of Federal Republic of Somalia Aircraft Accident Investigation Branch, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:18:26.658Z"
+  },
+  "good:Q370555": {
+    "title": "Gimli Glider",
+    "category": "event",
+    "lat": 50.628888888889,
+    "lng": -97.043888888889,
+    "blurb": "Air Canada Flight 143 was a scheduled domestic passenger flight between Montreal and Edmonton. On July 23, 1983, the Boeing 767 servicing the route ran out of fuel midway through the flight.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Air_Canada_Flight_143_after_emergency_landing_2.jpg/330px-Air_Canada_Flight_143_after_emergency_landing_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Air_Canada_Flight_143_after_emergency_landing_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Air_Canada_Flight_143_after_emergency_landing_2.jpg",
+      "license": "Public domain",
+      "attribution": "FAA, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:19:00.717Z"
+  },
+  "good:Q1117380": {
+    "title": "Men's parking space",
+    "category": "event",
+    "lat": 48.1301,
+    "lng": 8.231,
+    "blurb": "Only known instance of this satirical concept",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/M%C3%A4nnerparkplatz_Triberg.jpg/330px-M%C3%A4nnerparkplatz_Triberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/M%C3%A4nnerparkplatz_Triberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnerparkplatz_Triberg.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Chrweb, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:19:52.681Z"
+  },
+  "good:Q6876227": {
+    "title": "Miss Belvedere",
+    "category": "event",
+    "lat": 36.1492,
+    "lng": -95.9953,
+    "blurb": "Car buried in 1957 and unearthed in 2007. Did it start?",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Miss_Belvedere_burial_1957.jpg/330px-Miss_Belvedere_burial_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Miss_Belvedere_burial_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Miss_Belvedere_burial_1957.jpg",
+      "license": "Public domain",
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:20:09.523Z"
+  },
+  "good:Q1427012": {
+    "title": "Northwest Airlines Flight 253",
+    "category": "event",
+    "lat": 42.208,
+    "lng": -83.356,
+    "blurb": "Failed underwear bomb",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Northwest_Airlines_Flight_253_bomb_component_3.jpg/330px-Northwest_Airlines_Flight_253_bomb_component_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Northwest_Airlines_Flight_253_bomb_component_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Northwest_Airlines_Flight_253_bomb_component_3.jpg",
+      "license": "Public domain",
+      "attribution": "Federal Bureau of Investigation, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:20:32.496Z"
+  },
+  "good:Q18630113": {
+    "title": "Nut rage incident",
+    "category": "event",
+    "lat": 40.6413,
+    "lng": -73.7782,
+    "blurb": "It's bigger than macadamia nuts.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CSIRO_ScienceImage_3083_CSIRO_has_identified_the_ideal_macadamia_preferred_by_consumers.jpg/330px-CSIRO_ScienceImage_3083_CSIRO_has_identified_the_ideal_macadamia_preferred_by_consumers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/CSIRO_ScienceImage_3083_CSIRO_has_identified_the_ideal_macadamia_preferred_by_consumers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_3083_CSIRO_has_identified_the_ideal_macadamia_preferred_by_consumers.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "CSIRO, CC BY 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:21:07.249Z"
+  },
+  "good:Q737967": {
+    "title": "Uruguayan Air Force Flight 571",
+    "category": "event",
+    "lat": -34.765,
+    "lng": -70.286388888889,
+    "blurb": "Infamous Andes flight disaster involving cannabalism",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Restos_del_vuelo_571.jpg/330px-Restos_del_vuelo_571.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Restos_del_vuelo_571.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Restos_del_vuelo_571.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Wunabbis, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:21:51.074Z"
+  },
+  "good:Q4352488": {
+    "title": "Action Park",
+    "category": "place",
+    "lat": 41.1906,
+    "lng": -74.5075,
+    "blurb": "Perhaps the deadliest and most dangerous park ever",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:22:17.657Z"
+  },
+  "good:Q124289940": {
+    "title": "Chicago rat hole",
+    "category": "place",
+    "lat": 41.943321,
+    "lng": -87.676881,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Original_Photo_of_the_Chicago_Rat_Hole_from_WinslowDumaine_Tweet.jpg/330px-Original_Photo_of_the_Chicago_Rat_Hole_from_WinslowDumaine_Tweet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Original_Photo_of_the_Chicago_Rat_Hole_from_WinslowDumaine_Tweet.jpg/1920px-Original_Photo_of_the_Chicago_Rat_Hole_from_WinslowDumaine_Tweet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Original_Photo_of_the_Chicago_Rat_Hole_from_WinslowDumaine_Tweet.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "WinslowDumaine, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:22:43.903Z"
+  },
+  "good:Q123944405": {
+    "title": "Cop slide",
+    "category": "place",
+    "lat": 42.36121310474478,
+    "lng": -71.05818249732494,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boston_City_Hall_Plaza_slide_%28Jan_2024%29.jpg/330px-Boston_City_Hall_Plaza_slide_%28Jan_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Boston_City_Hall_Plaza_slide_%28Jan_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Boston_City_Hall_Plaza_slide_(Jan_2024).jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Hameltion, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:22:56.743Z"
+  },
+  "good:Q18207905": {
+    "title": "Hundeprutterutchebane",
+    "category": "place",
+    "lat": 55.2599,
+    "lng": 11.8639,
+    "blurb": "Dog fart themed rollercoaster",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BonBon-Lands_forlystelse_Hundeprutterutschebanen_og_Henry.jpg/330px-BonBon-Lands_forlystelse_Hundeprutterutschebanen_og_Henry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/BonBon-Lands_forlystelse_Hundeprutterutschebanen_og_Henry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:BonBon-Lands_forlystelse_Hundeprutterutschebanen_og_Henry.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "EosKøge at da.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:23:18.257Z"
+  },
+  "good:Q118358920": {
+    "title": "Lawnchair Larry flight",
+    "category": "event",
+    "lat": 33.738,
+    "lng": -118.313,
+    "blurb": "Rose to over 16,000 feet!",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cluster_Ballooning.jpg/330px-Cluster_Ballooning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Cluster_Ballooning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cluster_Ballooning.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Photo by user \"omnibus\" on www.flickr.com., CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:23:57.483Z"
+  },
+  "good:Q2368": {
+    "title": "Bliss (photograph)",
+    "category": "event",
+    "lat": 38.2501,
+    "lng": -122.411,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Bliss_%28Windows_XP%29.png/330px-Bliss_%28Windows_XP%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Bliss_(Windows_XP).png",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:24:09.677Z"
+  },
+  "good:Q891422": {
+    "title": "Boll Weevil Monument",
+    "category": "place",
+    "lat": 31.314444444444444,
+    "lng": -85.85402777777777,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Boll_weevil_monument.jpg/330px-Boll_weevil_monument.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Boll_weevil_monument.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Boll_weevil_monument.jpg",
+      "license": "Public domain",
+      "attribution": "USDA, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:24:44.278Z"
+  },
+  "good:Q5015264": {
+    "title": "Cabazon Dinosaurs",
+    "category": "place",
+    "lat": 33.9201,
+    "lng": -116.773,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cabazon_Dinosaurs%2C_Mr._Rex%2C_2014.jpg/330px-Cabazon_Dinosaurs%2C_Mr._Rex%2C_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cabazon_Dinosaurs%2C_Mr._Rex%2C_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cabazon_Dinosaurs,_Mr._Rex,_2014.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "CityMorgue, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:25:00.744Z"
+  },
+  "good:Q3392861": {
+    "title": "Chamber of Art and Curiosities, Ambras Castle",
+    "category": "place",
+    "lat": 47.25583333,
+    "lng": 11.43388889,
+    "blurb": "Collection of curios from the 16th century.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Innsbruck_2_285.jpg/330px-Innsbruck_2_285.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Innsbruck_2_285.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Innsbruck_2_285.jpg",
+      "license": "Public domain",
+      "attribution": "Daderot, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:32:39.789Z"
+  },
+  "good:Q2302517": {
+    "title": "Ecce Homo (García Martínez and Giménez)",
+    "category": "place",
+    "lat": 41.854675,
+    "lng": -1.57542222,
+    "blurb": "An attempt to restore this fresco caused it to appear like a monkey.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Elias_Garcia_Martinez_-_Ecce_Homo.jpg/330px-Elias_Garcia_Martinez_-_Ecce_Homo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Elias_Garcia_Martinez_-_Ecce_Homo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Elias_Garcia_Martinez_-_Ecce_Homo.jpg",
+      "license": "Public domain",
+      "attribution": "Elías García Martínez, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:33:34.954Z"
+  },
+  "good:Q7981506": {
+    "title": "Equestrian statue of the Duke of Wellington, Glasgow",
+    "category": "place",
+    "lat": 55.8601,
+    "lng": -4.25199,
+    "blurb": "Cone",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Duke_of_Wellington_coned_statue_Glasgow.jpg/330px-Duke_of_Wellington_coned_statue_Glasgow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Duke_of_Wellington_coned_statue_Glasgow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Duke_of_Wellington_coned_statue_Glasgow.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Germanlphoto, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:33:43.890Z"
+  },
+  "good:Q103860284": {
+    "title": "File Under So. Co., Waiting for...",
+    "category": "place",
+    "lat": 44.455733,
+    "lng": -73.217131,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/File_Under_So._Co.%2C_Waiting_for_Sculpture.jpg/330px-File_Under_So._Co.%2C_Waiting_for_Sculpture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/File_Under_So._Co.%2C_Waiting_for_Sculpture.jpg/3840px-File_Under_So._Co.%2C_Waiting_for_Sculpture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:File_Under_So._Co.,_Waiting_for_Sculpture.jpg",
+      "license": "CC BY 4.0",
+      "attribution": "Tessa Bury, CC BY 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:34:01.871Z"
+  },
+  "good:Q4515084": {
+    "title": "Fourth plinth",
+    "category": "place",
+    "lat": 51.5082,
+    "lng": -0.12871,
+    "blurb": "The fourth plinth is the northwest plinth in Trafalgar Square in central London. It was originally intended to hold an equestrian statue of William IV, but remained empty due to lack of funds.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Empty_Fourth_Plinth.jpg/330px-Empty_Fourth_Plinth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Empty_Fourth_Plinth.jpg/3840px-Empty_Fourth_Plinth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Empty_Fourth_Plinth.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Matt Brown, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:34:18.371Z"
+  },
+  "good:Q14997361": {
+    "title": "Hahn/Cock",
+    "category": "place",
+    "lat": 51.50814,
+    "lng": -0.12871,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Hahn-Cock.jpg/330px-Hahn-Cock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Hahn-Cock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Hahn-Cock.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:34:27.952Z"
+  },
+  "good:Q1354391": {
+    "title": "Fremont Troll",
+    "category": "place",
+    "lat": 47.650955,
+    "lng": -122.34728,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/FremontTroll.jpg/330px-FremontTroll.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/FremontTroll.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:FremontTroll.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:34:34.513Z"
+  },
+  "good:Q2376772": {
+    "title": "Gävle goat",
+    "category": "place",
+    "lat": 60.672805555555556,
+    "lng": 17.1465,
+    "blurb": "Arsonists love to target this festive goat",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Yule_goat_Gefle_Sweden_2009_crop.jpg/330px-Yule_goat_Gefle_Sweden_2009_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Yule_goat_Gefle_Sweden_2009_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Yule_goat_Gefle_Sweden_2009_crop.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Tony Nordin; cropped by Beyond My Ken (talk) 17:34, 9 December 2016 (UTC), CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:35:02.369Z"
+  },
+  "good:Q1232073": {
+    "title": "Headington Shark",
+    "category": "place",
+    "lat": 51.75888888888889,
+    "lng": -1.2133333333333334,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20210418_Headington_Shark-2.jpg/330px-20210418_Headington_Shark-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/20210418_Headington_Shark-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:20210418_Headington_Shark-2.jpg",
+      "license": "CC0",
+      "attribution": "Balon Greyjoy, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:35:24.377Z"
+  },
+  "good:Q1345100": {
+    "title": "Kryptos",
+    "category": "place",
+    "lat": 38.952255,
+    "lng": -77.145773,
+    "blurb": "Only three of the four encrypted messages on this sculpture have been solved",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kryptos_sculptor.jpg/330px-Kryptos_sculptor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kryptos_sculptor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kryptos_sculptor.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Jim Sanborn, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:35:52.996Z"
+  },
+  "good:Q11643": {
+    "title": "Museum of Bad Art",
+    "category": "place",
+    "lat": 42.32194444444445,
+    "lng": -71.0625,
+    "blurb": "They're not that bad.",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:36:41.652Z"
+  },
+  "good:Q7196036": {
+    "title": "Pink Lady (art)",
+    "category": "place",
+    "lat": 34.0695,
+    "lng": -118.708,
+    "blurb": "Has a history beyond what you'd expect",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/b/b5/Pink-lady.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/b/b5/Pink-lady.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Pink-lady.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:37:14.301Z"
+  },
+  "good:Q3324623": {
+    "title": "Sacred Cod",
+    "category": "place",
+    "lat": 42.3582,
+    "lng": -71.0637,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sacred_Cod_-_For_Wikipedia.jpg/330px-Sacred_Cod_-_For_Wikipedia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sacred_Cod_-_For_Wikipedia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Sacred_Cod_-_For_Wikipedia.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Liberma, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:38:39.023Z"
+  },
+  "good:Q7444543": {
+    "title": "Secretum (British Museum)",
+    "category": "place",
+    "lat": 51.519,
+    "lng": -0.127,
+    "blurb": "For objects too taboo to be publically exhibited",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/2/24/The_British_Museum%27s_Secretum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/2/24/The_British_Museum%27s_Secretum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:The_British_Museum%27s_Secretum.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:39:19.052Z"
+  },
+  "good:Q2455251": {
+    "title": "Superlambanana",
+    "category": "place",
+    "lat": 53.4109,
+    "lng": -2.98821,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Superlambanana%2C_Tithebarn_Street_2019.jpg/330px-Superlambanana%2C_Tithebarn_Street_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Superlambanana%2C_Tithebarn_Street_2019.jpg/3840px-Superlambanana%2C_Tithebarn_Street_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Superlambanana,_Tithebarn_Street_2019.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "By Phil Nash from Wikimedia Commons CC BY-SA 4.0 & GFDL Views, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:41:29.219Z"
+  },
+  "good:Q3815163": {
+    "title": "Tillie (murals)",
+    "category": "place",
+    "lat": 40.2178,
+    "lng": -74.0031,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Tillie_%28right_side%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Tillie_%28right_side%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Tillie_(right_side).jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:43:11.363Z"
+  },
+  "good:Q1320874": {
+    "title": "Tipu's Tiger",
+    "category": "thing",
+    "lat": 51.494978,
+    "lng": -0.184103,
+    "blurb": "A toy representing colonial Indian sentiment",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tipu%27s_Tiger_front_view_2006AH4173.jpg/330px-Tipu%27s_Tiger_front_view_2006AH4173.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tipu%27s_Tiger_front_view_2006AH4173.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Tipu%27s_Tiger_front_view_2006AH4173.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Victoria and Albert Museum https://collections.vam.ac.uk/item/O61949/mechanical-organ-automaton-tippoos-tiger/, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:43:40.652Z"
+  },
+  "good:Q119286048": {
+    "title": "American Football House",
+    "category": "thing",
+    "lat": 40.109972222222225,
+    "lng": -88.21655555555556,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/American_Football_House_%28corrected%29.jpg/330px-American_Football_House_%28corrected%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/American_Football_House_%28corrected%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:American_Football_House_(corrected).jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "BanjoZebra, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:44:35.091Z"
+  },
+  "good:Q85728271": {
+    "title": "Dave Matthews Band bus incident",
+    "category": "event",
+    "lat": 41.889076,
+    "lng": -87.639371,
+    "blurb": "\"Poopgate\"",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Dave_Matthews_Band_incident.jpg/330px-Dave_Matthews_Band_incident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/4/4b/Dave_Matthews_Band_incident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Dave_Matthews_Band_incident.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:46:52.175Z"
+  },
+  "good:Q68531233": {
+    "title": "Freeze 'Em All",
+    "category": "event",
+    "lat": -62.238139,
+    "lng": -58.678611,
+    "blurb": "Metallica became the first band to perform on all seven continents",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Freeze_%27Em_All_from_Metallica.png/330px-Freeze_%27Em_All_from_Metallica.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/7/77/Freeze_%27Em_All_from_Metallica.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Freeze_%27Em_All_from_Metallica.png",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:47:23.024Z"
+  },
+  "good:Q9006025": {
+    "title": "Metal Open Air",
+    "category": "event",
+    "lat": -2.98480556,
+    "lng": -44.36152778,
+    "blurb": "Metal Open Air was an unsuccessful 2012 heavy metal festival. It took place between 20–22 April, at the Parque Independência, 25 km southeast from downtown São Luís, Maranhão, northeastern Brazil.",
+    "image": null,
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:47:47.099Z"
+  },
+  "good:Q7737953": {
+    "title": "Great Stalacpipe Organ",
+    "category": "thing",
+    "lat": 38.66430555555555,
+    "lng": -78.48380555555556,
+    "blurb": "World's largest instrument",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Stalacpipe_Organ_console_at_Luray_Caverns_%282012-03-24_19.24.12_by_Jon_Callas%29.jpg/330px-Stalacpipe_Organ_console_at_Luray_Caverns_%282012-03-24_19.24.12_by_Jon_Callas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Stalacpipe_Organ_console_at_Luray_Caverns_%282012-03-24_19.24.12_by_Jon_Callas%29.jpg/3840px-Stalacpipe_Organ_console_at_Luray_Caverns_%282012-03-24_19.24.12_by_Jon_Callas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Stalacpipe_Organ_console_at_Luray_Caverns_(2012-03-24_19.24.12_by_Jon_Callas).jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Jon Callas from San Jose, USA, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:47:59.126Z"
+  },
+  "good:Q40237": {
+    "title": "Golden Raspberry Awards",
+    "category": "event",
+    "lat": 34.1,
+    "lng": -118.2,
+    "blurb": "Well, it's not Cannes...",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/Golden_Raspberry_Awards_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/Golden_Raspberry_Awards_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Golden_Raspberry_Awards_logo.png",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:49:02.973Z"
+  },
+  "good:Q2902398": {
+    "title": "Patterson–Gimlin film",
+    "category": "event",
+    "lat": 41.440555555556,
+    "lng": -123.70027777778,
+    "blurb": "Infamous film supposedly depicting Bigfoot",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Patterson_Gimlin_Bigfoot.jpg/330px-Patterson_Gimlin_Bigfoot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Patterson_Gimlin_Bigfoot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Patterson_Gimlin_Bigfoot.jpg",
+      "license": "Public domain",
+      "attribution": "Roger Patterson and Robert Gimlin, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:49:59.787Z"
+  },
+  "good:Q267176": {
+    "title": "Roundhay Garden Scene",
+    "category": "thing",
+    "lat": 53.8255,
+    "lng": -1.4956944444444444,
+    "blurb": "The first ever film, lasting a rousing two seconds",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Roundhay_Garden_Scene_%281888%29_7fps.webm/330px--Roundhay_Garden_Scene_%281888%29_7fps.webm.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Roundhay_Garden_Scene_%281888%29_7fps.webm/960px--Roundhay_Garden_Scene_%281888%29_7fps.webm.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Roundhay_Garden_Scene_(1888)_7fps.webm",
+      "license": "Public domain",
+      "attribution": "Louis Le Prince, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:50:30.028Z"
+  },
+  "good:Q81289506": {
+    "title": "Phil Silvers Archival Museum",
+    "category": "thing",
+    "lat": 52.407444444444444,
+    "lng": -1.4943333333333333,
+    "blurb": "The Phil Silvers Archival Museum in Coventry, England, opened in 2015 and is the only Phil Silvers museum in the world. The museum houses artefacts from Silvers's life including some of his correspondence and clothing.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Phil_silvers_as_bilko.JPG/330px-Phil_silvers_as_bilko.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Phil_silvers_as_bilko.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Phil_silvers_as_bilko.JPG",
+      "license": "Public domain",
+      "attribution": "Milburn McCarty Associates (publicity agency), possibly working for CBS as the network and when the show aired on it is mentioned in the release. Uploaded by We hope at en.wikipedia, Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:51:04.702Z"
+  },
+  "good:Q550412": {
+    "title": "Atari video game burial",
+    "category": "place",
+    "lat": 32.73927777777778,
+    "lng": -105.98936111111111,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Atari_E.T._Dig-_Alamogordo%2C_New_Mexico_%2814036097792%29.jpg/330px-Atari_E.T._Dig-_Alamogordo%2C_New_Mexico_%2814036097792%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Atari_E.T._Dig-_Alamogordo%2C_New_Mexico_%2814036097792%29.jpg/3840px-Atari_E.T._Dig-_Alamogordo%2C_New_Mexico_%2814036097792%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Atari_E.T._Dig-_Alamogordo,_New_Mexico_(14036097792).jpg",
+      "license": "CC BY 2.0",
+      "attribution": "taylorhatmaker, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:51:18.060Z"
+  },
+  "good:Q106617236": {
+    "title": "Josh fight",
+    "category": "event",
+    "lat": 40.8654791,
+    "lng": -96.7842755,
+    "blurb": "",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:51:26.547Z"
+  },
+  "good:Q138025567": {
+    "title": "The Man Who Slipped on the Ice",
+    "category": "event",
+    "lat": 53.34755555555556,
+    "lng": -6.275,
+    "blurb": "An icon of Irish pop culture",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/6/66/Man_Slipping_and_falling_near_the_Four_Courts.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/6/66/Man_Slipping_and_falling_near_the_Four_Courts.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Man_Slipping_and_falling_near_the_Four_Courts.png",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:52:09.561Z"
+  },
+  "good:Q65598167": {
+    "title": "Storm Area 51",
+    "category": "event",
+    "lat": 37.235,
+    "lng": -115.81111111111,
+    "blurb": "Well, it was worth a try",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Alienstock_2019_Music_Festival.jpg/330px-Alienstock_2019_Music_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Alienstock_2019_Music_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Alienstock_2019_Music_Festival.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "David James Henry, CC BY-SA 4.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:53:57.651Z"
+  },
+  "good:Q3528600": {
+    "title": "Techno Viking",
+    "category": "event",
+    "lat": 52.5261,
+    "lng": 13.4037,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Technoviking.jpg/330px-Technoviking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/8/86/Technoviking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Technoviking.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:54:25.729Z"
+  },
+  "good:Q16950132": {
+    "title": "Balloonfest '86",
+    "category": "event",
+    "lat": 41.49972222,
+    "lng": -81.69388889,
+    "blurb": "This balloon launch had significant consequences",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:54:59.625Z"
+  },
+  "good:Q18149735": {
+    "title": "DashCon",
+    "category": "event",
+    "lat": 42.05833333333333,
+    "lng": -88.03666666666666,
+    "blurb": "A disaster, to say the least",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/DashCon_Ball_Pit.jpg/330px-DashCon_Ball_Pit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/7/77/DashCon_Ball_Pit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:DashCon_Ball_Pit.jpg",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:55:21.890Z"
+  },
+  "good:Q130520261": {
+    "title": "Detroit Bridgerton Themed Ball",
+    "category": "event",
+    "lat": 42.33638888888889,
+    "lng": -83.04666666666667,
+    "blurb": "",
+    "image": null,
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:55:30.674Z"
+  },
+  "good:Q11428715": {
+    "title": "Enrei Onodachi Memorial Festival",
+    "category": "event",
+    "lat": 36.091944444444444,
+    "lng": 138.02777777777777,
+    "blurb": "A festival lasting less than a minute",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Enrei_Onodachi_Park_2.jpg/330px-Enrei_Onodachi_Park_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Enrei_Onodachi_Park_2.jpg/3840px-Enrei_Onodachi_Park_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Enrei_Onodachi_Park_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "photo: Qurren (talk) Taken with Canon IXY 430F (Digital IXUS 245 HS), CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:55:51.475Z"
+  },
+  "good:Q30637034": {
+    "title": "Fyre Festival",
+    "category": "event",
+    "lat": 23.635,
+    "lng": -75.9188,
+    "blurb": "This festival's advertising budget way exceeded the actual event budget",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fyre_logo.svg/330px-Fyre_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fyre_logo.svg/960px-Fyre_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Fyre_logo.svg",
+      "license": "Public domain",
+      "attribution": "Fyre Media Inc., Public domain, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:56:34.086Z"
+  },
+  "good:Q584642": {
+    "title": "Kanamara Matsuri",
+    "category": "event",
+    "lat": 35.53454166666666,
+    "lng": 139.72463055555556,
+    "blurb": "Penisfest",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kanamara-matsuri2014.jpg/330px-Kanamara-matsuri2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kanamara-matsuri2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kanamara-matsuri2014.jpg",
+      "license": "CC0",
+      "attribution": "Stealth3327, CC0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:57:00.431Z"
+  },
+  "good:Q6488284": {
+    "title": "Lapland New Forest",
+    "category": "event",
+    "lat": 50.809,
+    "lng": -1.814,
+    "blurb": "Exceedingly crappy theme park",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Advertising_hoarding%2C_Matchams_-_geograph.org.uk_-_1067747.jpg/330px-Advertising_hoarding%2C_Matchams_-_geograph.org.uk_-_1067747.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Advertising_hoarding%2C_Matchams_-_geograph.org.uk_-_1067747.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Advertising_hoarding,_Matchams_-_geograph.org.uk_-_1067747.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Mike Faherty, CC BY-SA 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:57:24.885Z"
+  },
+  "good:Q6826202": {
+    "title": "Mexico City Alebrije Parade",
+    "category": "event",
+    "lat": 19.43270278,
+    "lng": -99.13335,
+    "blurb": "",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ALuchadorZocalo.JPG/330px-ALuchadorZocalo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/ALuchadorZocalo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:ALuchadorZocalo.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Thelmadatter, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:57:35.613Z"
+  },
+  "good:Q124692799": {
+    "title": "Willy's Chocolate Experience",
+    "category": "event",
+    "lat": 55.8725,
+    "lng": -4.3405555555555555,
+    "blurb": "Willy's Chocolate Experience was an unlicensed event based on Charlie and the Chocolate Factory that took place in Glasgow, Scotland, in February 2024, and gained worldwide notoriety for its poor execution. The event was advertised as an immersive and interactive family experience, illustrated on a promotional website with \"dreamlike\" AI-generated imagery.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Willyschocolateexperience.png/330px-Willyschocolateexperience.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/en/6/69/Willyschocolateexperience.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://en.wikipedia.org/wiki/File:Willyschocolateexperience.png",
+      "license": "Fair use",
+      "attribution": "Fair use — non-free, not for reuse",
+      "nonFree": true
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:57:45.424Z"
+  },
+  "good:Q128483489": {
+    "title": "Cornell University pumpkin prank",
+    "category": "event",
+    "lat": 42.44757,
+    "lng": -76.48505,
+    "blurb": "The culprit is still unknown",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/McGrawTowerPumpkin_Inset_zoom.jpg/330px-McGrawTowerPumpkin_Inset_zoom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/McGrawTowerPumpkin_Inset_zoom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:McGrawTowerPumpkin_Inset_zoom.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "User:Wasted Time R, User:Beejamjam, CC BY-SA 3.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "confirmed",
+    "reviewedAt": "2026-09-06T22:58:18.570Z"
+  },
+  "good:Q17499286": {
+    "title": "Dog Meat Festival",
+    "category": "event",
+    "lat": 22.6333,
+    "lng": 110.15,
+    "blurb": "The Dog Meat Festival, also known as the Yulin Dog Meat Festival or Lychee and Dog Meat Festival, is an annual festival held in Yulin, Guangxi, China, during the summer solstice from 21 June to 30 June in which festival observers consume dog meat accompanied by lychees or other plants.",
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dog_on_a_stick.jpg/330px-Dog_on_a_stick.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Dog_on_a_stick.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Dog_on_a_stick.jpg",
+      "license": "CC BY 2.0",
+      "attribution": "Maria Ly, CC BY 2.0, via Wikimedia Commons",
+      "nonFree": false
+    },
+    "status": "skipped",
+    "reviewedAt": "2026-09-06T22:58:38.179Z"
   }
 }

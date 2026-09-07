@@ -1,5 +1,5 @@
 import {Map, Source, Layer, Popup} from 'react-map-gl/maplibre'
-import type { LayerProps, MapLayerMouseEvent } from 'react-map-gl/maplibre'
+import type { LayerProps, MapLayerMouseEvent, ViewStateChangeEvent } from 'react-map-gl/maplibre'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import './App.css'
 import type { FeatureCollection, Point } from 'geojson'
@@ -44,6 +44,71 @@ function rowsToGeojson(rows: PinRow[]): FeatureCollection<Point, PinProperties> 
   }
 }
 
+/*
+Supports caching logic by prefetching pins that are in the user's current viewport.
+*/
+const PREFETCH_MIN_ZOOM = 4; // only start fetching once we're zoomed in enough
+const PREFETCH_MAX_TITLES = 40; // hard limit
+const PREFETCH_DEBOUNCE_MS = 400; // ensure the user has settled on a specific map, measured by staying on the pano for >0.4s
+
+function usePrefetchVisible(pins: FeatureCollection<Point, PinProperties>){
+  const requested = React.useRef(new Set<string>) // already requested titles - avoid duplicate work
+  const timer = React.useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  React.useEffect(() => {
+    return () => {
+      if(timer.current){
+        clearTimeout(timer.current);
+      }
+    };
+  }, [])
+  return React.useCallback((event: ViewStateChangeEvent) => {
+    if(timer.current){
+      clearTimeout(timer.current);
+    }
+    if(event.viewState.zoom < PREFETCH_MIN_ZOOM){
+      return;
+    }
+    
+    const map = event.target;
+    timer.current = setTimeout(() => {
+      const bounds = map.getBounds();
+      const titles: string[] = [];
+      // we can simply iterate over all pins due to relatively low number of them
+      // check if they're within the current viewport (a la bounds) and include iff so
+      for(const feature of pins.features){
+        if(titles.length >= PREFETCH_MAX_TITLES){
+          break;
+        }
+        const title = feature.properties.title;
+        if(requested.current.has(title)){
+          continue;
+        }
+        const [lng, lat] = feature.geometry.coordinates as [number, number];
+        if(!bounds.contains([lng, lat])){
+          continue;
+        }
+        titles.push(title);
+      }
+
+      if(titles.length === 0){
+        return;
+      }
+      titles.forEach((t) => requested.current.add(t));
+
+      fetch('/api/wiki/prefetch', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({titles})
+      }).catch((err) => {
+        titles.forEach((t) => requested.current.delete(t)); // un-poison requested set, allowing later retry
+        console.error('[prefetch] failed to retrieve titles: ', err);
+      });
+
+    }, PREFETCH_DEBOUNCE_MS)
+  }, [pins])
+}
+
 function App() {
 
   interface SelectedPin {
@@ -56,6 +121,7 @@ function App() {
   const [categories, setCategories] = React.useState<string[]>([]);
   const [category, setCategory] = React.useState<string | null>(null);
   const [pins, setPins] = React.useState(EMPTY_PINS);
+  const handleMoveEnd = usePrefetchVisible(pins);
 
   React.useEffect(() => {
     fetch('/api/pins/categories')
@@ -122,6 +188,7 @@ function App() {
       onSelect={setCategory}
       count={pins.features.length}
     />
+
     <Map
         initialViewState={{
           longitude: 0,
@@ -135,6 +202,7 @@ function App() {
         onClick = {(event) => {handleMapClick(event)}}
         // quantised so a continuous pinch/wheel gesture only re-renders in steps
         onZoom = {(event) => setZoom(Math.round(event.viewState.zoom * 4) / 4)}
+        onMoveEnd={handleMoveEnd} // fire when the user "settles" on a specific pan of the map
       >
       <Source id="geojson_data" type="geojson" data={pins}>
         <Layer {...layerStyle}/>

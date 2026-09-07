@@ -5,8 +5,8 @@ Issue: Users who open pins will have to wait 250ms on first load, before the res
 we want to prefetch some results so that this wait time is eliminated.
 
 We use the viewport the user is currently looking at, capping at a certain number of pins to ensure we don't immediately
-reach rate limits - this means that at first load on the zoomed out world map this will certainly instantly reach the cap.
-TODO: This is an issue we can resolve by limiting to certain zoom levels 
+reach rate limits - this is now capped by zoom level as well, to a reasonable point where we can say the user might start
+clicking pins. 
 
 */
 

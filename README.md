@@ -12,3 +12,5 @@ rewrite pinproperties in pin.tsx (and other parts of the file that depend on it)
 if redis is down on startup, try pinging it while the server is running and see if it can restart
 
 more comprehensively add typesafety to ts files in, for example, /server
+
+actually remove the pins flagged with rem
