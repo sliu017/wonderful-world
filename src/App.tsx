@@ -47,8 +47,8 @@ function rowsToGeojson(rows: PinRow[]): FeatureCollection<Point, PinProperties> 
 /* ---- map style ------------------------------------------------------------
 a few different options for the map
 */
-const MAP_STYLE = 'https://tiles.openfreemap.org/styles/positron';
-// const MAP_STYLE = 'https://tiles.openfreemap.org/styles/liberty';
+// const MAP_STYLE = 'https://tiles.openfreemap.org/styles/positron';
+const MAP_STYLE = 'https://tiles.openfreemap.org/styles/liberty';
 // const MAP_STYLE = 'https://tiles.openfreemap.org/styles/bright';
 // const MAP_STYLE = 'https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json';
 // const MAP_STYLE = 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json';
