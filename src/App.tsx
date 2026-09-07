@@ -44,7 +44,19 @@ function rowsToGeojson(rows: PinRow[]): FeatureCollection<Point, PinProperties> 
   }
 }
 
-/*
+/* ---- map style ------------------------------------------------------------
+a few different options for the map
+*/
+const MAP_STYLE = 'https://tiles.openfreemap.org/styles/positron';
+// const MAP_STYLE = 'https://tiles.openfreemap.org/styles/liberty';
+// const MAP_STYLE = 'https://tiles.openfreemap.org/styles/bright';
+// const MAP_STYLE = 'https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json';
+// const MAP_STYLE = 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json';
+// const MAP_STYLE = 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json';
+
+
+
+/* ---- prefetch -------------------------------------------------------------
 Supports caching logic by prefetching pins that are in the user's current viewport.
 */
 const PREFETCH_MIN_ZOOM = 4; // only start fetching once we're zoomed in enough
@@ -196,7 +208,7 @@ function App() {
           zoom: INITIAL_ZOOM
         }}
         style={{width:"1125px", height:"640px"}}
-        mapStyle="https://tiles.openfreemap.org/styles/liberty"
+        mapStyle={MAP_STYLE}
         projection={{'type': "globe"}}
         interactiveLayerIds={['point']}
         onClick = {(event) => {handleMapClick(event)}}
