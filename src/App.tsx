@@ -190,59 +190,95 @@ function App() {
   }
 
   return (
-    <>
-    <header className="App-header">
-      <h1>MapLibre GL JS with React</h1>
-    </header>
-    <FilterPanel
-      categories={categories}
-      selectedCategory={category}
-      onSelect={setCategory}
-      count={pins.features.length}
-    />
-
-    <Map
-        initialViewState={{
-          longitude: 0,
-          latitude: 0,
-          zoom: INITIAL_ZOOM
-        }}
-        style={{width:"1125px", height:"640px"}}
-        mapStyle={MAP_STYLE}
-        projection={{'type': "globe"}}
-        interactiveLayerIds={['point']}
-        onClick = {(event) => {handleMapClick(event)}}
-        // quantised so a continuous pinch/wheel gesture only re-renders in steps
-        onZoom = {(event) => setZoom(Math.round(event.viewState.zoom * 4) / 4)}
-        onMoveEnd={handleMoveEnd} // fire when the user "settles" on a specific pan of the map
-      >
-      <Source id="geojson_data" type="geojson" data={pins}>
-        <Layer {...layerStyle}/>
-      </Source>
-      {selectedPin &&
-        <Popup
-          longitude={selectedPin.lng}
-          latitude={selectedPin.lat}
-          onClose = {() => setSelectedPin(null)}
-          // no fixed anchor: MapLibre flips the card below/beside the marker
-          // when there isn't room above, so the image can't run off the top
-          offset={12}
-          className="pin-popup"
-          closeButton={false} // we will create a custom close button
-          maxWidth="none"
-          // prevent jarring scroll jump when a pin is selected
-          focusAfterOpen={false}
+    <div className="ww">
+      <div className="ww__map">
+        <Map
+          initialViewState={{ longitude: 0, latitude: 0, zoom: INITIAL_ZOOM }}
+          style={{ width: '100%', height: '100%' }}
+          mapStyle={MAP_STYLE}
+          projection={{ type: 'globe' }}
+          interactiveLayerIds={['point']}
+          onClick={handleMapClick}
+          onMoveEnd={handleMoveEnd}
         >
-          <Pin pin={selectedPin.props} width={popupWidth} onClose={() => setSelectedPin(null)}/>
-        </Popup>
-      }
-    </Map>
+          <Source id="geojson_data" type="geojson" data={pins}>
+            <Layer {...layerStyle} />
+          </Source>
+        </Map>
 
+        <h1 className="ww__wordmark">Wonderful World</h1>
+        <FilterPanel
+          categories={categories}
+          selectedCategory={category}
+          onSelect={setCategory}
+          count={pins.features.length}
+        />
+        <div className="ww__count">{pins.features.length} entries</div>
+      </div>
 
-    <footer className="App-footer">
-    </footer>
-    </>
+      <aside className="ww__panel">
+        {selectedPin
+          && <Pin pin={selectedPin.props} onClose={() => setSelectedPin(null)} />
+        }
+      </aside>
+    </div>
+    
   )
+
+  // return (
+  //   <>
+  //   <header className="App-header">
+  //     <h1>MapLibre GL JS with React</h1>
+  //   </header>
+  //   <FilterPanel
+  //     categories={categories}
+  //     selectedCategory={category}
+  //     onSelect={setCategory}
+  //     count={pins.features.length}
+  //   />
+
+  //   <Map
+  //       initialViewState={{
+  //         longitude: 0,
+  //         latitude: 0,
+  //         zoom: INITIAL_ZOOM
+  //       }}
+  //       style={{width:"1125px", height:"640px"}}
+  //       mapStyle={MAP_STYLE}
+  //       projection={{'type': "globe"}}
+  //       interactiveLayerIds={['point']}
+  //       onClick = {(event) => {handleMapClick(event)}}
+  //       // quantised so a continuous pinch/wheel gesture only re-renders in steps
+  //       onZoom = {(event) => setZoom(Math.round(event.viewState.zoom * 4) / 4)}
+  //       onMoveEnd={handleMoveEnd} // fire when the user "settles" on a specific pan of the map
+  //     >
+  //     <Source id="geojson_data" type="geojson" data={pins}>
+  //       <Layer {...layerStyle}/>
+  //     </Source>
+  //     {selectedPin &&
+  //       <Popup
+  //         longitude={selectedPin.lng}
+  //         latitude={selectedPin.lat}
+  //         onClose = {() => setSelectedPin(null)}
+  //         // no fixed anchor: MapLibre flips the card below/beside the marker
+  //         // when there isn't room above, so the image can't run off the top
+  //         offset={12}
+  //         className="pin-popup"
+  //         closeButton={false} // we will create a custom close button
+  //         maxWidth="none"
+  //         // prevent jarring scroll jump when a pin is selected
+  //         focusAfterOpen={false}
+  //       >
+  //         <Pin pin={selectedPin.props} width={popupWidth} onClose={() => setSelectedPin(null)}/>
+  //       </Popup>
+  //     }
+  //   </Map>
+
+
+  //   <footer className="App-footer">
+  //   </footer>
+  //   </>
+  // )
 }
 
 export default App
