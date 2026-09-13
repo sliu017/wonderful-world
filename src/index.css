@@ -20,21 +20,10 @@
   --ui: 'Jost', 'Futura', 'Century Gothic', system-ui, sans-serif;
   --mono: ui-monospace, Consolas, monospace;
 
-  /* ---- aliases ----------------------------------------------------------
-  for consistency with Pin.css while working on merging into one overarching stylesheet
-  */
-  --text: var(--ink-2);
-  --text-h: var(--ink);
-  --border: var(--panel-border);
-  --code-bg: var(--image-bg);
-  --pin-rule: var(--rule);
-  --sans: var(--ui);
-  --heading: var(--serif);
-
   font: 18px/145% var(--serif);
   letter-spacing: 0.18px;
   color-scheme: light;
-  color: var(--text);
+  color: var(--ink-2);
   background: var(--bg);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -47,7 +36,7 @@
 }
 
 #root {
-  width: 100;
+  width: 100%;
   margin: 0;
   text-align: left;
   height: 100svh;
@@ -61,9 +50,9 @@ body {
 
 h1,
 h2 {
-  font-family: var(--heading);
+  font-family: var(--serif);
   font-weight: 500;
-  color: var(--text-h);
+  color: var(--ink);
 }
 
 h1 {
@@ -93,12 +82,12 @@ code,
   font-family: var(--mono);
   display: inline-flex;
   border-radius: 4px;
-  color: var(--text-h);
+  color: var(--ink);
 }
 
 code {
   font-size: 15px;
   line-height: 135%;
   padding: 4px 8px;
-  background: var(--code-bg);
+  background: var(--image-bg);
 }

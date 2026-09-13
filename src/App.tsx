@@ -1,4 +1,4 @@
-import {Map, Source, Layer, Popup} from 'react-map-gl/maplibre'
+import {Map, Source, Layer} from 'react-map-gl/maplibre'
 import type { LayerProps, MapLayerMouseEvent, ViewStateChangeEvent } from 'react-map-gl/maplibre'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import './App.css'
@@ -129,7 +129,7 @@ function App() {
     lat: number,
   }
   const [selectedPin, setSelectedPin] = React.useState<SelectedPin | null>(null);
-  const [zoom, setZoom] = React.useState(INITIAL_ZOOM);
+  // const [zoom, setZoom] = React.useState(INITIAL_ZOOM);
   const [categories, setCategories] = React.useState<string[]>([]);
   const [category, setCategory] = React.useState<string | null>(null);
   const [pins, setPins] = React.useState(EMPTY_PINS);
@@ -155,10 +155,10 @@ function App() {
     setSelectedPin(null);
   }, [category]);
 
-  // allows for popup to scale with zoom, uses a slope formula to determine max 
-  const popupWidth = Math.round(
-    Math.min(260, Math.max(260, 380 - (zoom - 2) * 10))
-  );
+  // // allows for popup to scale with zoom, uses a slope formula to determine max 
+  // const popupWidth = Math.round(
+  //   Math.min(260, Math.max(260, 380 - (zoom - 2) * 10))
+  // );
 
   const layerStyle: LayerProps = {
     id: "point",
