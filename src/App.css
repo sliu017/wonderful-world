@@ -1,6 +1,39 @@
-.App-header{
-  padding: 40px;
+.ww{
+  display: flex;
+  height: 100svh;
+  overflow: hidden;
+  background: var(--bg); /* from index.css */
 }
-.App-footer{
-  padding:80px;
+
+.ww__map {
+  position: relative;
+  flex: 1 1 auto;
+  min-width: 0; /* try removing this and see what happens */
+}
+
+.ww__panel {
+  flex: 0 0 430px;
+  display: flex;
+  flex-direction: column;
+  background: var(--panel);
+  border-left: 1px solid var(--panel-border);
+  overflow-y: auto;
+}
+
+.ww__wordmark {
+  position: absolute;
+  top: 44px;
+  left: 48px;
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 23px;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+
+.ww__count {
+  position: absolute; left: 48px; bottom: 44px;
+  font-family: var(--ui); font-size: 10px;
+  letter-spacing: 0.19em; text-transform: uppercase; color: var(--ink-3);
 }
